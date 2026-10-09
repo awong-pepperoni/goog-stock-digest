@@ -14,6 +14,7 @@
       "valuation": "Valuation",
       "sentiment": "Sentiment",
       "unverified": "Unverified claims",
+      "coverage": "Coverage",
       "other": "Other"
     }
   },
@@ -144,6 +145,37 @@
               "updated": null
             }
           ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> GOOG_Stock.",
+              "html": "<p><strong>Read:</strong> GOOG_Stock. <strong>Sources checked:</strong> Alphabet's SEC filings since 20 September, Alphabet investor relations, the Google Gemini blog and the Google Cloud AI blog.</p>",
+              "text": "Read: GOOG_Stock. Sources checked: Alphabet's SEC filings since 20 September, Alphabet investor relations, the Google Gemini blog and the Google Cloud AI blog.",
+              "status": null,
+              "status_html": null,
+              "updated": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong>",
+              "html": "<p><strong>Announced, not discussed:</strong></p>\n<ul>\n<li><strong>Q3 2026 results: Wednesday 28 October, with the call at 1:30pm Pacific (4:30pm Eastern).</strong> Alphabet announced the date on 6 October.</li>\n<li><strong>Executive Form 4s on 29 September are stock-award vestings, not open-market sales.</strong> They cover Sundar Pichai, Ruth Porat, Anat Ashkenazi, Kent Walker, Philipp Schindler and Marsida Saraci. Each records units converting to shares and shares withheld for tax at $339.01 (transaction codes C and F). Separately, director Frances Arnold sold 83 shares under a 10b5-1 plan.</li>\n</ul>",
+              "text": "Announced, not discussed: Q3 2026 results: Wednesday 28 October, with the call at 1:30pm Pacific (4:30pm Eastern). Alphabet announced the date on 6 October. Executive Form 4s on 29 September are stock-award vestings, not open-market sales. They cover Sundar Pichai, Ruth Porat, Anat Ashkenazi, Kent Walker, Philipp Schindler and Marsida Saraci. Each records units converting to shares and shares withheld for tax at $339.01 (transaction codes C and F). Separately, director Frances Arnold sold 83 shares under a 10b5-1 plan. Verified against Alphabet's release Status: Verified against the filings",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Date-of-Third-Quarter-2026-Financial-Results-Conference-Call-2026-8tpGZsLS6v/default.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Alphabet's release</a> Status: <strong>Verified</strong> against the filings</p>",
+              "updated": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong> googl (the ticker) and openai (covered as competitor context in the Argon item).",
+              "html": "<p><strong>Flagged terms set aside:</strong> <em>googl</em> (the ticker) and <em>openai</em> (covered as competitor context in the Argon item).</p>",
+              "text": "Flagged terms set aside: googl (the ticker) and openai (covered as competitor context in the Argon item).",
+              "status": null,
+              "status_html": null,
+              "updated": null
+            }
+          ]
         }
       ]
     }
@@ -191,6 +223,21 @@
           "text": "Constellation nuclear agreements. A 20-year deal covers 890 MW of new capacity from upgrades at 11 reactors, with the first expected by 2028. A 15-year agreement covers 2,700 MW of existing capacity. Verified against Constellation's release · 2026-10-08",
           "status": "verified",
           "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.constellationenergy.com/news/2026/10/google-and-constellation-announce-landmark-agreement-to-bring-890-mw-of-new-nuclear-capacity-to-pjm-grid.html\" target=\"_blank\" rel=\"noopener noreferrer\">Constellation's release</a> · 2026-10-08</p>",
+          "updated": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "theme": "Earnings and guidance",
+      "sub": false,
+      "lead_html": null,
+      "items": [
+        {
+          "headline": "<strong>Q3 2026 results: Wednesday 28 October, with the call at 1:30pm Pacific (4:30pm Eastern).</strong>",
+          "html": "<p><strong>Q3 2026 results: Wednesday 28 October, with the call at 1:30pm Pacific (4:30pm Eastern).</strong> Check the Gemini 4 Argon availability entry against what management says on the call.</p>",
+          "text": "Q3 2026 results: Wednesday 28 October, with the call at 1:30pm Pacific (4:30pm Eastern). Check the Gemini 4 Argon availability entry against what management says on the call. Verified against Alphabet's release · 2026-10-08",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Date-of-Third-Quarter-2026-Financial-Results-Conference-Call-2026-8tpGZsLS6v/default.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Alphabet's release</a> · 2026-10-08</p>",
           "updated": "2026-10-08"
         }
       ]
