@@ -17,7 +17,8 @@
       "unverified": "Unverified claims",
       "coverage": "Coverage",
       "other": "Other"
-    }
+    },
+    "source_note": "from Reddit's hot threads"
   },
   "digests": [
     {
@@ -32,11 +33,17 @@
           "items": [
             {
               "headline": "<strong>Gemini 4 Argon is announced, but most people can't use it yet, and that gap is setting the sub's mood.</strong>",
-              "html": "<p><strong>Gemini 4 Argon is announced, but most people can't use it yet, and that gap is setting the sub's mood.</strong> Google announced it on 30 September and is rolling it out only to its Fairwind cyber-defender program. Paid API customers and AI Ultra subscribers come next, with no date given.</p>\n<ul>\n<li><strong>Why it matters:</strong> it is Google's new frontier model, and the stock fell on the announcement. Members read that as the market pricing in slow execution: &quot;announced&quot; is not &quot;shipped&quot;.</li>\n<li><strong>What to watch:</strong> the date Argon reaches paid API and Ultra users; whether management gives one on the Q3 call, on Wednesday 28 October at 1:30pm Pacific</li>\n<li><strong>Numbers:</strong> introductory API pricing is $2 input and $10 output per million tokens, per Google. Members' benchmark comparisons are Google's or their own.</li>\n<li><strong>Caveats:</strong> the &quot;execution discount&quot; is the sub's explanation, not a measured fact.</li>\n<li><strong>Read next:</strong> <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/\" target=\"_blank\" rel=\"noopener noreferrer\">Google's Argon announcement</a></li>\n</ul>",
-              "text": "Gemini 4 Argon is announced, but most people can't use it yet, and that gap is setting the sub's mood. Google announced it on 30 September and is rolling it out only to its Fairwind cyber-defender program. Paid API customers and AI Ultra subscribers come next, with no date given. Why it matters: it is Google's new frontier model, and the stock fell on the announcement. Members read that as the market pricing in slow execution: \"announced\" is not \"shipped\". What to watch: the date Argon reaches paid API and Ultra users; whether management gives one on the Q3 call, on Wednesday 28 October at 1:30pm Pacific Numbers: introductory API pricing is $2 input and $10 output per million tokens, per Google. Members' benchmark comparisons are Google's or their own. Caveats: the \"execution discount\" is the sub's explanation, not a measured fact. Read next: Google's Argon announcement Verified for availability and the earnings date",
+              "html": "<p><strong>Gemini 4 Argon is announced, but most people can't use it yet, and that gap is setting the sub's mood.</strong> Google announced it on 30 September and is rolling it out only to its Fairwind cyber-defender program. Paid API customers and AI Ultra subscribers come next, with no date given.</p>\n<ul>\n<li><strong>Why it matters:</strong> it is Google's new frontier model, and the stock fell on the announcement. Members read that as the market pricing in slow execution: &quot;announced&quot; is not &quot;shipped&quot;.</li>\n<li><strong>What to watch:</strong> the date Argon reaches paid API and Ultra users; whether management gives one on the Q3 call, on Wednesday 28 October at 1:30pm Pacific</li>\n<li><strong>Numbers:</strong> introductory API pricing is $2 input and $10 output per million tokens, per Google. Members' benchmark comparisons are Google's or their own.</li>\n<li><strong>Caveats:</strong> the &quot;execution discount&quot; is the sub's explanation, not a measured fact. <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1wv9ewd/\" target=\"_blank\" rel=\"noopener noreferrer\">The &quot;why is it down&quot; thread</a> (135 comments) also blames rising bond yields, and a Bloomberg article that a DeepMind researcher reportedly called inaccurate; neither was checked. One member says the model trails competitors' best, and that is the disappointment.</li>\n<li><strong>Read next:</strong> <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/\" target=\"_blank\" rel=\"noopener noreferrer\">Google's Argon announcement</a></li>\n</ul>",
+              "text": "Gemini 4 Argon is announced, but most people can't use it yet, and that gap is setting the sub's mood. Google announced it on 30 September and is rolling it out only to its Fairwind cyber-defender program. Paid API customers and AI Ultra subscribers come next, with no date given. Why it matters: it is Google's new frontier model, and the stock fell on the announcement. Members read that as the market pricing in slow execution: \"announced\" is not \"shipped\". What to watch: the date Argon reaches paid API and Ultra users; whether management gives one on the Q3 call, on Wednesday 28 October at 1:30pm Pacific Numbers: introductory API pricing is $2 input and $10 output per million tokens, per Google. Members' benchmark comparisons are Google's or their own. Caveats: the \"execution discount\" is the sub's explanation, not a measured fact. The \"why is it down\" thread (135 comments) also blames rising bond yields, and a Bloomberg article that a DeepMind researcher reportedly called inaccurate; neither was checked. One member says the model trails competitors' best, and that is the disappointment. Read next: Google's Argon announcement Verified for availability and the earnings date",
               "status": "verified",
               "status_html": "<p><strong>Verified</strong> for availability and the earnings date</p>",
-              "updated": null
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock",
+                "Google"
+              ],
+              "due": null,
+              "due_label": null
             }
           ]
         },
@@ -51,7 +58,13 @@
               "text": "Google signed a 20-year nuclear power purchase agreement with Constellation for 890 MW of new capacity. It will come from upgrades at 11 Constellation reactors in Illinois, Pennsylvania and New Jersey, backed by \"more than $4.3 billion of new investment by Constellation\". The first upgrade is expected by 2028. A separate 15-year agreement covers 2,700 MW of Constellation's existing fleet. The thread was posted while the deal was still reported as \"nearing\" and worth \"$1 billion-plus\". Comments mostly complain that the news didn't move the stock. Verified against Constellation's 6 October release . The earlier \"$1 billion-plus\" figure came from the Bloomberg report that preceded it.",
               "status": "verified",
               "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.constellationenergy.com/news/2026/10/google-and-constellation-announce-landmark-agreement-to-bring-890-mw-of-new-nuclear-capacity-to-pjm-grid.html\" target=\"_blank\" rel=\"noopener noreferrer\">Constellation's 6 October release</a>. The earlier &quot;$1 billion-plus&quot; figure came from the Bloomberg report that preceded it.</p>",
-              "updated": null
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock",
+                "Constellation"
+              ],
+              "due": null,
+              "due_label": null
             }
           ]
         },
@@ -61,20 +74,18 @@
           "lead_html": null,
           "items": [
             {
-              "headline": "<strong>Gemini 4 Argon was announced on 30 September but is not generally available.</strong>",
-              "html": "<p><strong>Gemini 4 Argon was announced on 30 September but is not generally available.</strong> Per Google, it is &quot;rolling out to a set of trusted cyber defenders through our Fairwind Program&quot;. Next it goes to &quot;paid API customers and Google AI Ultra subscribers&quot;, with no date given. This gap drives the sub's mood. The benchmark thread drew &quot;you can't run those benchmarks yourself&quot;, and <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1wv9ewd/\" target=\"_blank\" rel=\"noopener noreferrer\">the &quot;why is it down&quot; thread</a> (135 comments) mostly lands on execution. One commenter says other labs release models straight after training, and that the market is &quot;pricing in that leadership at goog seems to move slower&quot;. Another says the model trails competitors' best, and that's the disappointment. Others blame rising bond yields and a Bloomberg article that a DeepMind researcher reportedly called inaccurate. Neither the article nor the tweet was checked.</p>",
-              "text": "Gemini 4 Argon was announced on 30 September but is not generally available. Per Google, it is \"rolling out to a set of trusted cyber defenders through our Fairwind Program\". Next it goes to \"paid API customers and Google AI Ultra subscribers\", with no date given. This gap drives the sub's mood. The benchmark thread drew \"you can't run those benchmarks yourself\", and the \"why is it down\" thread (135 comments) mostly lands on execution. One commenter says other labs release models straight after training, and that the market is \"pricing in that leadership at goog seems to move slower\". Another says the model trails competitors' best, and that's the disappointment. Others blame rising bond yields and a Bloomberg article that a DeepMind researcher reportedly called inaccurate. Neither the article nor the tweet was checked. Verified for the availability, against Google's announcement . All benchmark comparisons in the threads are Google's or members' claims.",
-              "status": "verified",
-              "status_html": "<p><strong>Verified</strong> for the availability, against <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/\" target=\"_blank\" rel=\"noopener noreferrer\">Google's announcement</a>. All benchmark comparisons in the threads are Google's or members' claims.</p>",
-              "updated": null
-            },
-            {
               "headline": "<strong>Google Cloud launched &quot;Gemini agent&quot;, a single &quot;universal agent for work&quot;.</strong>",
               "html": "<p><strong>Google Cloud launched &quot;Gemini agent&quot;, a single &quot;universal agent for work&quot;.</strong> Google describes it as one agent that &quot;answers your questions, handles your knowledge work, creates your images and media, and writes and runs code&quot;. It works inside Gmail, Docs, Sheets and the rest of Workspace, and also Microsoft 365 and Slack. The core is generally available; the financial-services and legal specializations are in preview. In <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1x0s2ha/\" target=\"_blank\" rel=\"noopener noreferrer\">the thread</a>, the reaction is that any rise in the stock &quot;already faded&quot;.</p>",
               "text": "Google Cloud launched \"Gemini agent\", a single \"universal agent for work\". Google describes it as one agent that \"answers your questions, handles your knowledge work, creates your images and media, and writes and runs code\". It works inside Gmail, Docs, Sheets and the rest of Workspace, and also Microsoft 365 and Slack. The core is generally available; the financial-services and legal specializations are in preview. In the thread , the reaction is that any rise in the stock \"already faded\". Verified against the Google Cloud blog, 8 October .",
               "status": "verified",
               "status_html": "<p><strong>Verified</strong> against <a href=\"https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026\" target=\"_blank\" rel=\"noopener noreferrer\">the Google Cloud blog, 8 October</a>.</p>",
-              "updated": null
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock",
+                "Google Cloud"
+              ],
+              "due": null,
+              "due_label": null
             },
             {
               "headline": "<strong>Free Gemini users are limited to Flash-Lite from 9 October.</strong>",
@@ -82,7 +93,13 @@
               "text": "Free Gemini users are limited to Flash-Lite from 9 October. Flash and Pro are removed from free accounts, and the $4.99 AI Plus tier loses Pro. The poster reads it as Google conserving compute for paying customers in answer to Wall Street's worry about capital spending. Replies note the change is an operating cost, not capital spending. The sharpest critique, from another thread , is about timing: restricting free tiers while the new model has no release date makes the change \"look cheap and punitive\". Reported, from Engadget's coverage ; Google's own notice was not found.",
               "status": "reported",
               "status_html": "<p>Reported, from <a href=\"https://www.engadget.com/2278504/google-removes-free-access-gemini-flash-pro-october-9/\" target=\"_blank\" rel=\"noopener noreferrer\">Engadget's coverage</a>; Google's own notice was not found.</p>",
-              "updated": null
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock",
+                "Engadget"
+              ],
+              "due": null,
+              "due_label": null
             }
           ]
         },
@@ -97,7 +114,10 @@
               "text": "TD Cowen kept a Buy rating and raised its target to $485 from $475. KeyBanc reiterated Overweight with a $435 target. The comments shrug: \"Analysts reiterates that we should be ignoring the analysts\". Reported · from aggregator posts; the notes are paywalled and not read.",
               "status": "reported",
               "status_html": "<p>Reported · from aggregator posts; the notes are paywalled and not read.</p>",
-              "updated": null
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
             }
           ]
         },
@@ -112,7 +132,12 @@
               "text": "\"Google is lagging MSFT, META, AMZN, NVDA year to date.\" The post says it's stuck below $350. The top reply says the stock went \"from 140.00 last year to 400.00 this year\" and is still up about 10% this year. Another commenter cites a P/E of 17 and Alphabet's stake in a major AI lab as reasons the selling looks overdone. Single source · figures as posted, not checked.",
               "status": "single-source",
               "status_html": "<p>Single source · figures as posted, not checked.</p>",
-              "updated": null
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock"
+              ],
+              "due": null,
+              "due_label": null
             },
             {
               "headline": "<strong>&quot;Google is the AI arms dealer.&quot;</strong>",
@@ -120,7 +145,12 @@
               "text": "\"Google is the AI arms dealer.\" The post argues Alphabet earns from rivals through TPU and cloud sales and its stake in Anthropic, so model rankings matter less. The best reply rejects the idea that Alphabet is a hedge against AI. It says Alphabet \"still gets decimated if there is a pullback in AI spending\", and that search being displaced by assistants is the real threat to the bull case. Single source · an argument, not a finding.",
               "status": "single-source",
               "status_html": "<p>Single source · an argument, not a finding.</p>",
-              "updated": null
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock"
+              ],
+              "due": null,
+              "due_label": null
             }
           ]
         },
@@ -135,7 +165,10 @@
               "text": "The mood is frustrated. Members point out that the stock fell when Gemini 4 was delayed and fell again when it was announced. A recurring line is that Alphabet carries an \"execution discount\" like Meta's before it turned around.",
               "status": null,
               "status_html": null,
-              "updated": null
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
             },
             {
               "headline": "Many members, especially recent buyers, are underwater and say they&#x27;re holding.",
@@ -143,7 +176,10 @@
               "text": "Many members, especially recent buyers, are underwater and say they're holding.",
               "status": null,
               "status_html": null,
-              "updated": null
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
             }
           ]
         },
@@ -158,7 +194,12 @@
               "text": "\"They will spin off Isomorphic Labs soon.\" It's a single comment in a thread on possible spin-offs . Isomorphic is already a separate Alphabet company that spun out of DeepMind in 2021, and it raised a $2.1 billion Series B in May 2026 with Alphabet participating. I found no announced plan to spin it off from Alphabet. Unconfirmed · checked news coverage of Isomorphic's 2026 financing; no spin-off announcement found.",
               "status": "unconfirmed",
               "status_html": "<p><strong>Unconfirmed</strong> · checked news coverage of Isomorphic's 2026 financing; no spin-off announcement found.</p>",
-              "updated": null
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock"
+              ],
+              "due": null,
+              "due_label": null
             }
           ]
         },
@@ -173,7 +214,10 @@
               "text": "Read: GOOG_Stock. Sources checked: Alphabet's SEC filings since 20 September, Alphabet investor relations, the Google Gemini blog and the Google Cloud AI blog.",
               "status": null,
               "status_html": null,
-              "updated": null
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
             },
             {
               "headline": "<strong>Announced, not discussed:</strong>",
@@ -181,7 +225,12 @@
               "text": "Announced, not discussed: Q3 2026 results: Wednesday 28 October, with the call at 1:30pm Pacific (4:30pm Eastern). Alphabet announced the date on 6 October. Executive Form 4s on 29 September are stock-award vestings, not open-market sales. They cover Sundar Pichai, Ruth Porat, Anat Ashkenazi, Kent Walker, Philipp Schindler and Marsida Saraci. Each records units converting to shares and shares withheld for tax at $339.01 (transaction codes C and F). Separately, director Frances Arnold sold 83 shares under a 10b5-1 plan. Verified against Alphabet's release Status: Verified against the filings",
               "status": "verified",
               "status_html": "<p><strong>Verified</strong> against <a href=\"https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Date-of-Third-Quarter-2026-Financial-Results-Conference-Call-2026-8tpGZsLS6v/default.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Alphabet's release</a> Status: <strong>Verified</strong> against the filings</p>",
-              "updated": null
+              "updated": null,
+              "sources": [
+                "Alphabet"
+              ],
+              "due": null,
+              "due_label": null
             },
             {
               "headline": "<strong>Flagged terms set aside:</strong> googl (the ticker) and openai (covered as competitor context in the Argon item).",
@@ -189,7 +238,10 @@
               "text": "Flagged terms set aside: googl (the ticker) and openai (covered as competitor context in the Argon item).",
               "status": null,
               "status_html": null,
-              "updated": null
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
             }
           ]
         }
@@ -208,7 +260,12 @@
           "text": "Gemini 4 Argon: announced 30 September 2026, not yet generally available. It is rolling out to cyber defenders in the Fairwind Program first, then \"paid API customers and Google AI Ultra subscribers\", with no date. Update this entry when it reaches general release; the sub's mood depends on it. Verified against Google's announcement · 2026-10-08",
           "status": "verified",
           "status_html": "<p><strong>Verified</strong> against <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/\" target=\"_blank\" rel=\"noopener noreferrer\">Google's announcement</a> · 2026-10-08</p>",
-          "updated": "2026-10-08"
+          "updated": "2026-10-08",
+          "sources": [
+            "Google"
+          ],
+          "due": null,
+          "due_label": null
         },
         {
           "headline": "<strong>Free Gemini accounts are limited to Flash-Lite from 9 October 2026.</strong>",
@@ -216,7 +273,12 @@
           "text": "Free Gemini accounts are limited to Flash-Lite from 9 October 2026. The AI Plus tier keeps Flash and loses Pro. Reported, from Engadget ; Google's own notice was not found · 2026-10-08",
           "status": "reported",
           "status_html": "<p>Reported, from <a href=\"https://www.engadget.com/2278504/google-removes-free-access-gemini-flash-pro-october-9/\" target=\"_blank\" rel=\"noopener noreferrer\">Engadget</a>; Google's own notice was not found · 2026-10-08</p>",
-          "updated": "2026-10-08"
+          "updated": "2026-10-08",
+          "sources": [
+            "Engadget"
+          ],
+          "due": null,
+          "due_label": null
         },
         {
           "headline": "<strong>Gemini agent for Google Cloud and Workspace.</strong>",
@@ -224,7 +286,12 @@
           "text": "Gemini agent for Google Cloud and Workspace. The core is generally available; the financial-services and legal specializations are in preview, and government, healthcare and retail are \"coming soon\". Verified against the Google Cloud blog · 2026-10-08",
           "status": "verified",
           "status_html": "<p><strong>Verified</strong> against <a href=\"https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026\" target=\"_blank\" rel=\"noopener noreferrer\">the Google Cloud blog</a> · 2026-10-08</p>",
-          "updated": "2026-10-08"
+          "updated": "2026-10-08",
+          "sources": [
+            "Google Cloud"
+          ],
+          "due": null,
+          "due_label": null
         }
       ]
     },
@@ -239,7 +306,12 @@
           "text": "Constellation nuclear agreements. A 20-year deal covers 890 MW of new capacity from upgrades at 11 reactors, with the first expected by 2028. A 15-year agreement covers 2,700 MW of existing capacity. Verified against Constellation's release · 2026-10-08",
           "status": "verified",
           "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.constellationenergy.com/news/2026/10/google-and-constellation-announce-landmark-agreement-to-bring-890-mw-of-new-nuclear-capacity-to-pjm-grid.html\" target=\"_blank\" rel=\"noopener noreferrer\">Constellation's release</a> · 2026-10-08</p>",
-          "updated": "2026-10-08"
+          "updated": "2026-10-08",
+          "sources": [
+            "Constellation"
+          ],
+          "due": null,
+          "due_label": null
         }
       ]
     },
@@ -254,7 +326,12 @@
           "text": "Q3 2026 results: Wednesday 28 October, with the call at 1:30pm Pacific (4:30pm Eastern). Check the Gemini 4 Argon availability entry against what management says on the call. Verified against Alphabet's release · 2026-10-08",
           "status": "verified",
           "status_html": "<p><strong>Verified</strong> against <a href=\"https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Date-of-Third-Quarter-2026-Financial-Results-Conference-Call-2026-8tpGZsLS6v/default.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Alphabet's release</a> · 2026-10-08</p>",
-          "updated": "2026-10-08"
+          "updated": "2026-10-08",
+          "sources": [
+            "Alphabet"
+          ],
+          "due": "2026-10-28",
+          "due_label": "results and call"
         }
       ]
     },
@@ -269,7 +346,10 @@
           "text": "Alphabet trades at an \"execution discount\". The sub's explanation for the stock falling on good news is that the market doubts leadership can ship on time. It is argued from release timing, not from any data. Single source each time; a debate, not a finding · 2026-10-08",
           "status": "single-source",
           "status_html": "<p>Single source each time; a debate, not a finding · 2026-10-08</p>",
-          "updated": "2026-10-08"
+          "updated": "2026-10-08",
+          "sources": [],
+          "due": null,
+          "due_label": null
         }
       ]
     }
