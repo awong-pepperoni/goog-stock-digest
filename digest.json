@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-08",
+  "generated": "2026-10-09",
   "meta": {
     "feed": "goog_stock",
     "title": "GOOG Stock Digest",
@@ -8,6 +8,7 @@
     "durable_label": "Tracker",
     "durable_heading": "Claims tracker",
     "topics": {
+      "mustknow": "Must know",
       "news": "Company news",
       "ai": "AI & products",
       "analysts": "Analysts",
@@ -24,6 +25,21 @@
       "title": "GOOG stock digest",
       "intro_html": "<p>The sub is preoccupied with Gemini 4 Argon. Google announced it on 30 September, but most people still can't use it, and the stock fell on the news. Members read that as the market pricing in slow execution. Real announcements got a muted reception: a 20-year nuclear power deal with Constellation, and a &quot;universal&quot; Gemini agent for enterprises.</p>",
       "sections": [
+        {
+          "heading": "Must know",
+          "category": "mustknow",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Gemini 4 Argon is announced, but most people can't use it yet, and that gap is setting the sub's mood.</strong>",
+              "html": "<p><strong>Gemini 4 Argon is announced, but most people can't use it yet, and that gap is setting the sub's mood.</strong> Google announced it on 30 September and is rolling it out only to its Fairwind cyber-defender program. Paid API customers and AI Ultra subscribers come next, with no date given.</p>\n<ul>\n<li><strong>Why it matters:</strong> it is Google's new frontier model, and the stock fell on the announcement. Members read that as the market pricing in slow execution: &quot;announced&quot; is not &quot;shipped&quot;.</li>\n<li><strong>What to watch:</strong> the date Argon reaches paid API and Ultra users; whether management gives one on the Q3 call, on Wednesday 28 October at 1:30pm Pacific</li>\n<li><strong>Numbers:</strong> introductory API pricing is $2 input and $10 output per million tokens, per Google. Members' benchmark comparisons are Google's or their own.</li>\n<li><strong>Caveats:</strong> the &quot;execution discount&quot; is the sub's explanation, not a measured fact.</li>\n<li><strong>Read next:</strong> <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/\" target=\"_blank\" rel=\"noopener noreferrer\">Google's Argon announcement</a></li>\n</ul>",
+              "text": "Gemini 4 Argon is announced, but most people can't use it yet, and that gap is setting the sub's mood. Google announced it on 30 September and is rolling it out only to its Fairwind cyber-defender program. Paid API customers and AI Ultra subscribers come next, with no date given. Why it matters: it is Google's new frontier model, and the stock fell on the announcement. Members read that as the market pricing in slow execution: \"announced\" is not \"shipped\". What to watch: the date Argon reaches paid API and Ultra users; whether management gives one on the Q3 call, on Wednesday 28 October at 1:30pm Pacific Numbers: introductory API pricing is $2 input and $10 output per million tokens, per Google. Members' benchmark comparisons are Google's or their own. Caveats: the \"execution discount\" is the sub's explanation, not a measured fact. Read next: Google's Argon announcement Verified for availability and the earnings date",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> for availability and the earnings date</p>",
+              "updated": null
+            }
+          ]
+        },
         {
           "heading": "Company news and filings",
           "category": "news",
