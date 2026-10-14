@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-11",
+  "generated": "2026-10-14",
   "meta": {
     "feed": "goog_stock",
     "title": "GOOG Stock Digest",
@@ -21,6 +21,136 @@
     "source_note": "from Reddit's hot threads"
   },
   "digests": [
+    {
+      "date": "2026-10-14",
+      "title": "GOOG stock digest",
+      "intro_html": "<p>The wait the last two entries described is over: Google made Gemini 4 Argon globally available on 13 October, two weeks after announcing it. The sub's reaction is not relief but puzzlement that the stock barely moved, and the complaint thread posted the day before — that Meta teased and shipped a frontier model in one day while Argon sat unreleased — now reads as the high-water mark of the frustration. Everything else on the hot list is material the last two entries already covered.</p>",
+      "sections": [
+        {
+          "heading": "Must know",
+          "category": "mustknow",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Gemini 4 Argon is generally available worldwide as of 13 October, and the sub's central grievance for two weeks is resolved.</strong>",
+              "html": "<p><strong>Gemini 4 Argon is generally available worldwide as of 13 October, and the sub's central grievance for two weeks is resolved.</strong> Google's launch post says it is live for developers via the API, for AI Ultra subscribers in Antigravity, and for both AI Ultra and Pro subscribers in the Gemini app and AI Mode in Search.</p>\n<ul>\n<li><strong>Why it matters:</strong> this closes the &quot;announced is not shipped&quot; gap that the sub blamed for the stock falling on the 30 September announcement. Argon is now something Alphabet sells, across the API, Cloud, the consumer app and Search, rather than a Fairwind-only preview.</li>\n<li><strong>What to watch:</strong> the introductory API price ends 30 November 2026; whether management addresses Argon adoption on the Q3 call, Wednesday 28 October at 1:30pm Pacific; and whether free-tier or AI Plus access follows, since neither is included today.</li>\n<li><strong>Numbers:</strong> Google's stated introductory price is $2 per million input tokens and $10 per million output tokens, with cached input at 95% off, rising to $4 and $20 after 30 November. Google claims Argon ranks &quot;#1 on the Vals Index, which measures model performance across critical economic sectors like finance, coding, legal, and tax work&quot; — a vendor benchmark claim, not an independent result. Google is also offering 10,000 scientists its highest Antigravity usage tier free for six months, onboarded on a rolling basis.</li>\n<li><strong>Caveats:</strong> access is not uniform and the sub is already confused by it — one commenter in <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1x52bo6/\" target=\"_blank\" rel=\"noopener noreferrer\">the launch thread</a> says the app told them Ultra was required, and another corrects that the $20 Pro tier is enough; Google's post supports the correction for the app and Search but restricts Antigravity to Ultra. Two members report rough early use, one giving up on a task after repeated &quot;connection is interrupted&quot; errors and falling back to 3.8 Flash. The separate claim that Argon is &quot;benchmaxxed&quot; and &quot;NOWHERE NEAR Opus 5.5 or Astra level&quot; is one commenter's impression with no evidence attached.</li>\n<li><strong>Read next:</strong> <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/\" target=\"_blank\" rel=\"noopener noreferrer\">Google's launch post, 13 October</a></li>\n</ul>",
+              "text": "Gemini 4 Argon is generally available worldwide as of 13 October, and the sub's central grievance for two weeks is resolved. Google's launch post says it is live for developers via the API, for AI Ultra subscribers in Antigravity, and for both AI Ultra and Pro subscribers in the Gemini app and AI Mode in Search. Why it matters: this closes the \"announced is not shipped\" gap that the sub blamed for the stock falling on the 30 September announcement. Argon is now something Alphabet sells, across the API, Cloud, the consumer app and Search, rather than a Fairwind-only preview. What to watch: the introductory API price ends 30 November 2026; whether management addresses Argon adoption on the Q3 call, Wednesday 28 October at 1:30pm Pacific; and whether free-tier or AI Plus access follows, since neither is included today. Numbers: Google's stated introductory price is $2 per million input tokens and $10 per million output tokens, with cached input at 95% off, rising to $4 and $20 after 30 November. Google claims Argon ranks \"#1 on the Vals Index, which measures model performance across critical economic sectors like finance, coding, legal, and tax work\" — a vendor benchmark claim, not an independent result. Google is also offering 10,000 scientists its highest Antigravity usage tier free for six months, onboarded on a rolling basis. Caveats: access is not uniform and the sub is already confused by it — one commenter in the launch thread says the app told them Ultra was required, and another corrects that the $20 Pro tier is enough; Google's post supports the correction for the app and Search but restricts Antigravity to Ultra. Two members report rough early use, one giving up on a task after repeated \"connection is interrupted\" errors and falling back to 3.8 Flash. The separate claim that Argon is \"benchmaxxed\" and \"NOWHERE NEAR Opus 5.5 or Astra level\" is one commenter's impression with no evidence attached. Read next: Google's launch post, 13 October Verified against Google's launch post for availability, pricing and the science program; the Vals Index ranking is Google's own claim.",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against Google's launch post for availability, pricing and the science program; the Vals Index ranking is Google's own claim.</p>",
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock",
+                "Google"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>The loudest thread of the run asks why the stock barely moved on the Argon launch, and the sub's own answers undercut the premise.</strong>",
+              "html": "<p><strong>The loudest thread of the run asks why the stock barely moved on the Argon launch, and the sub's own answers undercut the premise.</strong> In <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1x51lc4/\" target=\"_blank\" rel=\"noopener noreferrer\">the thread</a> (63 comments), the best-received reply, at 31 points, argues the opposite framing — &quot;Tech is imploding over the last few days, you should be thankful goog is so resilient&quot; — and is immediately disputed by the poster, who says Meta, Microsoft and Amazon are rallying. Neither claim was checked here. Others say the market &quot;doesn't care about models. Only FCF&quot;, that it was &quot;priced in for months now&quot;, and that the stock &quot;consolidated for a long while last time before the big move&quot;. One member expected a fall and was surprised by a small rise.</p>",
+              "text": "The loudest thread of the run asks why the stock barely moved on the Argon launch, and the sub's own answers undercut the premise. In the thread (63 comments), the best-received reply, at 31 points, argues the opposite framing — \"Tech is imploding over the last few days, you should be thankful goog is so resilient\" — and is immediately disputed by the poster, who says Meta, Microsoft and Amazon are rallying. Neither claim was checked here. Others say the market \"doesn't care about models. Only FCF\", that it was \"priced in for months now\", and that the stock \"consolidated for a long while last time before the big move\". One member expected a fall and was surprised by a small rise.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>A member posted a set of specific Q3 expectations, which are that member's forecast and nothing Alphabet has guided to.</strong>",
+              "html": "<p><strong>A member posted a set of specific Q3 expectations, which are that member's forecast and nothing Alphabet has guided to.</strong> The same thread carries a comment predicting &quot;85+% YoY cloud growth, 36% gross margin, 575B cloud backlog, and continued strong search and ad revenue&quot;, alongside share-price levels. Reported only as what was posted; no Alphabet guidance supports these figures and none is quoted here as an expectation.</p>",
+              "text": "A member posted a set of specific Q3 expectations, which are that member's forecast and nothing Alphabet has guided to. The same thread carries a comment predicting \"85+% YoY cloud growth, 36% gross margin, 575B cloud backlog, and continued strong search and ad revenue\", alongside share-price levels. Reported only as what was posted; no Alphabet guidance supports these figures and none is quoted here as an expectation. Single source · figures as posted, unchecked",
+              "status": "single-source",
+              "status_html": "<p>Single source · figures as posted, unchecked</p>",
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>The day before Argon shipped, the sub's framing was that Meta out-executed Google on announcement timing.</strong>",
+              "html": "<p><strong>The day before Argon shipped, the sub's framing was that Meta out-executed Google on announcement timing.</strong> <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1x4ab79/\" target=\"_blank\" rel=\"noopener noreferrer\">The post</a> contrasts Meta teasing and releasing Muse Wonder the same day with Argon's three-week gap. Meta's own announcement of Muse Wonder and Muse Wonder Full is dated 12 October, so the comparison is to a real release. The thread's energy went mostly into Google's communications rather than the model — the top reply blames DeepMind's social media presence by name and several replies pile on about product leadership, while the highest-rated counter says earnings are what matter and to &quot;ignore these silly announcements&quot;. A long list of things Google has supposedly missed sits at −4 points, with the top reply pointing to Alphabet's market capitalisation and profitability against Meta's.</p>",
+              "text": "The day before Argon shipped, the sub's framing was that Meta out-executed Google on announcement timing. The post contrasts Meta teasing and releasing Muse Wonder the same day with Argon's three-week gap. Meta's own announcement of Muse Wonder and Muse Wonder Full is dated 12 October, so the comparison is to a real release. The thread's energy went mostly into Google's communications rather than the model — the top reply blames DeepMind's social media presence by name and several replies pile on about product leadership, while the highest-rated counter says earnings are what matter and to \"ignore these silly announcements\". A long list of things Google has supposedly missed sits at −4 points, with the top reply pointing to Alphabet's market capitalisation and profitability against Meta's. Reported · the Muse Wonder date is Verified against Meta's announcement ; everything else is sub opinion.",
+              "status": "reported",
+              "status_html": "<p>Reported · the Muse Wonder date is <strong>Verified</strong> against <a href=\"https://about.fb.com/news/2026/10/introducing-muse-wonder-models/\" target=\"_blank\" rel=\"noopener noreferrer\">Meta's announcement</a>; everything else is sub opinion.</p>",
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock",
+                "about.fb.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>A thread asking whether members still use Google Search found almost nobody who had left it.</strong>",
+              "html": "<p><strong>A thread asking whether members still use Google Search found almost nobody who had left it.</strong> <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1x46lgz/\" target=\"_blank\" rel=\"noopener noreferrer\">The post</a> sat at 0 points with 41 comments. The pattern in the replies is substitution by task rather than wholesale: search for shopping, maps, opening hours, sports results and reading real people's opinions; a chat model for comparisons and multi-step questions. Several say they now reach Search only through AI Mode without thinking of it as search, and one argues users encounter AI Overviews without recognising them as AI. This is a self-selected sample of Alphabet shareholders and should be read as such.</p>",
+              "text": "A thread asking whether members still use Google Search found almost nobody who had left it. The post sat at 0 points with 41 comments. The pattern in the replies is substitution by task rather than wholesale: search for shopping, maps, opening hours, sports results and reading real people's opinions; a chat model for comparisons and multi-step questions. Several say they now reach Search only through AI Mode without thinking of it as search, and one argues users encounter AI Overviews without recognising them as AI. This is a self-selected sample of Alphabet shareholders and should be read as such.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> GOOG_Stock.",
+              "html": "<p><strong>Read:</strong> GOOG_Stock. <strong>Sources checked:</strong> the Google Gemini models blog, the Google Cloud AI blog, Alphabet's SEC filings on EDGAR, and Alphabet investor relations. Two pages were unusable again: the Cloud AI blog index lists posts without dates, and <a href=\"https://abc.xyz/investor/\" target=\"_blank\" rel=\"noopener noreferrer\">abc.xyz/investor</a> renders its news and earnings sections empty, so WebSearch was used to date those items.</p>",
+              "text": "Read: GOOG_Stock. Sources checked: the Google Gemini models blog, the Google Cloud AI blog, Alphabet's SEC filings on EDGAR, and Alphabet investor relations. Two pages were unusable again: the Cloud AI blog index lists posts without dates, and abc.xyz/investor renders its news and earnings sections empty, so WebSearch was used to date those items.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "Alphabet"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong>",
+              "html": "<p><strong>Announced, not discussed:</strong></p>\n<ul>\n<li><strong>Argon is also live for Google Cloud customers, in a separate Cloud blog post the sub did not link.</strong> The Cloud AI blog carries &quot;Gemini 4 Argon available on Google Cloud, built to help solve your business' hardest problems&quot; alongside the main launch; the sub covered only the DeepMind-side announcement.</li>\n<li>No Alphabet filing has been made since 2 October, so nothing new is outstanding on EDGAR.</li>\n</ul>",
+              "text": "Announced, not discussed: Argon is also live for Google Cloud customers, in a separate Cloud blog post the sub did not link. The Cloud AI blog carries \"Gemini 4 Argon available on Google Cloud, built to help solve your business' hardest problems\" alongside the main launch; the sub covered only the DeepMind-side announcement. No Alphabet filing has been made since 2 October, so nothing new is outstanding on EDGAR. Verified against the Google Cloud AI blog index and Google Cloud's own post about the launch Status: Verified against EDGAR",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://cloud.google.com/blog/products/ai-machine-learning\" target=\"_blank\" rel=\"noopener noreferrer\">the Google Cloud AI blog index</a> and Google Cloud's own post about the launch Status: <strong>Verified</strong> against EDGAR</p>",
+              "updated": null,
+              "sources": [
+                "Google Cloud"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong> the scan flagged no unfamiliar recurring terms.",
+              "html": "<p><strong>Flagged terms set aside:</strong> the scan flagged no unfamiliar recurring terms. Two names that recur across posts this run are covered above rather than set aside: <em>Muse Wonder</em>, Meta's model, and <em>Vals Index</em>, the benchmark in Google's Argon claim.</p>",
+              "text": "Flagged terms set aside: the scan flagged no unfamiliar recurring terms. Two names that recur across posts this run are covered above rather than set aside: Muse Wonder , Meta's model, and Vals Index , the benchmark in Google's Argon claim.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-11",
       "title": "GOOG stock digest",
@@ -417,12 +547,25 @@
       "lead_html": null,
       "items": [
         {
-          "headline": "<strong>Gemini 4 Argon: announced 30 September 2026, not yet generally available.</strong>",
-          "html": "<p><strong>Gemini 4 Argon: announced 30 September 2026, not yet generally available.</strong> It is rolling out to cyber defenders in the Fairwind Program first, then &quot;paid API customers and Google AI Ultra subscribers&quot;, with no date. Update this entry when it reaches general release; the sub's mood depends on it.</p>",
-          "text": "Gemini 4 Argon: announced 30 September 2026, not yet generally available. It is rolling out to cyber defenders in the Fairwind Program first, then \"paid API customers and Google AI Ultra subscribers\", with no date. Update this entry when it reaches general release; the sub's mood depends on it. Verified against Google's announcement · re-checked 2026-10-11, still no date",
+          "headline": "<strong>Gemini 4 Argon: announced 30 September 2026, generally available 13 October 2026.</strong>",
+          "html": "<p><strong>Gemini 4 Argon: announced 30 September 2026, generally available 13 October 2026.</strong> Live for developers via the API in AI Studio and the Gemini platform and on Google Cloud, for AI Ultra subscribers in Antigravity, and for AI Ultra and Pro subscribers in the Gemini app and AI Mode in Search. No free-tier or AI Plus access. Introductory API pricing is $2 per million input tokens and $10 per million output tokens; it rises to $4 and $20 after 30 November 2026. Google claims a #1 ranking on the Vals Index, which is its own benchmark claim. Watch the pricing step-up, and whether cheaper tiers gain access.</p>",
+          "text": "Gemini 4 Argon: announced 30 September 2026, generally available 13 October 2026. Live for developers via the API in AI Studio and the Gemini platform and on Google Cloud, for AI Ultra subscribers in Antigravity, and for AI Ultra and Pro subscribers in the Gemini app and AI Mode in Search. No free-tier or AI Plus access. Introductory API pricing is $2 per million input tokens and $10 per million output tokens; it rises to $4 and $20 after 30 November 2026. Google claims a #1 ranking on the Vals Index, which is its own benchmark claim. Watch the pricing step-up, and whether cheaper tiers gain access. Verified against Google's launch post · 2026-10-14",
           "status": "verified",
-          "status_html": "<p><strong>Verified</strong> against <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/\" target=\"_blank\" rel=\"noopener noreferrer\">Google's announcement</a> · re-checked 2026-10-11, still no date</p>",
-          "updated": "2026-10-11",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/\" target=\"_blank\" rel=\"noopener noreferrer\">Google's launch post</a> · 2026-10-14</p>",
+          "updated": "2026-10-14",
+          "sources": [
+            "Google"
+          ],
+          "due": "2026-11-30",
+          "due_label": "introductory pricing ends"
+        },
+        {
+          "headline": "<strong>10,000 scientists get Google Antigravity's highest usage tier free for six months.</strong>",
+          "html": "<p><strong>10,000 scientists get Google Antigravity's highest usage tier free for six months.</strong> Announced with Argon on 13 October, onboarded on a rolling basis and subject to eligibility, capacity and selection; applications are open. The Fairwind Program separately gives cyber defenders Argon without cyber guardrails, also on a rolling basis.</p>",
+          "text": "10,000 scientists get Google Antigravity's highest usage tier free for six months. Announced with Argon on 13 October, onboarded on a rolling basis and subject to eligibility, capacity and selection; applications are open. The Fairwind Program separately gives cyber defenders Argon without cyber guardrails, also on a rolling basis. Verified against Google's launch post · 2026-10-14",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/\" target=\"_blank\" rel=\"noopener noreferrer\">Google's launch post</a> · 2026-10-14</p>",
+          "updated": "2026-10-14",
           "sources": [
             "Google"
           ],
@@ -431,11 +574,11 @@
         },
         {
           "headline": "<strong>An internal Gemini 4 build codenamed Carbon is in employee testing.</strong>",
-          "html": "<p><strong>An internal Gemini 4 build codenamed Carbon is in employee testing.</strong> Business Insider reported it is available on Google's internal coding platform Jetski, with one tester calling its coding performance comparable to Anthropic's Opus 5.5. Google has not said whether it ships, under what name, or whether it is a revision of Argon. Resolve this entry if a release names it, or fold it into the Argon entry if Google says they are the same model.</p>",
-          "text": "An internal Gemini 4 build codenamed Carbon is in employee testing. Business Insider reported it is available on Google's internal coding platform Jetski, with one tester calling its coding performance comparable to Anthropic's Opus 5.5. Google has not said whether it ships, under what name, or whether it is a revision of Argon. Resolve this entry if a release names it, or fold it into the Argon entry if Google says they are the same model. Reported · Storyboard18's writeup of the Business Insider report · 2026-10-11",
+          "html": "<p><strong>An internal Gemini 4 build codenamed Carbon is in employee testing.</strong> Business Insider reported it is available on Google's internal coding platform Jetski, with one tester calling its coding performance comparable to Anthropic's Opus 5.5. Google has not said whether it ships, under what name, or whether it is a revision of Argon. Resolve this entry if a release names it, or fold it into the Argon entry if Google says they are the same model.\nArgon's 13 October launch post does not mention Carbon, so the two are still not publicly connected.</p>",
+          "text": "An internal Gemini 4 build codenamed Carbon is in employee testing. Business Insider reported it is available on Google's internal coding platform Jetski, with one tester calling its coding performance comparable to Anthropic's Opus 5.5. Google has not said whether it ships, under what name, or whether it is a revision of Argon. Resolve this entry if a release names it, or fold it into the Argon entry if Google says they are the same model. Argon's 13 October launch post does not mention Carbon, so the two are still not publicly connected. Reported · Storyboard18's writeup of the Business Insider report · re-checked 2026-10-14 against the Argon launch post, still unnamed",
           "status": "reported",
-          "status_html": "<p>Reported · <a href=\"https://www.storyboard18.com/digital/google-employees-test-new-gemini-4-model-carbon-as-ai-coding-race-heats-up-ws-kl-112285.htm\" target=\"_blank\" rel=\"noopener noreferrer\">Storyboard18's writeup of the Business Insider report</a> · 2026-10-11</p>",
-          "updated": "2026-10-11",
+          "status_html": "<p>Reported · <a href=\"https://www.storyboard18.com/digital/google-employees-test-new-gemini-4-model-carbon-as-ai-coding-race-heats-up-ws-kl-112285.htm\" target=\"_blank\" rel=\"noopener noreferrer\">Storyboard18's writeup of the Business Insider report</a> · re-checked 2026-10-14 against the Argon launch post, still unnamed</p>",
+          "updated": "2026-10-14",
           "sources": [
             "storyboard18.com"
           ],
