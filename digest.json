@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-14",
+  "generated": "2026-10-17",
   "meta": {
     "feed": "goog_stock",
     "title": "GOOG Stock Digest",
@@ -21,6 +21,216 @@
     "source_note": "from Reddit's hot threads"
   },
   "digests": [
+    {
+      "date": "2026-10-17",
+      "title": "GOOG stock digest",
+      "intro_html": "<p>The sub's complaint about Argon has flipped from &quot;where is it&quot; to &quot;is this it&quot;. Three days after the launch the loudest threads are about whether the reception matters for the stock at all, and the best-received answers say it doesn't — macro and the capital spending update do. Meanwhile two Google announcements inside this window got almost no discussion: Universal Cart launched in the US, and Google Quantum AI published a Willow error-correction result in Science. No story passed the Must know test this run: the one confirmed launch that changes what Alphabet sells drew four comments rather than dominant attention, and there was no filing, guidance or regulatory event.</p>",
+      "sections": [
+        {
+          "heading": "Company news and filings",
+          "category": "news",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Google Quantum AI says it cut magic-state errors about 40-fold on its Willow processor, and the sub noted it without engaging.</strong>",
+              "html": "<p><strong>Google Quantum AI says it cut magic-state errors about 40-fold on its Willow processor, and the sub noted it without engaging.</strong> <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1x77lbo/\" target=\"_blank\" rel=\"noopener noreferrer\">The post</a> is a link to Google's own blog and sits at 52 points with 4 comments. Google's post claims a &quot;40-fold reduction in errors relative to un-cultivated states&quot; and &quot;T-states with a record logical fidelity of 99.99%&quot;, and says the work was published in Science. Google also states plainly how far this is from use: &quot;we still need to demonstrate magic state cultivation at a larger scale to make it realistic for practical quantum computing, and plenty of technical challenges remain.&quot; The thread's energy went elsewhere — the top comment is &quot;no amount of good news seem to change market opinion. I guess I will see you all at earnings&quot;, answered by a reply arguing that &quot;macro conditions are driving the stock price. Capex spend and cost of borrowing are significantly bigger factors than day to day news&quot;.</p>",
+              "text": "Google Quantum AI says it cut magic-state errors about 40-fold on its Willow processor, and the sub noted it without engaging. The post is a link to Google's own blog and sits at 52 points with 4 comments. Google's post claims a \"40-fold reduction in errors relative to un-cultivated states\" and \"T-states with a record logical fidelity of 99.99%\", and says the work was published in Science. Google also states plainly how far this is from use: \"we still need to demonstrate magic state cultivation at a larger scale to make it realistic for practical quantum computing, and plenty of technical challenges remain.\" The thread's energy went elsewhere — the top comment is \"no amount of good news seem to change market opinion. I guess I will see you all at earnings\", answered by a reply arguing that \"macro conditions are driving the stock price. Capex spend and cost of borrowing are significantly bigger factors than day to day news\". Verified against Google's post, 15 October for the error-reduction and fidelity claims, which are Google's own results, and for the caveat.",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/\" target=\"_blank\" rel=\"noopener noreferrer\">Google's post, 15 October</a> for the error-reduction and fidelity claims, which are Google's own results, and for the caveat.</p>",
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock",
+                "Google"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "AI models and products",
+          "category": "ai",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Universal Cart is live in the US in Google Search and the Gemini app, letting shoppers hold items from several merchants in one cart.</strong>",
+              "html": "<p><strong>Universal Cart is live in the US in Google Search and the Gemini app, letting shoppers hold items from several merchants in one cart.</strong> <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1x6paug/\" target=\"_blank\" rel=\"noopener noreferrer\">The sub's link post</a> reached 53 points on 4 comments. Google's post says &quot;Today, Universal Cart is rolling out in the U.S. across Google Search and in the Gemini app&quot; and names Nike, Sephora, Target, Ulta Beauty, Walmart, Wayfair, Steve Madden, Quince and Shopify merchants; it is not in YouTube. The cart tracks price drops and restocks, surfaces card perks and promo codes, and checks out with Google Pay or hands the items to the merchant's own cart. The few comments read it as monetisation that survives whoever owns the agent — one says it is &quot;another way that they can enable higher revenue for google regardless of who own/run the AI agents&quot; — and another frames it against Meta's Muse.</p>",
+              "text": "Universal Cart is live in the US in Google Search and the Gemini app, letting shoppers hold items from several merchants in one cart. The sub's link post reached 53 points on 4 comments. Google's post says \"Today, Universal Cart is rolling out in the U.S. across Google Search and in the Gemini app\" and names Nike, Sephora, Target, Ulta Beauty, Walmart, Wayfair, Steve Madden, Quince and Shopify merchants; it is not in YouTube. The cart tracks price drops and restocks, surfaces card perks and promo codes, and checks out with Google Pay or hands the items to the merchant's own cart. The few comments read it as monetisation that survives whoever owns the agent — one says it is \"another way that they can enable higher revenue for google regardless of who own/run the AI agents\" — and another frames it against Meta's Muse. Verified against Google's launch post, 15 October for availability, surfaces and merchants.",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://blog.google/products-and-platforms/products/shopping/universal-cart-launch/\" target=\"_blank\" rel=\"noopener noreferrer\">Google's launch post, 15 October</a> for availability, surfaces and merchants.</p>",
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock",
+                "Google"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Analyst coverage",
+          "category": "analysts",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Evercore ISI reaffirmed Outperform with a $450 target while raising its Alphabet estimates on external TPU sales, and it was the sub's top new discussion of the run.</strong>",
+              "html": "<p><strong>Evercore ISI reaffirmed Outperform with a $450 target while raising its Alphabet estimates on external TPU sales, and it was the sub's top new discussion of the run.</strong> <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1x7zrbv/\" target=\"_blank\" rel=\"noopener noreferrer\">The post</a> (51 points, 10 comments) reports the note as projecting &quot;AI chip/TPU system sales could make up roughly 35% of Cloud revenue by 2027, with numbers in the tens of billions&quot;. Secondary coverage of the same note adds figures the post did not: external TPU sales of $75 billion in 2027 and $113 billion in 2028, a Google Cloud revenue estimate raised to $213 billion from $180 billion, Alphabet revenue raised to $651 billion from $618 billion, and a target built on 25 times 2028 GAAP earnings. The comments treat it as confirmation rather than argument — &quot;Google basically has an Nvidia inside of it&quot; — with the one substantive reply arguing the old barrier to enterprise TPU adoption was software, CUDA versus XLA and JAX, and that selling rack-level systems for open-weight models removes that friction.</p>",
+              "text": "Evercore ISI reaffirmed Outperform with a $450 target while raising its Alphabet estimates on external TPU sales, and it was the sub's top new discussion of the run. The post (51 points, 10 comments) reports the note as projecting \"AI chip/TPU system sales could make up roughly 35% of Cloud revenue by 2027, with numbers in the tens of billions\". Secondary coverage of the same note adds figures the post did not: external TPU sales of $75 billion in 2027 and $113 billion in 2028, a Google Cloud revenue estimate raised to $213 billion from $180 billion, Alphabet revenue raised to $651 billion from $618 billion, and a target built on 25 times 2028 GAAP earnings. The comments treat it as confirmation rather than argument — \"Google basically has an Nvidia inside of it\" — with the one substantive reply arguing the old barrier to enterprise TPU adoption was software, CUDA versus XLA and JAX, and that selling rack-level systems for open-weight models removes that friction. Reported · the note itself is paywalled and not read; the added figures are from Evercore coverage via TradingView and GuruFocus . The poster's \"stock still dipped 2.5%\" was not checked.",
+              "status": "reported",
+              "status_html": "<p>Reported · the note itself is paywalled and not read; the added figures are from <a href=\"https://www.tradingview.com/news/seekingalpha:554b9cca8094b:0-evercore-raises-alphabet-estimates-on-potential-tpu-hardware-sales/\" target=\"_blank\" rel=\"noopener noreferrer\">Evercore coverage via TradingView</a> and <a href=\"https://www.gurufocus.com/news/9128095/evercore-isi-reaffirms-outperform-on-alphabet-goog-with-450-price-target-amid-ai-chip-growth\" target=\"_blank\" rel=\"noopener noreferrer\">GuruFocus</a>. The poster's &quot;stock still dipped 2.5%&quot; was not checked.</p>",
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock",
+                "tradingview.com",
+                "gurufocus.com"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Valuation and price action",
+          "category": "valuation",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>&quot;What's stopping google from becoming pure cloud&quot; argues Alphabet should stop building frontier models and sell TPUs to the labs instead.</strong>",
+              "html": "<p><strong>&quot;What's stopping google from becoming pure cloud&quot; argues Alphabet should stop building frontier models and sell TPUs to the labs instead.</strong> <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1x80die/\" target=\"_blank\" rel=\"noopener noreferrer\">The poster</a> draws the analogy to TSMC never competing with its customers, and the thread sat at 0 points with 12 comments. The replies dismantle it from several directions: that Google trains on its own TPUs so Gemini's quality is the demonstration that sells them, and the feedback loop improves later chip generations; that non-cloud revenue is most of the business, so the premise gives up the revenue base for one sector; that cheap Flash-class serving is core to search and ads rather than a side bet; and that cloud reverts to lower margins once hardware supply normalises, which another commenter disputes outright, saying Google Cloud is on course to pass Microsoft's cloud revenue next year and has not been low-margin. None of those revenue or margin claims was checked here.</p>",
+              "text": "\"What's stopping google from becoming pure cloud\" argues Alphabet should stop building frontier models and sell TPUs to the labs instead. The poster draws the analogy to TSMC never competing with its customers, and the thread sat at 0 points with 12 comments. The replies dismantle it from several directions: that Google trains on its own TPUs so Gemini's quality is the demonstration that sells them, and the feedback loop improves later chip generations; that non-cloud revenue is most of the business, so the premise gives up the revenue base for one sector; that cheap Flash-class serving is core to search and ads rather than a side bet; and that cloud reverts to lower margins once hardware supply normalises, which another commenter disputes outright, saying Google Cloud is on course to pass Microsoft's cloud revenue next year and has not been low-margin. None of those revenue or margin claims was checked here. Single source · an argument, not a finding; every figure in the thread is as posted.",
+              "status": "single-source",
+              "status_html": "<p>Single source · an argument, not a finding; every figure in the thread is as posted.</p>",
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>The sub has moved from waiting for Argon to being unimpressed by it, and the top-rated replies say that is the wrong thing to watch.</strong>",
+              "html": "<p><strong>The sub has moved from waiting for Argon to being unimpressed by it, and the top-rated replies say that is the wrong thing to watch.</strong> <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1x7hmyl/\" target=\"_blank\" rel=\"noopener noreferrer\">The main thread</a> (62 comments) opens from the premise that Argon was &quot;underwhelming&quot;, and the highest-rated substantive replies reject it: one says &quot;Argon is underwhelming? No, it's amazing. I use it everyday&quot;; another that it &quot;is in no way underwhelming. It is great for what it is meant for, complex reasoning for complex tasks. Sure it eats up tokens insanely fast, but its not meant to be your default model, thats what 3.8 flash is for.&quot; A third argument, at 12 points, concedes the frontier and calls it strategy — Google is &quot;content releasing 'good enough, cheap to run' models that gain wide adoption&quot;, and &quot;Honda sells a lot more cars than Ferrari&quot;. The sharpest redirection says &quot;wait for the results and capex update&quot;.</p>",
+              "text": "The sub has moved from waiting for Argon to being unimpressed by it, and the top-rated replies say that is the wrong thing to watch. The main thread (62 comments) opens from the premise that Argon was \"underwhelming\", and the highest-rated substantive replies reject it: one says \"Argon is underwhelming? No, it's amazing. I use it everyday\"; another that it \"is in no way underwhelming. It is great for what it is meant for, complex reasoning for complex tasks. Sure it eats up tokens insanely fast, but its not meant to be your default model, thats what 3.8 flash is for.\" A third argument, at 12 points, concedes the frontier and calls it strategy — Google is \"content releasing 'good enough, cheap to run' models that gain wide adoption\", and \"Honda sells a lot more cars than Ferrari\". The sharpest redirection says \"wait for the results and capex update\".",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Threads blaming the stock on Argon were answered with macro, not models.</strong>",
+              "html": "<p><strong>Threads blaming the stock on Argon were answered with macro, not models.</strong> In <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1x68yp5/\" target=\"_blank\" rel=\"noopener noreferrer\">the launch-day thread</a>, replies attribute the fall to CPI and to the broader tape — &quot;Everything is down. CPI&quot; — and one argues directly that &quot;This stock is not moving up or down based on Argon&quot;, pointing to bond yields. Separately, <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1x7sfkl/\" target=\"_blank\" rel=\"noopener noreferrer\">a post announcing the member had sold everything</a> sat at 0 points. No index, CPI print or yield level is quoted here; these are the sub's explanations.</p>",
+              "text": "Threads blaming the stock on Argon were answered with macro, not models. In the launch-day thread , replies attribute the fall to CPI and to the broader tape — \"Everything is down. CPI\" — and one argues directly that \"This stock is not moving up or down based on Argon\", pointing to bond yields. Separately, a post announcing the member had sold everything sat at 0 points. No index, CPI print or yield level is quoted here; these are the sub's explanations.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>A post arguing AI search and conventional search are converging in Google's favour drew almost no engagement.</strong>",
+              "html": "<p><strong>A post arguing AI search and conventional search are converging in Google's favour drew almost no engagement.</strong> <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1x5uoth/\" target=\"_blank\" rel=\"noopener noreferrer\">The poster</a> quotes an EMARKETER forecast that &quot;More than 91% of US genAI users—and almost half of all US internet users—now turn to AI for search&quot;, that AI Mode was &quot;Adopted by just 9.7% of US internet users last year&quot;, and that it &quot;will overtake ChatGPT in US monthly users in 2027 and become the first genAI tool to reach majority adoption in 2030&quot;. The one critical reply says the chart is meaningless because AI Overviews reach traditional Search users too and half the chart is forecast; another replies that AI Overviews are not counted in the AI Mode numbers, which is itself an unsourced assertion.</p>",
+              "text": "A post arguing AI search and conventional search are converging in Google's favour drew almost no engagement. The poster quotes an EMARKETER forecast that \"More than 91% of US genAI users—and almost half of all US internet users—now turn to AI for search\", that AI Mode was \"Adopted by just 9.7% of US internet users last year\", and that it \"will overtake ChatGPT in US monthly users in 2027 and become the first genAI tool to reach majority adoption in 2030\". The one critical reply says the chart is meaningless because AI Overviews reach traditional Search users too and half the chart is forecast; another replies that AI Overviews are not counted in the AI Mode numbers, which is itself an unsourced assertion. Reported · the figures are as quoted in the post; EMARKETER's own forecast was not read, and the 2027 and 2030 lines are forecasts, not measurements.",
+              "status": "reported",
+              "status_html": "<p>Reported · the figures are as quoted in the post; EMARKETER's own forecast was not read, and the 2027 and 2030 lines are forecasts, not measurements.</p>",
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Unverified, and worth watching",
+          "category": "unverified",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>The claim that Midjourney cut inference costs 65% by moving to TPUs is circulating as the proof case for external TPU demand, and no primary source for it was found.</strong>",
+              "html": "<p><strong>The claim that Midjourney cut inference costs 65% by moving to TPUs is circulating as the proof case for external TPU demand, and no primary source for it was found.</strong> It appears in the top substantive comment of the Evercore thread. Searching for it returns only SEO and analysis blogs repeating a figure of $2.1 million a month falling to about $700,000 after a move to TPU v6e; no Midjourney statement and no Google case study was found. The same comment's framing — that TPUs become a mass migration &quot;once it can be proven that inference costs are way less&quot; — is the commenter's condition, not a result.</p>",
+              "text": "The claim that Midjourney cut inference costs 65% by moving to TPUs is circulating as the proof case for external TPU demand, and no primary source for it was found. It appears in the top substantive comment of the Evercore thread. Searching for it returns only SEO and analysis blogs repeating a figure of $2.1 million a month falling to about $700,000 after a move to TPU v6e; no Midjourney statement and no Google case study was found. The same comment's framing — that TPUs become a mass migration \"once it can be proven that inference costs are way less\" — is the commenter's condition, not a result. Unconfirmed · looked for a Midjourney or Google Cloud primary source and found none, only secondary blogs.",
+              "status": "unconfirmed",
+              "status_html": "<p><strong>Unconfirmed</strong> · looked for a Midjourney or Google Cloud primary source and found none, only secondary blogs.</p>",
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Several members state flatly where Argon lands against Opus 5.5, in both directions, with nothing attached.</strong>",
+              "html": "<p><strong>Several members state flatly where Argon lands against Opus 5.5, in both directions, with nothing attached.</strong> One comment says it is &quot;only as good as opus 5.5, nothing special&quot;; another, in <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1x6txui/\" target=\"_blank\" rel=\"noopener noreferrer\">the reviews thread</a>, says &quot;Gemini 4 is inferior to Opus 5.5 but not that much. They are only 1-2 months behind.&quot; That thread's own best reply makes the point for the digest: the evidence offered is &quot;anekdotal, only one post, no info on what for test he actually ran&quot;. No independent benchmark comparison of Argon and Opus 5.5 is cited anywhere in the run.</p>",
+              "text": "Several members state flatly where Argon lands against Opus 5.5, in both directions, with nothing attached. One comment says it is \"only as good as opus 5.5, nothing special\"; another, in the reviews thread , says \"Gemini 4 is inferior to Opus 5.5 but not that much. They are only 1-2 months behind.\" That thread's own best reply makes the point for the digest: the evidence offered is \"anekdotal, only one post, no info on what for test he actually ran\". No independent benchmark comparison of Argon and Opus 5.5 is cited anywhere in the run. Unconfirmed · impressions only; no benchmark was named or linked by any commenter.",
+              "status": "unconfirmed",
+              "status_html": "<p><strong>Unconfirmed</strong> · impressions only; no benchmark was named or linked by any commenter.</p>",
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> GOOG_Stock, via the scan.",
+              "html": "<p><strong>Read:</strong> GOOG_Stock, via the scan. <strong>Sources checked:</strong> the Google Gemini models blog, the Google Cloud AI blog, Alphabet's SEC filings on EDGAR, and Alphabet investor relations. The Gemini models blog still shows no post after Argon, and the Cloud AI blog index still lists posts without dates, so its top entries were dated individually — the &quot;Expanding Google Antigravity for enterprise customers&quot; post is 20 August 2026, not new.</p>",
+              "text": "Read: GOOG_Stock, via the scan. Sources checked: the Google Gemini models blog, the Google Cloud AI blog, Alphabet's SEC filings on EDGAR, and Alphabet investor relations. The Gemini models blog still shows no post after Argon, and the Cloud AI blog index still lists posts without dates, so its top entries were dated individually — the \"Expanding Google Antigravity for enterprise customers\" post is 20 August 2026, not new.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong>",
+              "html": "<p><strong>Announced, not discussed:</strong></p>\n<ul>\n<li><strong>Director Ram Shriram filed a Form 4 on 15 October covering 13 October trust transfers, with no open-market sale.</strong> All eight legs are transaction code G at $0, moving 199,100 Class A and 199,100 Class C shares out of a 2021 RS Trust and 197,600 of each out of a spouse's 2021 VS Trust, against acquisitions of 86,550 shares of each class directly and the same again indirectly by spouse. The filing describes them as GRAT annuity distributions and gifts exempt under Rules 16a-13 and 16b-5. The sub did not mention it. <a href=\"https://www.sec.gov/Archives/edgar/data/1652044/000119312526423187/0001193125-26-423187-index.htm\" target=\"_blank\" rel=\"noopener noreferrer\">Filing index</a></li>\n<li>No other Alphabet filing has been made since 2 October, and no new Gemini model post has been published since the 13 October Argon launch.</li>\n</ul>",
+              "text": "Announced, not discussed: Director Ram Shriram filed a Form 4 on 15 October covering 13 October trust transfers, with no open-market sale. All eight legs are transaction code G at $0, moving 199,100 Class A and 199,100 Class C shares out of a 2021 RS Trust and 197,600 of each out of a spouse's 2021 VS Trust, against acquisitions of 86,550 shares of each class directly and the same again indirectly by spouse. The filing describes them as GRAT annuity distributions and gifts exempt under Rules 16a-13 and 16b-5. The sub did not mention it. Filing index No other Alphabet filing has been made since 2 October, and no new Gemini model post has been published since the 13 October Argon launch. Verified against the Form 4's own ownership.xml on EDGAR Status: Verified against EDGAR and the Google Gemini models blog",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against the Form 4's own ownership.xml on EDGAR Status: <strong>Verified</strong> against EDGAR and the Google Gemini models blog</p>",
+              "updated": null,
+              "sources": [
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong> the scan flagged no unfamiliar recurring terms.",
+              "html": "<p><strong>Flagged terms set aside:</strong> the scan flagged no unfamiliar recurring terms. Three names recurring across posts this run are covered above rather than set aside: <em>Universal Cart</em>, <em>Evercore</em>, and <em>magic state cultivation</em>. <em>Muse</em>, Meta's model, appears twice as a passing comparison with nothing new since the last entry, which covered its release.</p>",
+              "text": "Flagged terms set aside: the scan flagged no unfamiliar recurring terms. Three names recurring across posts this run are covered above rather than set aside: Universal Cart , Evercore , and magic state cultivation . Muse , Meta's model, appears twice as a passing comparison with nothing new since the last entry, which covered its release.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-14",
       "title": "GOOG stock digest",
@@ -560,6 +770,32 @@
           "due_label": "introductory pricing ends"
         },
         {
+          "headline": "<strong>Universal Cart launched in the US on 15 October 2026, in Google Search and the Gemini app.</strong>",
+          "html": "<p><strong>Universal Cart launched in the US on 15 October 2026, in Google Search and the Gemini app.</strong> A cart that holds items from several merchants, tracks price drops and restocks, surfaces card perks and promo codes, and checks out with Google Pay or hands off to the merchant's cart. Named merchants are Nike, Sephora, Target, Ulta Beauty, Walmart, Wayfair, Steve Madden, Quince and Shopify merchants; it is not in YouTube. Watch for a YouTube surface, non-US availability, and whether Alphabet gives any commerce take-rate detail on an earnings call.</p>",
+          "text": "Universal Cart launched in the US on 15 October 2026, in Google Search and the Gemini app. A cart that holds items from several merchants, tracks price drops and restocks, surfaces card perks and promo codes, and checks out with Google Pay or hands off to the merchant's cart. Named merchants are Nike, Sephora, Target, Ulta Beauty, Walmart, Wayfair, Steve Madden, Quince and Shopify merchants; it is not in YouTube. Watch for a YouTube surface, non-US availability, and whether Alphabet gives any commerce take-rate detail on an earnings call. Verified against Google's launch post · 2026-10-17",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://blog.google/products-and-platforms/products/shopping/universal-cart-launch/\" target=\"_blank\" rel=\"noopener noreferrer\">Google's launch post</a> · 2026-10-17</p>",
+          "updated": "2026-10-17",
+          "sources": [
+            "Google"
+          ],
+          "due": null,
+          "due_label": null
+        },
+        {
+          "headline": "<strong>Magic state cultivation demonstrated on Willow, with a larger-scale demonstration still outstanding.</strong>",
+          "html": "<p><strong>Magic state cultivation demonstrated on Willow, with a larger-scale demonstration still outstanding.</strong> Google Quantum AI claims a 40-fold error reduction relative to un-cultivated states and T-states at a record 99.99% logical fidelity, published in Science on 15 October 2026. Google's own caveat is the thing to track: &quot;we still need to demonstrate magic state cultivation at a larger scale to make it realistic for practical quantum computing, and plenty of technical challenges remain.&quot; No date is attached to that next step.</p>",
+          "text": "Magic state cultivation demonstrated on Willow, with a larger-scale demonstration still outstanding. Google Quantum AI claims a 40-fold error reduction relative to un-cultivated states and T-states at a record 99.99% logical fidelity, published in Science on 15 October 2026. Google's own caveat is the thing to track: \"we still need to demonstrate magic state cultivation at a larger scale to make it realistic for practical quantum computing, and plenty of technical challenges remain.\" No date is attached to that next step. Verified against Google's post · 2026-10-17",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/\" target=\"_blank\" rel=\"noopener noreferrer\">Google's post</a> · 2026-10-17</p>",
+          "updated": "2026-10-17",
+          "sources": [
+            "Google"
+          ],
+          "due": null,
+          "due_label": null
+        },
+        {
           "headline": "<strong>10,000 scientists get Google Antigravity's highest usage tier free for six months.</strong>",
           "html": "<p><strong>10,000 scientists get Google Antigravity's highest usage tier free for six months.</strong> Announced with Argon on 13 October, onboarded on a rolling basis and subject to eligibility, capacity and selection; applications are open. The Fairwind Program separately gives cyber defenders Argon without cyber guardrails, also on a rolling basis.</p>",
           "text": "10,000 scientists get Google Antigravity's highest usage tier free for six months. Announced with Argon on 13 October, onboarded on a rolling basis and subject to eligibility, capacity and selection; applications are open. The Fairwind Program separately gives cyber defenders Argon without cyber guardrails, also on a rolling basis. Verified against Google's launch post · 2026-10-14",
@@ -673,11 +909,35 @@
       "items": [
         {
           "headline": "<strong>Alphabet trades at an &quot;execution discount&quot;.</strong>",
-          "html": "<p><strong>Alphabet trades at an &quot;execution discount&quot;.</strong> The sub's explanation for the stock falling on good news is that the market doubts leadership can ship on time. It is argued from release timing, not from any data.</p>",
-          "text": "Alphabet trades at an \"execution discount\". The sub's explanation for the stock falling on good news is that the market doubts leadership can ship on time. It is argued from release timing, not from any data. Single source each time; a debate, not a finding · 2026-10-08",
+          "html": "<p><strong>Alphabet trades at an &quot;execution discount&quot;.</strong> The sub's explanation for the stock falling on good news is that the market doubts leadership can ship on time. It is argued from release timing, not from any data.\nSince Argon shipped on 13 October the claim has been restated as a model-quality discount rather than a timing one, and the best-received replies now attribute the stock to macro — CPI, bond yields, capital spending — instead.</p>",
+          "text": "Alphabet trades at an \"execution discount\". The sub's explanation for the stock falling on good news is that the market doubts leadership can ship on time. It is argued from release timing, not from any data. Since Argon shipped on 13 October the claim has been restated as a model-quality discount rather than a timing one, and the best-received replies now attribute the stock to macro — CPI, bond yields, capital spending — instead. Single source each time; a debate, not a finding · 2026-10-17",
           "status": "single-source",
-          "status_html": "<p>Single source each time; a debate, not a finding · 2026-10-08</p>",
-          "updated": "2026-10-08",
+          "status_html": "<p>Single source each time; a debate, not a finding · 2026-10-17</p>",
+          "updated": "2026-10-17",
+          "sources": [],
+          "due": null,
+          "due_label": null
+        },
+        {
+          "headline": "<strong>External TPU sales are the sub's next growth thesis, and Evercore ISI's note is what it rests on.</strong>",
+          "html": "<p><strong>External TPU sales are the sub's next growth thesis, and Evercore ISI's note is what it rests on.</strong> The firm reaffirmed Outperform with a $450 target and, per secondary coverage, projects external TPU sales at roughly 35% of Google Cloud revenue in 2027 — $75 billion in 2027 and $113 billion in 2028 — with Cloud revenue raised to $213 billion from $180 billion. These are one firm's estimates, not Alphabet guidance; Alphabet has not broken out external TPU hardware revenue. Watch whether the Q3 or Q4 call gives any external TPU figure.</p>",
+          "text": "External TPU sales are the sub's next growth thesis, and Evercore ISI's note is what it rests on. The firm reaffirmed Outperform with a $450 target and, per secondary coverage, projects external TPU sales at roughly 35% of Google Cloud revenue in 2027 — $75 billion in 2027 and $113 billion in 2028 — with Cloud revenue raised to $213 billion from $180 billion. These are one firm's estimates, not Alphabet guidance; Alphabet has not broken out external TPU hardware revenue. Watch whether the Q3 or Q4 call gives any external TPU figure. Reported · the note is paywalled; figures from Evercore coverage via TradingView · 2026-10-17",
+          "status": "reported",
+          "status_html": "<p>Reported · the note is paywalled; figures from <a href=\"https://www.tradingview.com/news/seekingalpha:554b9cca8094b:0-evercore-raises-alphabet-estimates-on-potential-tpu-hardware-sales/\" target=\"_blank\" rel=\"noopener noreferrer\">Evercore coverage via TradingView</a> · 2026-10-17</p>",
+          "updated": "2026-10-17",
+          "sources": [
+            "tradingview.com"
+          ],
+          "due": null,
+          "due_label": null
+        },
+        {
+          "headline": "<strong>&quot;Midjourney cut inference costs 65% by moving to TPUs&quot; is the sub's standing proof case for TPU demand.</strong>",
+          "html": "<p><strong>&quot;Midjourney cut inference costs 65% by moving to TPUs&quot; is the sub's standing proof case for TPU demand.</strong> The figure circulates as $2.1 million a month falling to about $700,000 after a move to TPU v6e. A search for a primary source returned only SEO and analysis blogs; no Midjourney statement and no Google Cloud case study was found. Resolve this entry if either company publishes one.</p>",
+          "text": "\"Midjourney cut inference costs 65% by moving to TPUs\" is the sub's standing proof case for TPU demand. The figure circulates as $2.1 million a month falling to about $700,000 after a move to TPU v6e. A search for a primary source returned only SEO and analysis blogs; no Midjourney statement and no Google Cloud case study was found. Resolve this entry if either company publishes one. Unconfirmed · no primary source found · 2026-10-17",
+          "status": "unconfirmed",
+          "status_html": "<p><strong>Unconfirmed</strong> · no primary source found · 2026-10-17</p>",
+          "updated": "2026-10-17",
           "sources": [],
           "due": null,
           "due_label": null
