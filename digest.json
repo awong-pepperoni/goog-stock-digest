@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-17",
+  "generated": "2026-10-21",
   "meta": {
     "feed": "goog_stock",
     "title": "GOOG Stock Digest",
@@ -21,6 +21,138 @@
     "source_note": "from Reddit's hot threads"
   },
   "digests": [
+    {
+      "date": "2026-10-21",
+      "title": "GOOG stock digest",
+      "intro_html": "<p>One week before results, the sub has stopped arguing about Argon and started counting down. The two newest threads are about the stock losing its 200-day moving average and whether it will see $360 again, and in both the best-received answers are that only the 28 October print matters now. The run's top post by score is a Motley Fool prediction of triple-digit Google Cloud growth that the sub's own top comments dismiss as a source. Nothing passed the Must know test: no earnings, guidance or filing has landed yet, the one confirmed launch in the window drew no discussion at all, and the sub's dominant attention is on a date rather than on an event.</p>",
+      "sections": [
+        {
+          "heading": "Valuation and price action",
+          "category": "valuation",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>The sub's newest thread is that GOOGL has closed below its 200-day moving average, and the replies treat it as noise before earnings.</strong>",
+              "html": "<p><strong>The sub's newest thread is that GOOGL has closed below its 200-day moving average, and the replies treat it as noise before earnings.</strong> <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1xb1sys/\" target=\"_blank\" rel=\"noopener noreferrer\">The post</a> (32 points, 66 comments) says the day &quot;started meh and got worse and worse every hour that passed regardless of what QQQ did&quot;. The highest-rated replies refuse the frame: one calls the stock &quot;a monopoly. It's fine&quot;; another, at 10 points, says &quot;It's essentially flat 12 month look back and still above 200 SMA on the weekly. Did the business become more valuable or less valuable in a year?&quot; Two commenters say the level has already been lost repeatedly — &quot;This is the 3rd time in the last month and 6th time this year&quot; and &quot;It's been below the 200 day multiple times in the last couple of months&quot; — and the closing reply makes the run's recurring point: &quot;If you're not planning on selling before earnings next week it's irrelevant, price will be dictated by how the earnings report is&quot;. Members' own figures in the thread, &quot;up 32% in a year&quot; and &quot;20% down from the top&quot;, are as posted.</p>",
+              "text": "The sub's newest thread is that GOOGL has closed below its 200-day moving average, and the replies treat it as noise before earnings. The post (32 points, 66 comments) says the day \"started meh and got worse and worse every hour that passed regardless of what QQQ did\". The highest-rated replies refuse the frame: one calls the stock \"a monopoly. It's fine\"; another, at 10 points, says \"It's essentially flat 12 month look back and still above 200 SMA on the weekly. Did the business become more valuable or less valuable in a year?\" Two commenters say the level has already been lost repeatedly — \"This is the 3rd time in the last month and 6th time this year\" and \"It's been below the 200 day multiple times in the last couple of months\" — and the closing reply makes the run's recurring point: \"If you're not planning on selling before earnings next week it's irrelevant, price will be dictated by how the earnings report is\". Members' own figures in the thread, \"up 32% in a year\" and \"20% down from the top\", are as posted. Single source · the moving-average claim and every price figure are as posted; no price series was checked here.",
+              "status": "single-source",
+              "status_html": "<p>Single source · the moving-average claim and every price figure are as posted; no price series was checked here.</p>",
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>A Motley Fool prediction that Alphabet will report Google Cloud revenue growth above 100% on 28 October is the run's top-scoring post, and the sub's reaction is about the publisher rather than the number.</strong>",
+              "html": "<p><strong>A Motley Fool prediction that Alphabet will report Google Cloud revenue growth above 100% on 28 October is the run's top-scoring post, and the sub's reaction is about the publisher rather than the number.</strong> <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1x9fnfn/\" target=\"_blank\" rel=\"noopener noreferrer\">The post</a> sits at 164 points with 24 comments, and the two leading replies are &quot;The Motley Fool is not a good source&quot; at 35 points and &quot;I want good news too you guys but Motley Fool is a new low for us lol&quot;. The article's base is checkable: Google Cloud revenue was $24.8 billion in Q2 2026 against $13.624 billion a year earlier, which Alphabet's own release reports as 82% growth, and the prediction is that Q3 clears 100%. That is one author's forecast, not guidance — Alphabet has not guided to a Cloud growth rate. The one reply that engages with the mechanics argues the percentage is the wrong unit: &quot;% doesn't matter, all I care about is whether last quarter growth speeds up or not. Meaning if they added 8B revenue, are they going to add 9 or 10?&quot; Another comment's &quot;an easy $750B total revenue yearly rate by the end of 2027&quot; is that member's own number.</p>",
+              "text": "A Motley Fool prediction that Alphabet will report Google Cloud revenue growth above 100% on 28 October is the run's top-scoring post, and the sub's reaction is about the publisher rather than the number. The post sits at 164 points with 24 comments, and the two leading replies are \"The Motley Fool is not a good source\" at 35 points and \"I want good news too you guys but Motley Fool is a new low for us lol\". The article's base is checkable: Google Cloud revenue was $24.8 billion in Q2 2026 against $13.624 billion a year earlier, which Alphabet's own release reports as 82% growth, and the prediction is that Q3 clears 100%. That is one author's forecast, not guidance — Alphabet has not guided to a Cloud growth rate. The one reply that engages with the mechanics argues the percentage is the wrong unit: \"% doesn't matter, all I care about is whether last quarter growth speeds up or not. Meaning if they added 8B revenue, are they going to add 9 or 10?\" Another comment's \"an easy $750B total revenue yearly rate by the end of 2027\" is that member's own number. Verified for the Q2 base against Alphabet's Q2 2026 results exhibit on EDGAR ; the triple-digit prediction is Reported from the Motley Fool article by Adam Levy and is a forecast, not a result.",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> for the Q2 base against <a href=\"https://www.sec.gov/Archives/edgar/data/0001652044/000165204426000066/googexhibit991q22026.htm\" target=\"_blank\" rel=\"noopener noreferrer\">Alphabet's Q2 2026 results exhibit on EDGAR</a>; the triple-digit prediction is Reported from <a href=\"https://finance.yahoo.com/markets/stocks/articles/prediction-alphabet-report-google-cloud-120500989.html\" target=\"_blank\" rel=\"noopener noreferrer\">the Motley Fool article by Adam Levy</a> and is a forecast, not a result.</p>",
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock",
+                "SEC filing",
+                "Yahoo Finance"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>A thread asking for the strongest argument that Sundar Pichai is doing a good job drew the run's most substantive defence of management.</strong>",
+              "html": "<p><strong>A thread asking for the strongest argument that Sundar Pichai is doing a good job drew the run's most substantive defence of management.</strong> <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1xazvim/\" target=\"_blank\" rel=\"noopener noreferrer\">The post</a> sat at 0 points with 18 comments and asks why he still holds power given &quot;more failed products than successful ones&quot;, naming Stadia, Allo, Spark and Bard, and reads Sergey Brin's return to the Gemini line as an admission. The top reply, at 7 points, answers with a list — that he made the company AI-first early, that Gemini and Google Lens are both billion-plus monthly-user products, that YouTube and Cloud revenues have risen sharply, and that &quot;They just recently had the highest search traffic day in history&quot; — none of which was checked here. A 10-point reply makes the portfolio argument instead: failed products are &quot;how most companies operate actually, one successful product will make up for all the failed ones plus some&quot;. Another frames spending discipline as the real constraint: &quot;Google doesn't have the freedom to burn insane amounts of investor money like the other frontier labs.&quot; The poster's own follow-ups concede the question is about speed to market rather than results.</p>",
+              "text": "A thread asking for the strongest argument that Sundar Pichai is doing a good job drew the run's most substantive defence of management. The post sat at 0 points with 18 comments and asks why he still holds power given \"more failed products than successful ones\", naming Stadia, Allo, Spark and Bard, and reads Sergey Brin's return to the Gemini line as an admission. The top reply, at 7 points, answers with a list — that he made the company AI-first early, that Gemini and Google Lens are both billion-plus monthly-user products, that YouTube and Cloud revenues have risen sharply, and that \"They just recently had the highest search traffic day in history\" — none of which was checked here. A 10-point reply makes the portfolio argument instead: failed products are \"how most companies operate actually, one successful product will make up for all the failed ones plus some\". Another frames spending discipline as the real constraint: \"Google doesn't have the freedom to burn insane amounts of investor money like the other frontier labs.\" The poster's own follow-ups concede the question is about speed to market rather than results. Single source · all claims in the thread are as posted and unverified; the search-traffic and user-count figures were not traced to Alphabet.",
+              "status": "single-source",
+              "status_html": "<p>Single source · all claims in the thread are as posted and unverified; the search-traffic and user-count figures were not traced to Alphabet.</p>",
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Two price-level threads produced almost nothing but mockery, which is itself the sub's mood this run.</strong>",
+              "html": "<p><strong>Two price-level threads produced almost nothing but mockery, which is itself the sub's mood this run.</strong> <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1xb08hz/\" target=\"_blank\" rel=\"noopener noreferrer\">A thread asking whether Google will go above $360 &quot;ever again&quot;</a> drew 51 comments led by &quot;This really is the dumbest sub&quot; at 21 points and several joke answers; the only on-topic reply tells the poster to research the business or sell. <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1x8g614/\" target=\"_blank\" rel=\"noopener noreferrer\">A year-end price prediction thread</a> (12 points, 41 comments) is a list of numbers with no reasoning attached, with $380 the most repeated answer and the only reply that gives a condition saying it &quot;depends on results on 28th October&quot;. These are members' guesses, reported as such.</p>",
+              "text": "Two price-level threads produced almost nothing but mockery, which is itself the sub's mood this run. A thread asking whether Google will go above $360 \"ever again\" drew 51 comments led by \"This really is the dumbest sub\" at 21 points and several joke answers; the only on-topic reply tells the poster to research the business or sell. A year-end price prediction thread (12 points, 41 comments) is a list of numbers with no reasoning attached, with $380 the most repeated answer and the only reply that gives a condition saying it \"depends on results on 28th October\". These are members' guesses, reported as such. Single source · guesses with no stated basis; no figure here is an expectation.",
+              "status": "single-source",
+              "status_html": "<p>Single source · guesses with no stated basis; no figure here is an expectation.</p>",
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> GOOG_Stock, via the scan.",
+              "html": "<p><strong>Read:</strong> GOOG_Stock, via the scan. <strong>Sources checked:</strong> Alphabet's SEC filings on EDGAR, Alphabet investor relations, the Google Gemini models blog and the Google Cloud AI blog. Two pages were unusable in the same ways as previous runs: <a href=\"https://abc.xyz/investor/\" target=\"_blank\" rel=\"noopener noreferrer\">abc.xyz/investor</a> renders its news and earnings sections empty, and the Cloud AI blog index lists posts without dates, so WebSearch and the Google Cloud press corner were used to date items in that window.</p>",
+              "text": "Read: GOOG_Stock, via the scan. Sources checked: Alphabet's SEC filings on EDGAR, Alphabet investor relations, the Google Gemini models blog and the Google Cloud AI blog. Two pages were unusable in the same ways as previous runs: abc.xyz/investor renders its news and earnings sections empty, and the Cloud AI blog index lists posts without dates, so WebSearch and the Google Cloud press corner were used to date items in that window.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "Alphabet"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong>",
+              "html": "<p><strong>Announced, not discussed:</strong></p>\n<ul>\n<li><strong>Google Public Sector launched Gemini for government services in preview on 20 October, and the sub did not mention it.</strong> It is described as &quot;an enterprise-grade, purpose-built agentic solution&quot;, available in preview to US federal, state and local government agencies, deployable under the Assured Workloads FedRAMP High data boundary, and already in use by the State of Missouri and the US Department of Health and Human Services. Named launch partners include Slalom, Egen, Clutch, Daston Corporation, Onix and SZNS Solutions. Preview, not generally available.</li>\n<li><strong>Waymo said on 20 October that it will launch autonomous ride-hailing in the Madrid region, with service planned for 2027 and testing starting now.</strong> Waymo's post says testing begins in the coming days with manually driven operations before technical validation, using Jaguar I-PACE vehicles, starting in Madrid City, Alcobendas and Getafe, and that it is still consulting national, regional and local authorities. No revenue or fleet figure was given, and no commercial launch date beyond 2027.</li>\n<li><strong>A securities class action against Alphabet over the delayed Gemini 3.5 Pro launch has a lead-plaintiff deadline of 1 December 2026, and the sub has not raised it.</strong> The complaint, in the Northern District of California, covers purchasers between 19 May and 16 July 2026 and alleges Alphabet did not disclose disappointing training results while promising a June release; it names Sundar Pichai and Anat Ashkenazi and asserts claims under Sections 10(b) and 20(a). The delay itself is the event the sub discussed at the time under &quot;where is Pro 3.5&quot;.</li>\n<li><strong>No Alphabet filing has been made since the 15 October Form 4, and no new Gemini model post has been published since the 13 October Argon launch.</strong> The 15 October Form 4 is director Ram Shriram's trust transfers, covered in the last entry.</li>\n</ul>",
+              "text": "Announced, not discussed: Google Public Sector launched Gemini for government services in preview on 20 October, and the sub did not mention it. It is described as \"an enterprise-grade, purpose-built agentic solution\", available in preview to US federal, state and local government agencies, deployable under the Assured Workloads FedRAMP High data boundary, and already in use by the State of Missouri and the US Department of Health and Human Services. Named launch partners include Slalom, Egen, Clutch, Daston Corporation, Onix and SZNS Solutions. Preview, not generally available. Waymo said on 20 October that it will launch autonomous ride-hailing in the Madrid region, with service planned for 2027 and testing starting now. Waymo's post says testing begins in the coming days with manually driven operations before technical validation, using Jaguar I-PACE vehicles, starting in Madrid City, Alcobendas and Getafe, and that it is still consulting national, regional and local authorities. No revenue or fleet figure was given, and no commercial launch date beyond 2027. A securities class action against Alphabet over the delayed Gemini 3.5 Pro launch has a lead-plaintiff deadline of 1 December 2026, and the sub has not raised it. The complaint, in the Northern District of California, covers purchasers between 19 May and 16 July 2026 and alleges Alphabet did not disclose disappointing training results while promising a June release; it names Sundar Pichai and Anat Ashkenazi and asserts claims under Sections 10(b) and 20(a). The delay itself is the event the sub discussed at the time under \"where is Pro 3.5\". No Alphabet filing has been made since the 15 October Form 4, and no new Gemini model post has been published since the 13 October Argon launch. The 15 October Form 4 is director Ram Shriram's trust transfers, covered in the last entry. Verified against Google Cloud's own announcement, 20 October Status: Verified against Waymo's own post, October 2026 Status: Reported · law-firm notices from Levi & Korsinsky, 19 October and a separate firm's 13 October notice giving the same deadline; the docket and complaint were not read, and these are solicitations Status: Verified against EDGAR and the Google Gemini models blog",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.googlecloudpresscorner.com/2026-10-20-Google-Public-Sector-Launches-Gemini-for-Government-Services\" target=\"_blank\" rel=\"noopener noreferrer\">Google Cloud's own announcement, 20 October</a> Status: <strong>Verified</strong> against <a href=\"https://waymo.com/blog/2026/10/waymo-in-madrid-region/\" target=\"_blank\" rel=\"noopener noreferrer\">Waymo's own post, October 2026</a> Status: Reported · law-firm notices from <a href=\"https://www.globenewswire.com/news-release/2026/10/19/3383595/3080/en/googl-goog-shareholder-alert-alphabet-inc-securities-class-action-lawsuit-investors-should-contact-levi-korsinsky.html\" target=\"_blank\" rel=\"noopener noreferrer\">Levi &amp; Korsinsky, 19 October</a> and <a href=\"https://www.globenewswire.com/news-release/2026/10/13/3380110/0/en/suewallst-reminds-shareholders-of-a-lead-plaintiff-deadline-of-december-1-2026-in-alphabet-inc-lawsuit-googl-goog.html\" target=\"_blank\" rel=\"noopener noreferrer\">a separate firm's 13 October notice</a> giving the same deadline; the docket and complaint were not read, and these are solicitations Status: <strong>Verified</strong> against EDGAR and the Google Gemini models blog</p>",
+              "updated": "2026-10-20",
+              "sources": [
+                "googlecloudpresscorner.com",
+                "waymo.com",
+                "globenewswire.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong> the scan flagged no unfamiliar recurring terms.",
+              "html": "<p><strong>Flagged terms set aside:</strong> the scan flagged no unfamiliar recurring terms. Three posts on the hot list were skipped as this feed's guidance directs: a &quot;what stock has the same long-term potential as GOOGL&quot; comparison thread, a &quot;selling was the best decision ever&quot; venting post, and a position-screenshot &quot;Advice?&quot; post. Two low-engagement posts were also set aside as noise: a &quot;Gemini Ads?&quot; link whose single comment says AI Overview ads shipped months ago, and a &quot;Local AI - TPU?&quot; question with no comments. The Evercore TPU note and the EMARKETER search-convergence post are both still on hot and were covered in the 2026-10-17 entry.</p>",
+              "text": "Flagged terms set aside: the scan flagged no unfamiliar recurring terms. Three posts on the hot list were skipped as this feed's guidance directs: a \"what stock has the same long-term potential as GOOGL\" comparison thread, a \"selling was the best decision ever\" venting post, and a position-screenshot \"Advice?\" post. Two low-engagement posts were also set aside as noise: a \"Gemini Ads?\" link whose single comment says AI Overview ads shipped months ago, and a \"Local AI - TPU?\" question with no comments. The Evercore TPU note and the EMARKETER search-convergence post are both still on hot and were covered in the 2026-10-17 entry.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "Hot lists could not cover 2026-10-17 to 2026-10-21; official sources were checked for that window.",
+              "html": "<p>Hot lists could not cover 2026-10-17 to 2026-10-21; official sources were checked for that window.</p>",
+              "text": "Hot lists could not cover 2026-10-17 to 2026-10-21; official sources were checked for that window.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-17",
       "title": "GOOG stock digest",
@@ -822,6 +954,19 @@
           "due_label": null
         },
         {
+          "headline": "<strong>Gemini for government services is in preview for US government agencies from 20 October 2026, not generally available.</strong>",
+          "html": "<p><strong>Gemini for government services is in preview for US government agencies from 20 October 2026, not generally available.</strong> Google Public Sector describes it as &quot;an enterprise-grade, purpose-built agentic solution&quot; for federal, state and local agencies, deployable under the Assured Workloads FedRAMP High data boundary, with the State of Missouri and the US Department of Health and Human Services named as early users and Slalom, Egen, Clutch, Daston Corporation, Onix and SZNS Solutions as launch partners. This is the government specialization the Gemini agent entry listed as &quot;coming soon&quot;. Watch for general availability and for any contract value, which the announcement does not give.</p>",
+          "text": "Gemini for government services is in preview for US government agencies from 20 October 2026, not generally available. Google Public Sector describes it as \"an enterprise-grade, purpose-built agentic solution\" for federal, state and local agencies, deployable under the Assured Workloads FedRAMP High data boundary, with the State of Missouri and the US Department of Health and Human Services named as early users and Slalom, Egen, Clutch, Daston Corporation, Onix and SZNS Solutions as launch partners. This is the government specialization the Gemini agent entry listed as \"coming soon\". Watch for general availability and for any contract value, which the announcement does not give. Verified against Google Cloud's announcement · 2026-10-21",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.googlecloudpresscorner.com/2026-10-20-Google-Public-Sector-Launches-Gemini-for-Government-Services\" target=\"_blank\" rel=\"noopener noreferrer\">Google Cloud's announcement</a> · 2026-10-21</p>",
+          "updated": "2026-10-21",
+          "sources": [
+            "googlecloudpresscorner.com"
+          ],
+          "due": null,
+          "due_label": null
+        },
+        {
           "headline": "<strong>Free Gemini accounts are limited to Flash-Lite from 9 October 2026.</strong>",
           "html": "<p><strong>Free Gemini accounts are limited to Flash-Lite from 9 October 2026.</strong> The AI Plus tier keeps Flash and loses Pro.</p>",
           "text": "Free Gemini accounts are limited to Flash-Lite from 9 October 2026. The AI Plus tier keeps Flash and loses Pro. Reported, from Engadget ; Google's own notice was not found · 2026-10-08",
@@ -879,6 +1024,39 @@
           ],
           "due": null,
           "due_label": null
+        },
+        {
+          "headline": "<strong>Waymo plans autonomous ride-hailing in the Madrid region in 2027, with testing starting October 2026.</strong>",
+          "html": "<p><strong>Waymo plans autonomous ride-hailing in the Madrid region in 2027, with testing starting October 2026.</strong> Waymo's own post says testing begins with manually driven operations before technical validation, using Jaguar I-PACE vehicles, first in Madrid City, Alcobendas and Getafe, and that it is still consulting national, regional and local authorities. No commercial date inside 2027, no fleet size and no investment figure were given. Watch for a service launch date and for any Spanish regulatory approval.</p>",
+          "text": "Waymo plans autonomous ride-hailing in the Madrid region in 2027, with testing starting October 2026. Waymo's own post says testing begins with manually driven operations before technical validation, using Jaguar I-PACE vehicles, first in Madrid City, Alcobendas and Getafe, and that it is still consulting national, regional and local authorities. No commercial date inside 2027, no fleet size and no investment figure were given. Watch for a service launch date and for any Spanish regulatory approval. Verified against Waymo's post · 2026-10-21",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://waymo.com/blog/2026/10/waymo-in-madrid-region/\" target=\"_blank\" rel=\"noopener noreferrer\">Waymo's post</a> · 2026-10-21</p>",
+          "updated": "2026-10-21",
+          "sources": [
+            "waymo.com"
+          ],
+          "due": null,
+          "due_label": null
+        }
+      ]
+    },
+    {
+      "theme": "Legal and regulatory",
+      "sub": false,
+      "lead_html": null,
+      "items": [
+        {
+          "headline": "<strong>A securities class action over the delayed Gemini 3.5 Pro launch has a lead-plaintiff deadline of 1 December 2026.</strong>",
+          "html": "<p><strong>A securities class action over the delayed Gemini 3.5 Pro launch has a lead-plaintiff deadline of 1 December 2026.</strong> Filed in the Northern District of California for purchasers between 19 May and 16 July 2026, it alleges Alphabet promised a June 2026 launch while not disclosing disappointing training results, and names Sundar Pichai and Anat Ashkenazi under Sections 10(b) and 20(a). Everything known about it here comes from law-firm notices, which are solicitations; the complaint and docket have not been read. Watch the deadline, any lead-plaintiff appointment, and whether Alphabet discloses the matter in its next 10-Q.</p>",
+          "text": "A securities class action over the delayed Gemini 3.5 Pro launch has a lead-plaintiff deadline of 1 December 2026. Filed in the Northern District of California for purchasers between 19 May and 16 July 2026, it alleges Alphabet promised a June 2026 launch while not disclosing disappointing training results, and names Sundar Pichai and Anat Ashkenazi under Sections 10(b) and 20(a). Everything known about it here comes from law-firm notices, which are solicitations; the complaint and docket have not been read. Watch the deadline, any lead-plaintiff appointment, and whether Alphabet discloses the matter in its next 10-Q. Reported · corroborating notices from Levi & Korsinsky and SueWallSt giving the same deadline · 2026-10-21",
+          "status": "reported",
+          "status_html": "<p>Reported · corroborating notices from <a href=\"https://www.globenewswire.com/news-release/2026/10/19/3383595/3080/en/googl-goog-shareholder-alert-alphabet-inc-securities-class-action-lawsuit-investors-should-contact-levi-korsinsky.html\" target=\"_blank\" rel=\"noopener noreferrer\">Levi &amp; Korsinsky</a> and <a href=\"https://www.globenewswire.com/news-release/2026/10/13/3380110/0/en/suewallst-reminds-shareholders-of-a-lead-plaintiff-deadline-of-december-1-2026-in-alphabet-inc-lawsuit-googl-goog.html\" target=\"_blank\" rel=\"noopener noreferrer\">SueWallSt</a> giving the same deadline · 2026-10-21</p>",
+          "updated": "2026-10-21",
+          "sources": [
+            "globenewswire.com"
+          ],
+          "due": "2026-12-01",
+          "due_label": "last day to move for lead plaintiff"
         }
       ]
     },
@@ -890,15 +1068,29 @@
         {
           "headline": "<strong>Q3 2026 results: Wednesday 28 October, with the call at 1:30pm Pacific (4:30pm Eastern).</strong>",
           "html": "<p><strong>Q3 2026 results: Wednesday 28 October, with the call at 1:30pm Pacific (4:30pm Eastern).</strong> Check the Gemini 4 Argon availability entry against what management says on the call.</p>",
-          "text": "Q3 2026 results: Wednesday 28 October, with the call at 1:30pm Pacific (4:30pm Eastern). Check the Gemini 4 Argon availability entry against what management says on the call. Verified against Alphabet's release · 2026-10-08",
+          "text": "Q3 2026 results: Wednesday 28 October, with the call at 1:30pm Pacific (4:30pm Eastern). Check the Gemini 4 Argon availability entry against what management says on the call. Verified against Alphabet's release · 2026-10-08, re-confirmed 2026-10-21",
           "status": "verified",
-          "status_html": "<p><strong>Verified</strong> against <a href=\"https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Date-of-Third-Quarter-2026-Financial-Results-Conference-Call-2026-8tpGZsLS6v/default.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Alphabet's release</a> · 2026-10-08</p>",
-          "updated": "2026-10-08",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Date-of-Third-Quarter-2026-Financial-Results-Conference-Call-2026-8tpGZsLS6v/default.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Alphabet's release</a> · 2026-10-08, re-confirmed 2026-10-21</p>",
+          "updated": "2026-10-21",
           "sources": [
             "Alphabet"
           ],
           "due": "2026-10-28",
           "due_label": "results and call"
+        },
+        {
+          "headline": "<strong>Google Cloud grew 82% year on year in Q2 2026, and the sub's circulating expectation is that Q3 clears 100%.</strong>",
+          "html": "<p><strong>Google Cloud grew 82% year on year in Q2 2026, and the sub's circulating expectation is that Q3 clears 100%.</strong> Alphabet's own Q2 release reports Cloud revenue of $24.8 billion against $13.624 billion a year earlier, on total revenue of $119.796 billion. The triple-digit figure is a Motley Fool author's prediction, not Alphabet guidance; Alphabet has not guided to a Cloud growth rate. The Q3 print on 28 October resolves it — record the actual rate here and delete the prediction.</p>",
+          "text": "Google Cloud grew 82% year on year in Q2 2026, and the sub's circulating expectation is that Q3 clears 100%. Alphabet's own Q2 release reports Cloud revenue of $24.8 billion against $13.624 billion a year earlier, on total revenue of $119.796 billion. The triple-digit figure is a Motley Fool author's prediction, not Alphabet guidance; Alphabet has not guided to a Cloud growth rate. The Q3 print on 28 October resolves it — record the actual rate here and delete the prediction. Verified for the Q2 figures against Alphabet's Q2 2026 results exhibit ; the 100% expectation is Reported from the Motley Fool article · 2026-10-21",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> for the Q2 figures against <a href=\"https://www.sec.gov/Archives/edgar/data/0001652044/000165204426000066/googexhibit991q22026.htm\" target=\"_blank\" rel=\"noopener noreferrer\">Alphabet's Q2 2026 results exhibit</a>; the 100% expectation is Reported from <a href=\"https://finance.yahoo.com/markets/stocks/articles/prediction-alphabet-report-google-cloud-120500989.html\" target=\"_blank\" rel=\"noopener noreferrer\">the Motley Fool article</a> · 2026-10-21</p>",
+          "updated": "2026-10-21",
+          "sources": [
+            "SEC filing",
+            "Yahoo Finance"
+          ],
+          "due": "2026-10-28",
+          "due_label": "Q3 Cloud revenue reported"
         }
       ]
     },
@@ -909,11 +1101,11 @@
       "items": [
         {
           "headline": "<strong>Alphabet trades at an &quot;execution discount&quot;.</strong>",
-          "html": "<p><strong>Alphabet trades at an &quot;execution discount&quot;.</strong> The sub's explanation for the stock falling on good news is that the market doubts leadership can ship on time. It is argued from release timing, not from any data.\nSince Argon shipped on 13 October the claim has been restated as a model-quality discount rather than a timing one, and the best-received replies now attribute the stock to macro — CPI, bond yields, capital spending — instead.</p>",
-          "text": "Alphabet trades at an \"execution discount\". The sub's explanation for the stock falling on good news is that the market doubts leadership can ship on time. It is argued from release timing, not from any data. Since Argon shipped on 13 October the claim has been restated as a model-quality discount rather than a timing one, and the best-received replies now attribute the stock to macro — CPI, bond yields, capital spending — instead. Single source each time; a debate, not a finding · 2026-10-17",
+          "html": "<p><strong>Alphabet trades at an &quot;execution discount&quot;.</strong> The sub's explanation for the stock falling on good news is that the market doubts leadership can ship on time. It is argued from release timing, not from any data.\nSince Argon shipped on 13 October the claim has been restated as a model-quality discount rather than a timing one, and the best-received replies now attribute the stock to macro — CPI, bond yields, capital spending — instead.\nBy 21 October the argument has thinned to price levels — the 200-day moving average, and whether $360 returns — with the top replies in both threads saying only the 28 October results matter. The sub itself is now deferring the claim to the print rather than defending it.</p>",
+          "text": "Alphabet trades at an \"execution discount\". The sub's explanation for the stock falling on good news is that the market doubts leadership can ship on time. It is argued from release timing, not from any data. Since Argon shipped on 13 October the claim has been restated as a model-quality discount rather than a timing one, and the best-received replies now attribute the stock to macro — CPI, bond yields, capital spending — instead. By 21 October the argument has thinned to price levels — the 200-day moving average, and whether $360 returns — with the top replies in both threads saying only the 28 October results matter. The sub itself is now deferring the claim to the print rather than defending it. Single source each time; a debate, not a finding · 2026-10-21",
           "status": "single-source",
-          "status_html": "<p>Single source each time; a debate, not a finding · 2026-10-17</p>",
-          "updated": "2026-10-17",
+          "status_html": "<p>Single source each time; a debate, not a finding · 2026-10-21</p>",
+          "updated": "2026-10-21",
           "sources": [],
           "due": null,
           "due_label": null
