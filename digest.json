@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-27",
+  "generated": "2026-10-30",
   "meta": {
     "feed": "goog_stock",
     "title": "GOOG Stock Digest",
@@ -21,6 +21,163 @@
     "source_note": "from Reddit's hot threads"
   },
   "digests": [
+    {
+      "date": "2026-10-30",
+      "title": "GOOG stock digest",
+      "intro_html": "<p>Every hot post this run is about the Q3 results Alphabet reported on 28 October and the sell-off that followed. Posters put the fall at 12.6% to 14%. The sub mostly answers it with &quot;don't panic sell&quot; and buying the dip. The arguments that engage with the numbers are about three things: negative free cash flow, Search slowing to 12% growth, and the CFO's line that capital spending will &quot;increase significantly&quot; in 2027. The release and the 10-Q confirm the headline figures. The quoted share-price moves were not checked.</p>",
+      "sections": [
+        {
+          "heading": "Must know",
+          "category": "mustknow",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Alphabet's Q3 2026 results paired 103% Google Cloud growth with negative free cash flow and slower Search, and the sub says that mix is why the stock fell.</strong>",
+              "html": "<p><strong>Alphabet's Q3 2026 results paired 103% Google Cloud growth with negative free cash flow and slower Search, and the sub says that mix is why the stock fell.</strong> Alphabet reported Q3 results on 28 October and filed its 10-Q on 29 October. Every post on the hot list this run reacts to them.</p>\n<ul>\n<li><strong>Why it matters:</strong> Alphabet's own figures make the bull and bear cases at the same time. Cloud revenue doubled, and the release says &quot;TPU systems sales were also a meaningful contributor to revenue growth&quot;. But capital spending of $51.4 billion ran ahead of operating cash flow, and Alphabet bought back no shares in the quarter, against $11.5 billion a year earlier. The 10-Q also shows the cost of funding the build-out: $42.9 billion from new common stock and $19.1 billion from mandatory convertible preferred stock in the first nine months of 2026.</li>\n<li><strong>What to watch:</strong> the Q4 call, where the CFO said 2027 capital-spending details will come (date not yet announced); the $0.22 dividend payable 14 December; whether Cloud margins hold now that the rented SpaceX capacity is online. A commenter says that capacity &quot;came online late in q3&quot;, so it barely touched this quarter's margins.</li>\n<li><strong>Numbers:</strong> These are measurements from the release unless marked. Revenue was $127.6 billion, up 25%. Search &amp; other was $63.4 billion, up 12%. YouTube ads were $11.2 billion. Cloud revenue was $30.7 billion, up 103%, with Cloud operating income of $11.1 billion against $3.6 billion a year earlier. Operating income was $40.6 billion, up about 30%. Diluted EPS was $2.12 against $2.87; an $8.7 billion loss on equity securities cut it by $0.55. Operating cash flow was $42.3 billion, capex $51.4 billion and free cash flow minus $9.1 billion. The 10-Q gives $560.8 billion of Google Cloud revenue backlog at 30 September. Google's claims: the release says Search query growth is &quot;the highest it has been in the last five years&quot;, that first-party model APIs process &quot;nearly 32 billion tokens per minute&quot;, and that the Gemini app has one billion users. As reported, not checked here: full-year 2026 capex guidance of $195–205 billion &quot;remains unchanged&quot;, per <a href=\"https://fourweekmba.com/ai-google-cloud-revenue-doubles-to-30-7b-as-capex-hits-51-4b/\" target=\"_blank\" rel=\"noopener noreferrer\">FourWeekMBA's call writeup</a>; consensus of &quot;about $128.0B&quot; revenue and &quot;about $3.02&quot; EPS, per a commenter; and the share-price fall.</li>\n<li><strong>Caveats:</strong> The sub disagrees about what drove the sell-off. One post says &quot;Most of Alphabet's miss came from an $8.7 billion loss on its stakes&quot;. A reply calls that &quot;false&quot;, because the stake loss had no bearing on the revenue miss, and cites Reuters (not readable here). Another commenter says &quot;the ai mode monetization question is why the stock is down&quot;. A third replies &quot;Most of the sell off happened before the call&quot;, which the posts' &quot;nearly 10% after hours&quot; figure supports. Long thesis posts (<a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1xj6gsb/\" target=\"_blank\" rel=\"noopener noreferrer\">one</a>, <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1xj8zeb/\" target=\"_blank\" rel=\"noopener noreferrer\">another</a>) mostly repeat the release figures correctly. They add claims not checked here: &quot;Roughly 100 major enterprise customers — including Anthropic … and Apple&quot; on TPUs, and TPU systems sold to Oracle. Their P/E and compounding figures are the posters' own.</li>\n<li><strong>Read next:</strong> <a href=\"https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm\" target=\"_blank\" rel=\"noopener noreferrer\">Alphabet's Q3 2026 earnings release (8-K exhibit 99.1)</a>.</li>\n</ul>",
+              "text": "Alphabet's Q3 2026 results paired 103% Google Cloud growth with negative free cash flow and slower Search, and the sub says that mix is why the stock fell. Alphabet reported Q3 results on 28 October and filed its 10-Q on 29 October. Every post on the hot list this run reacts to them. Why it matters: Alphabet's own figures make the bull and bear cases at the same time. Cloud revenue doubled, and the release says \"TPU systems sales were also a meaningful contributor to revenue growth\". But capital spending of $51.4 billion ran ahead of operating cash flow, and Alphabet bought back no shares in the quarter, against $11.5 billion a year earlier. The 10-Q also shows the cost of funding the build-out: $42.9 billion from new common stock and $19.1 billion from mandatory convertible preferred stock in the first nine months of 2026. What to watch: the Q4 call, where the CFO said 2027 capital-spending details will come (date not yet announced); the $0.22 dividend payable 14 December; whether Cloud margins hold now that the rented SpaceX capacity is online. A commenter says that capacity \"came online late in q3\", so it barely touched this quarter's margins. Numbers: These are measurements from the release unless marked. Revenue was $127.6 billion, up 25%. Search & other was $63.4 billion, up 12%. YouTube ads were $11.2 billion. Cloud revenue was $30.7 billion, up 103%, with Cloud operating income of $11.1 billion against $3.6 billion a year earlier. Operating income was $40.6 billion, up about 30%. Diluted EPS was $2.12 against $2.87; an $8.7 billion loss on equity securities cut it by $0.55. Operating cash flow was $42.3 billion, capex $51.4 billion and free cash flow minus $9.1 billion. The 10-Q gives $560.8 billion of Google Cloud revenue backlog at 30 September. Google's claims: the release says Search query growth is \"the highest it has been in the last five years\", that first-party model APIs process \"nearly 32 billion tokens per minute\", and that the Gemini app has one billion users. As reported, not checked here: full-year 2026 capex guidance of $195–205 billion \"remains unchanged\", per FourWeekMBA's call writeup ; consensus of \"about $128.0B\" revenue and \"about $3.02\" EPS, per a commenter; and the share-price fall. Caveats: The sub disagrees about what drove the sell-off. One post says \"Most of Alphabet's miss came from an $8.7 billion loss on its stakes\". A reply calls that \"false\", because the stake loss had no bearing on the revenue miss, and cites Reuters (not readable here). Another commenter says \"the ai mode monetization question is why the stock is down\". A third replies \"Most of the sell off happened before the call\", which the posts' \"nearly 10% after hours\" figure supports. Long thesis posts ( one , another ) mostly repeat the release figures correctly. They add claims not checked here: \"Roughly 100 major enterprise customers — including Anthropic … and Apple\" on TPUs, and TPU systems sold to Oracle. Their P/E and compounding figures are the posters' own. Read next: Alphabet's Q3 2026 earnings release (8-K exhibit 99.1) . Verified against the 8-K exhibit and the 10-Q for every figure labelled a measurement. Capex guidance is Reported from one secondary source. The share-price moves are Single source, as posted.",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against the 8-K exhibit and the <a href=\"https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/0001652044-26-000084-index.htm\" target=\"_blank\" rel=\"noopener noreferrer\">10-Q</a> for every figure labelled a measurement. Capex guidance is Reported from one secondary source. The share-price moves are Single source, as posted.</p>",
+              "updated": null,
+              "sources": [
+                "fourweekmba.com",
+                "r/GOOG_Stock",
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Valuation and price action",
+          "category": "valuation",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>The sub's most-argued thread blames the CFO's 2027 capex line for the fall, and its top replies defend management for saying it.</strong>",
+              "html": "<p><strong>The sub's most-argued thread blames the CFO's 2027 capex line for the fall, and its top replies defend management for saying it.</strong> <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1xijb1z/\" target=\"_blank\" rel=\"noopener noreferrer\">The post</a> (92 points, 118 comments) paraphrases the call as &quot;We plan to increase capital expenditure SIGNIFICANTLY in 2027&quot; and calls it &quot;the worst earnings sell off in Googles history&quot;. The top reply, at 129 points, says management is &quot;just focused on running the company and telling the truth instead of playing word games&quot;. A commenter corrects the quote to &quot;We continue to expect our CapEx to increase significantly in 2027, and we'll provide further details on our Q4 call&quot;. The same commenter says the CFO gave the same guidance on the Q2 call and at the June capital raise, so it was not new. FourWeekMBA's writeup carries the same wording. Another reply points to Search deceleration as &quot;the real surprise&quot;.</p>",
+              "text": "The sub's most-argued thread blames the CFO's 2027 capex line for the fall, and its top replies defend management for saying it. The post (92 points, 118 comments) paraphrases the call as \"We plan to increase capital expenditure SIGNIFICANTLY in 2027\" and calls it \"the worst earnings sell off in Googles history\". The top reply, at 129 points, says management is \"just focused on running the company and telling the truth instead of playing word games\". A commenter corrects the quote to \"We continue to expect our CapEx to increase significantly in 2027, and we'll provide further details on our Q4 call\". The same commenter says the CFO gave the same guidance on the Q2 call and at the June capital raise, so it was not new. FourWeekMBA's writeup carries the same wording. Another reply points to Search deceleration as \"the real surprise\". Reported · the call transcript was not read; the corrected quote matches one secondary writeup.",
+              "status": "reported",
+              "status_html": "<p>Reported · the call transcript was not read; the corrected quote matches one secondary writeup.</p>",
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>A 162-point post says Alphabet should sell its SpaceX shares and stop renting SpaceX compute, and commenters reply that it can't do the first yet and doesn't need to do the second.</strong>",
+              "html": "<p><strong>A 162-point post says Alphabet should sell its SpaceX shares and stop renting SpaceX compute, and commenters reply that it can't do the first yet and doesn't need to do the second.</strong> <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1xisxzq/\" target=\"_blank\" rel=\"noopener noreferrer\">The post</a> is a link with no body. One reply says &quot;I don't think they can sell SpaceX before end of year&quot;. Another says the rental continues because &quot;they can't stand up new data centers fast enough&quot;. The 10-Q supports the first reply: it says the $75.2 billion of SpaceX shares are &quot;subject to short-term restrictions on the ability to sell&quot;. A commenter puts the stake at &quot;~$80bn&quot; and the rental at &quot;$0.92bn/month ($11bn/year)&quot;, and concludes neither would &quot;move the needle&quot; against a market value they give as $3,473 billion.</p>",
+              "text": "A 162-point post says Alphabet should sell its SpaceX shares and stop renting SpaceX compute, and commenters reply that it can't do the first yet and doesn't need to do the second. The post is a link with no body. One reply says \"I don't think they can sell SpaceX before end of year\". Another says the rental continues because \"they can't stand up new data centers fast enough\". The 10-Q supports the first reply: it says the $75.2 billion of SpaceX shares are \"subject to short-term restrictions on the ability to sell\". A commenter puts the stake at \"~$80bn\" and the rental at \"$0.92bn/month ($11bn/year)\", and concludes neither would \"move the needle\" against a market value they give as $3,473 billion. Verified for the stake value and sale restriction against the 10-Q; the rental figure is as tracked from 27 October; the commenters' market value is as posted.",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> for the stake value and sale restriction against the 10-Q; the rental figure is as tracked from 27 October; the commenters' market value is as posted.</p>",
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>A post of historical charts showing how GOOG recovered after its largest past drops was the run's top post, and its replies are mostly about 2008.</strong>",
+              "html": "<p><strong>A post of historical charts showing how GOOG recovered after its largest past drops was the run's top post, and its replies are mostly about 2008.</strong> <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1xisk40/\" target=\"_blank\" rel=\"noopener noreferrer\">The post</a> (190 points, 65 comments) is an image. The top reply, at 25 points, is &quot;Hopefully it's not Feb 2008&quot;. The next, at 28, says &quot;All I see is that after its biggest drop it went -37%&quot;. A third commenter asks whether the chart's 6- and 12-month returns are measured from before or after the drop. Nobody answers.</p>",
+              "text": "A post of historical charts showing how GOOG recovered after its largest past drops was the run's top post, and its replies are mostly about 2008. The post (190 points, 65 comments) is an image. The top reply, at 25 points, is \"Hopefully it's not Feb 2008\". The next, at 28, says \"All I see is that after its biggest drop it went -37%\". A third commenter asks whether the chart's 6- and 12-month returns are measured from before or after the drop. Nobody answers. Single source · the chart was not readable here and its figures were not checked.",
+              "status": "single-source",
+              "status_html": "<p>Single source · the chart was not readable here and its figures were not checked.</p>",
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>The mood is &quot;don't panic sell&quot; and buy the dip, with a minority arguing the business has changed.</strong>",
+              "html": "<p><strong>The mood is &quot;don't panic sell&quot; and buy the dip, with a minority arguing the business has changed.</strong> The <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1xilpvy/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;Please don't panic sell&quot; thread</a> (150 points, 189 comments) and the <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1xirx1k/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;14% down is crazy&quot; thread</a> (91 points, 97 comments) are mostly members saying they bought more. The sharpest dissent says the company went &quot;from a free cash flowing machine with heavy buybacks, dividends and no debt on the balance sheet to a negative cash flowing machine with no buybacks or dividends with debt loading up on the balance sheet couple with equity dilution&quot;. The release confirms there were no buybacks and the 10-Q confirms the stock issuance, but a dividend was declared. Another commenter expects a &quot;re-rating of GOOG around 265-275 levels for a while&quot; until cash flow, capex and Search play out. A third says &quot;Lowest P/E in Alphabet history&quot;, which was not checked.</p>",
+              "text": "The mood is \"don't panic sell\" and buy the dip, with a minority arguing the business has changed. The \"Please don't panic sell\" thread (150 points, 189 comments) and the \"14% down is crazy\" thread (91 points, 97 comments) are mostly members saying they bought more. The sharpest dissent says the company went \"from a free cash flowing machine with heavy buybacks, dividends and no debt on the balance sheet to a negative cash flowing machine with no buybacks or dividends with debt loading up on the balance sheet couple with equity dilution\". The release confirms there were no buybacks and the 10-Q confirms the stock issuance, but a dividend was declared. Another commenter expects a \"re-rating of GOOG around 265-275 levels for a while\" until cash flow, capex and Search play out. A third says \"Lowest P/E in Alphabet history\", which was not checked. Single source · opinion throughout; the buyback and issuance points are checked against the release and 10-Q.",
+              "status": "single-source",
+              "status_html": "<p>Single source · opinion throughout; the buyback and issuance points are checked against the release and 10-Q.</p>",
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Unverified, and worth watching",
+          "category": "unverified",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>A 108-point post says a new Google logo rolls out &quot;tomorrow&quot;.</strong>",
+              "html": "<p><strong>A 108-point post says a new Google logo rolls out &quot;tomorrow&quot;.</strong> <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1xiwrwp/\" target=\"_blank\" rel=\"noopener noreferrer\">The post</a> is an image, and one reply says &quot;Not tomorrow. Coming soon&quot;. A search found coverage of the gradient &quot;G&quot; introduced in May 2025, but no announcement of a new logo in October 2026.</p>",
+              "text": "A 108-point post says a new Google logo rolls out \"tomorrow\". The post is an image, and one reply says \"Not tomorrow. Coming soon\". A search found coverage of the gradient \"G\" introduced in May 2025, but no announcement of a new logo in October 2026. Unconfirmed · WebSearch of news coverage; no Google announcement found",
+              "status": "unconfirmed",
+              "status_html": "<p><strong>Unconfirmed</strong> · WebSearch of news coverage; no Google announcement found</p>",
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> GOOG_Stock, via the scan, plus the comments on twelve threads.",
+              "html": "<p><strong>Read:</strong> GOOG_Stock, via the scan, plus the comments on twelve threads. <strong>Sources checked:</strong> Alphabet's SEC filings on EDGAR (fetched: the 28 October 8-K and its exhibit 99.1, the 29 October 10-Q, and the filing list); the Google Cloud AI blog (fetched); the Gemini models blog (fetched but showed no posts, so a WebSearch was used instead and found no new model announcement); Alphabet investor relations (fetched, but its news sections rendered empty). The 10-Q's legal-matters note was cut off in the fetch, so whether it discloses the Gemini 3.5 Pro class action is still unknown.</p>",
+              "text": "Read: GOOG_Stock, via the scan, plus the comments on twelve threads. Sources checked: Alphabet's SEC filings on EDGAR (fetched: the 28 October 8-K and its exhibit 99.1, the 29 October 10-Q, and the filing list); the Google Cloud AI blog (fetched); the Gemini models blog (fetched but showed no posts, so a WebSearch was used instead and found no new model announcement); Alphabet investor relations (fetched, but its news sections rendered empty). The 10-Q's legal-matters note was cut off in the fetch, so whether it discloses the Gemini 3.5 Pro class action is still unknown.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong>",
+              "html": "<p><strong>Announced, not discussed:</strong></p>\n<ul>\n<li><strong>Gemini Robotics Embodied Reasoning 2 went into public preview on Google Cloud's Gemini platform on 27 October.</strong> It is a model that acts as a robot's high-level planner, with Boston Dynamics among the customers quoted. Google claims 91.3% accuracy on event detection; that is its own benchmark claim.</li>\n<li><strong>Six Forms 4 on 27 October and a Form 144 on 29 October.</strong> These are insider ownership changes and a proposed sale; they were not opened.</li>\n</ul>",
+              "text": "Announced, not discussed: Gemini Robotics Embodied Reasoning 2 went into public preview on Google Cloud's Gemini platform on 27 October. It is a model that acts as a robot's high-level planner, with Boston Dynamics among the customers quoted. Google claims 91.3% accuracy on event detection; that is its own benchmark claim. Six Forms 4 on 27 October and a Form 144 on 29 October. These are insider ownership changes and a proposed sale; they were not opened. Verified against Google Cloud's post, 27 October Status: Verified against EDGAR's filing list",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://cloud.google.com/blog/products/ai-machine-learning/gemini-robotics-embodied-reasoning-2-is-now-available-on-google-cloud\" target=\"_blank\" rel=\"noopener noreferrer\">Google Cloud's post, 27 October</a> Status: <strong>Verified</strong> against EDGAR's filing list</p>",
+              "updated": null,
+              "sources": [
+                "Google Cloud"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong> the scan flagged none.",
+              "html": "<p><strong>Flagged terms set aside:</strong> the scan flagged none. Skipped under this feed's guidance: posts on members' own positions and average costs (&quot;500 shares at $281.28&quot;, &quot;Fully ported&quot;, &quot;all in with 400k cash&quot;, &quot;What GOOG moves did you do today?&quot;, &quot;Bought more&quot;, &quot;Hold or sell&quot;), a &quot;ChatGPT says to buy Google over Amazon&quot; post and an Amazon/Intel comparison. Not written up: the &quot;Single Metric&quot; price-to-net-tangible-assets post, which is one unsourced claim; a &quot;You've all gone crazy!&quot; post whose figures (a Q2 investment gain of $98 billion, &quot;TPU T8s&quot;) were not checked and whose replies mostly ask for it to be shorter; a YouTube-versus-Netflix ads link post and a Cloud-borrowing post, both with no readable content and few comments; and a &quot;temporary dislocation&quot; link post with one comment. An &quot;Anthropic IPO&quot; post repeats the claim already in the tracker, with no new source.</p>",
+              "text": "Flagged terms set aside: the scan flagged none. Skipped under this feed's guidance: posts on members' own positions and average costs (\"500 shares at $281.28\", \"Fully ported\", \"all in with 400k cash\", \"What GOOG moves did you do today?\", \"Bought more\", \"Hold or sell\"), a \"ChatGPT says to buy Google over Amazon\" post and an Amazon/Intel comparison. Not written up: the \"Single Metric\" price-to-net-tangible-assets post, which is one unsourced claim; a \"You've all gone crazy!\" post whose figures (a Q2 investment gain of $98 billion, \"TPU T8s\") were not checked and whose replies mostly ask for it to be shorter; a YouTube-versus-Netflix ads link post and a Cloud-borrowing post, both with no readable content and few comments; and a \"temporary dislocation\" link post with one comment. An \"Anthropic IPO\" post repeats the claim already in the tracker, with no new source.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-27",
       "title": "GOOG stock digest",
@@ -1275,6 +1432,19 @@
           "due_label": null
         },
         {
+          "headline": "<strong>Gemini Robotics Embodied Reasoning 2 is in public preview on Google Cloud's Gemini platform from 27 October 2026, not generally available.</strong>",
+          "html": "<p><strong>Gemini Robotics Embodied Reasoning 2 is in public preview on Google Cloud's Gemini platform from 27 October 2026, not generally available.</strong> A model that plans and coordinates robot actions, available through Agent Studio in Model Garden; Boston Dynamics, Arm and others are quoted as users. Watch for general availability.</p>",
+          "text": "Gemini Robotics Embodied Reasoning 2 is in public preview on Google Cloud's Gemini platform from 27 October 2026, not generally available. A model that plans and coordinates robot actions, available through Agent Studio in Model Garden; Boston Dynamics, Arm and others are quoted as users. Watch for general availability. Verified against Google Cloud's post · 2026-10-30",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://cloud.google.com/blog/products/ai-machine-learning/gemini-robotics-embodied-reasoning-2-is-now-available-on-google-cloud\" target=\"_blank\" rel=\"noopener noreferrer\">Google Cloud's post</a> · 2026-10-30</p>",
+          "updated": "2026-10-30",
+          "sources": [
+            "Google Cloud"
+          ],
+          "due": null,
+          "due_label": null
+        },
+        {
           "headline": "<strong>Free Gemini accounts are limited to Flash-Lite from 9 October 2026.</strong>",
           "html": "<p><strong>Free Gemini accounts are limited to Flash-Lite from 9 October 2026.</strong> The AI Plus tier keeps Flash and loses Pro.</p>",
           "text": "Free Gemini accounts are limited to Flash-Lite from 9 October 2026. The AI Plus tier keeps Flash and loses Pro. Reported, from Engadget ; Google's own notice was not found · 2026-10-08",
@@ -1374,11 +1544,11 @@
         },
         {
           "headline": "<strong>Google rents SpaceX's Colossus compute for $920 million a month from October 2026 to June 2029, per coverage of a SpaceX SEC filing.</strong>",
-          "html": "<p><strong>Google rents SpaceX's Colossus compute for $920 million a month from October 2026 to June 2029, per coverage of a SpaceX SEC filing.</strong> About 110,000 Nvidia GPUs and related hardware, which Google called &quot;bridge capacity&quot; for Gemini Enterprise demand; one report says either party can end it on 90 days' notice. The sub cites it as evidence capex will stay high.</p>",
-          "text": "Google rents SpaceX's Colossus compute for $920 million a month from October 2026 to June 2029, per coverage of a SpaceX SEC filing. About 110,000 Nvidia GPUs and related hardware, which Google called \"bridge capacity\" for Gemini Enterprise demand; one report says either party can end it on 90 days' notice. The sub cites it as evidence capex will stay high. Reported · Euronews ; the filing itself not read · 2026-10-27",
+          "html": "<p><strong>Google rents SpaceX's Colossus compute for $920 million a month from October 2026 to June 2029, per coverage of a SpaceX SEC filing.</strong> About 110,000 Nvidia GPUs and related hardware, which Google called &quot;bridge capacity&quot; for Gemini Enterprise demand; one report says either party can end it on 90 days' notice. The sub cites it as evidence capex will stay high.\nOn 30 October the sub's second-largest post asked Alphabet to end the rental and sell its SpaceX stake. The Q3 10-Q values that stake at $75.2 billion, &quot;subject to short-term restrictions on the ability to sell&quot;, and does not mention the rental.</p>",
+          "text": "Google rents SpaceX's Colossus compute for $920 million a month from October 2026 to June 2029, per coverage of a SpaceX SEC filing. About 110,000 Nvidia GPUs and related hardware, which Google called \"bridge capacity\" for Gemini Enterprise demand; one report says either party can end it on 90 days' notice. The sub cites it as evidence capex will stay high. On 30 October the sub's second-largest post asked Alphabet to end the rental and sell its SpaceX stake. The Q3 10-Q values that stake at $75.2 billion, \"subject to short-term restrictions on the ability to sell\", and does not mention the rental. Reported for the rental · Euronews , the filing itself not read; Verified for the stake against the 10-Q · 2026-10-30",
           "status": "reported",
-          "status_html": "<p>Reported · <a href=\"https://www.euronews.com/business/2026/06/06/google-rents-spacexai-supercomputers-for-920m-a-month-ahead-of-ipo\" target=\"_blank\" rel=\"noopener noreferrer\">Euronews</a>; the filing itself not read · 2026-10-27</p>",
-          "updated": "2026-10-27",
+          "status_html": "<p>Reported for the rental · <a href=\"https://www.euronews.com/business/2026/06/06/google-rents-spacexai-supercomputers-for-920m-a-month-ahead-of-ipo\" target=\"_blank\" rel=\"noopener noreferrer\">Euronews</a>, the filing itself not read; <strong>Verified</strong> for the stake against the 10-Q · 2026-10-30</p>",
+          "updated": "2026-10-30",
           "sources": [
             "euronews.com"
           ],
@@ -1394,8 +1564,8 @@
       "items": [
         {
           "headline": "<strong>A securities class action over the delayed Gemini 3.5 Pro launch has a lead-plaintiff deadline of 1 December 2026.</strong>",
-          "html": "<p><strong>A securities class action over the delayed Gemini 3.5 Pro launch has a lead-plaintiff deadline of 1 December 2026.</strong> Filed in the Northern District of California for purchasers between 19 May and 16 July 2026, it alleges Alphabet promised a June 2026 launch while not disclosing disappointing training results, and names Sundar Pichai and Anat Ashkenazi under Sections 10(b) and 20(a). Everything known about it here comes from law-firm notices, which are solicitations; the complaint and docket have not been read. Watch the deadline, any lead-plaintiff appointment, and whether Alphabet discloses the matter in its next 10-Q.</p>",
-          "text": "A securities class action over the delayed Gemini 3.5 Pro launch has a lead-plaintiff deadline of 1 December 2026. Filed in the Northern District of California for purchasers between 19 May and 16 July 2026, it alleges Alphabet promised a June 2026 launch while not disclosing disappointing training results, and names Sundar Pichai and Anat Ashkenazi under Sections 10(b) and 20(a). Everything known about it here comes from law-firm notices, which are solicitations; the complaint and docket have not been read. Watch the deadline, any lead-plaintiff appointment, and whether Alphabet discloses the matter in its next 10-Q. Reported · corroborating notices from Levi & Korsinsky and SueWallSt giving the same deadline · 2026-10-21",
+          "html": "<p><strong>A securities class action over the delayed Gemini 3.5 Pro launch has a lead-plaintiff deadline of 1 December 2026.</strong> Filed in the Northern District of California for purchasers between 19 May and 16 July 2026, it alleges Alphabet promised a June 2026 launch while not disclosing disappointing training results, and names Sundar Pichai and Anat Ashkenazi under Sections 10(b) and 20(a). Everything known about it here comes from law-firm notices, which are solicitations; the complaint and docket have not been read. Watch the deadline, any lead-plaintiff appointment, and whether Alphabet discloses the matter in its next 10-Q. The Q3 10-Q was filed on 29 October, but its legal-matters note was not readable in the fetch on 30 October, so this is still unchecked.</p>",
+          "text": "A securities class action over the delayed Gemini 3.5 Pro launch has a lead-plaintiff deadline of 1 December 2026. Filed in the Northern District of California for purchasers between 19 May and 16 July 2026, it alleges Alphabet promised a June 2026 launch while not disclosing disappointing training results, and names Sundar Pichai and Anat Ashkenazi under Sections 10(b) and 20(a). Everything known about it here comes from law-firm notices, which are solicitations; the complaint and docket have not been read. Watch the deadline, any lead-plaintiff appointment, and whether Alphabet discloses the matter in its next 10-Q. The Q3 10-Q was filed on 29 October, but its legal-matters note was not readable in the fetch on 30 October, so this is still unchecked. Reported · corroborating notices from Levi & Korsinsky and SueWallSt giving the same deadline · 2026-10-21",
           "status": "reported",
           "status_html": "<p>Reported · corroborating notices from <a href=\"https://www.globenewswire.com/news-release/2026/10/19/3383595/3080/en/googl-goog-shareholder-alert-alphabet-inc-securities-class-action-lawsuit-investors-should-contact-levi-korsinsky.html\" target=\"_blank\" rel=\"noopener noreferrer\">Levi &amp; Korsinsky</a> and <a href=\"https://www.globenewswire.com/news-release/2026/10/13/3380110/0/en/suewallst-reminds-shareholders-of-a-lead-plaintiff-deadline-of-december-1-2026-in-alphabet-inc-lawsuit-googl-goog.html\" target=\"_blank\" rel=\"noopener noreferrer\">SueWallSt</a> giving the same deadline · 2026-10-21</p>",
           "updated": "2026-10-21",
@@ -1426,31 +1596,41 @@
       "lead_html": null,
       "items": [
         {
-          "headline": "<strong>Q3 2026 results: Wednesday 28 October, with the call at 1:30pm Pacific (4:30pm Eastern).</strong>",
-          "html": "<p><strong>Q3 2026 results: Wednesday 28 October, with the call at 1:30pm Pacific (4:30pm Eastern).</strong> Check the Gemini 4 Argon availability entry against what management says on the call.</p>",
-          "text": "Q3 2026 results: Wednesday 28 October, with the call at 1:30pm Pacific (4:30pm Eastern). Check the Gemini 4 Argon availability entry against what management says on the call. Verified against Alphabet's release · 2026-10-08, re-confirmed 2026-10-21",
+          "headline": "<strong>The $0.22 quarterly dividend on Class A, B and C stock is payable 14 December 2026.</strong>",
+          "html": "<p><strong>The $0.22 quarterly dividend on Class A, B and C stock is payable 14 December 2026.</strong></p>",
+          "text": "The $0.22 quarterly dividend on Class A, B and C stock is payable 14 December 2026. Verified against the Q3 earnings release · 2026-10-30",
           "status": "verified",
-          "status_html": "<p><strong>Verified</strong> against <a href=\"https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Date-of-Third-Quarter-2026-Financial-Results-Conference-Call-2026-8tpGZsLS6v/default.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Alphabet's release</a> · 2026-10-08, re-confirmed 2026-10-21</p>",
-          "updated": "2026-10-21",
-          "sources": [
-            "Alphabet"
-          ],
-          "due": "2026-10-28",
-          "due_label": "results and call"
+          "status_html": "<p><strong>Verified</strong> against the Q3 earnings release · 2026-10-30</p>",
+          "updated": "2026-10-30",
+          "sources": [],
+          "due": "2026-12-14",
+          "due_label": "dividend payable"
         },
         {
-          "headline": "<strong>Google Cloud grew 82% year on year in Q2 2026, and the sub's circulating expectation is that Q3 clears 100%.</strong>",
-          "html": "<p><strong>Google Cloud grew 82% year on year in Q2 2026, and the sub's circulating expectation is that Q3 clears 100%.</strong> Alphabet's own Q2 release reports Cloud revenue of $24.8 billion against $13.624 billion a year earlier, on total revenue of $119.796 billion. The triple-digit figure is a Motley Fool author's prediction, not Alphabet guidance; Alphabet has not guided to a Cloud growth rate. The Q3 print on 28 October resolves it — record the actual rate here and delete the prediction.</p>",
-          "text": "Google Cloud grew 82% year on year in Q2 2026, and the sub's circulating expectation is that Q3 clears 100%. Alphabet's own Q2 release reports Cloud revenue of $24.8 billion against $13.624 billion a year earlier, on total revenue of $119.796 billion. The triple-digit figure is a Motley Fool author's prediction, not Alphabet guidance; Alphabet has not guided to a Cloud growth rate. The Q3 print on 28 October resolves it — record the actual rate here and delete the prediction. Verified for the Q2 figures against Alphabet's Q2 2026 results exhibit ; the 100% expectation is Reported from the Motley Fool article · 2026-10-21",
+          "headline": "<strong>Q3 2026 results, reported 28 October: Google Cloud grew 103% to $30.7 billion, and free cash flow was minus $9.1 billion.</strong>",
+          "html": "<p><strong>Q3 2026 results, reported 28 October: Google Cloud grew 103% to $30.7 billion, and free cash flow was minus $9.1 billion.</strong> Revenue was $127.6 billion, up 25%. Search &amp; other grew 12%, slower than the 17% the sub cites for Q2. Cloud operating income was $11.1 billion. Diluted EPS was $2.12, cut by $0.55 by an $8.7 billion equity-securities loss. Capex was $51.4 billion and there were no buybacks in the quarter. The 10-Q gives $560.8 billion of Google Cloud revenue backlog at 30 September. This settles the sub's pre-earnings claim that Q3 Cloud growth would clear 100%. The next results date has not been announced.</p>",
+          "text": "Q3 2026 results, reported 28 October: Google Cloud grew 103% to $30.7 billion, and free cash flow was minus $9.1 billion. Revenue was $127.6 billion, up 25%. Search & other grew 12%, slower than the 17% the sub cites for Q2. Cloud operating income was $11.1 billion. Diluted EPS was $2.12, cut by $0.55 by an $8.7 billion equity-securities loss. Capex was $51.4 billion and there were no buybacks in the quarter. The 10-Q gives $560.8 billion of Google Cloud revenue backlog at 30 September. This settles the sub's pre-earnings claim that Q3 Cloud growth would clear 100%. The next results date has not been announced. Verified against the Q3 earnings release and the 10-Q · 2026-10-30",
           "status": "verified",
-          "status_html": "<p><strong>Verified</strong> for the Q2 figures against <a href=\"https://www.sec.gov/Archives/edgar/data/0001652044/000165204426000066/googexhibit991q22026.htm\" target=\"_blank\" rel=\"noopener noreferrer\">Alphabet's Q2 2026 results exhibit</a>; the 100% expectation is Reported from <a href=\"https://finance.yahoo.com/markets/stocks/articles/prediction-alphabet-report-google-cloud-120500989.html\" target=\"_blank\" rel=\"noopener noreferrer\">the Motley Fool article</a> · 2026-10-21</p>",
-          "updated": "2026-10-21",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the Q3 earnings release</a> and <a href=\"https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/0001652044-26-000084-index.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the 10-Q</a> · 2026-10-30</p>",
+          "updated": "2026-10-30",
           "sources": [
-            "SEC filing",
-            "Yahoo Finance"
+            "SEC filing"
           ],
-          "due": "2026-10-28",
-          "due_label": "Q3 Cloud revenue reported"
+          "due": null,
+          "due_label": null
+        },
+        {
+          "headline": "<strong>2026 capex guidance is $195–205 billion, and the CFO says capex will &quot;increase significantly in 2027&quot;, with details promised on the Q4 call.</strong>",
+          "html": "<p><strong>2026 capex guidance is $195–205 billion, and the CFO says capex will &quot;increase significantly in 2027&quot;, with details promised on the Q4 call.</strong> The sub blames this line for the post-earnings fall. A commenter notes the same guidance was given on the Q2 call and at the June capital raise. The 10-Q shows $42.9 billion raised from common stock and $19.1 billion from mandatory convertible preferred stock in the first nine months of 2026. Watch the Q4 call for the 2027 figure.</p>",
+          "text": "2026 capex guidance is $195–205 billion, and the CFO says capex will \"increase significantly in 2027\", with details promised on the Q4 call. The sub blames this line for the post-earnings fall. A commenter notes the same guidance was given on the Q2 call and at the June capital raise. The 10-Q shows $42.9 billion raised from common stock and $19.1 billion from mandatory convertible preferred stock in the first nine months of 2026. Watch the Q4 call for the 2027 figure. Reported · the guidance and quote come from FourWeekMBA's call writeup and a commenter's quote, the transcript not read; the issuance figures are Verified against the 10-Q · 2026-10-30",
+          "status": "reported",
+          "status_html": "<p>Reported · the guidance and quote come from <a href=\"https://fourweekmba.com/ai-google-cloud-revenue-doubles-to-30-7b-as-capex-hits-51-4b/\" target=\"_blank\" rel=\"noopener noreferrer\">FourWeekMBA's call writeup</a> and a commenter's quote, the transcript not read; the issuance figures are <strong>Verified</strong> against the 10-Q · 2026-10-30</p>",
+          "updated": "2026-10-30",
+          "sources": [
+            "fourweekmba.com"
+          ],
+          "due": null,
+          "due_label": null
         }
       ]
     },
@@ -1461,11 +1641,11 @@
       "items": [
         {
           "headline": "<strong>Alphabet trades at an &quot;execution discount&quot;.</strong>",
-          "html": "<p><strong>Alphabet trades at an &quot;execution discount&quot;.</strong> The sub's explanation for the stock falling on good news is that the market doubts leadership can ship on time. It is argued from release timing, not from any data.\nSince Argon shipped on 13 October the claim has been restated as a model-quality discount rather than a timing one, and the best-received replies now attribute the stock to macro — CPI, bond yields, capital spending — instead.\nBy 21 October the argument has thinned to price levels — the 200-day moving average, and whether $360 returns — with the top replies in both threads saying only the 28 October results matter. The sub itself is now deferring the claim to the print rather than defending it.\nBy 24 October the sub's largest threads are about the drawdown itself (&quot;bear market&quot;, &quot;why is it trading like a meme stock&quot;), with the top replies calling it a short-term shake-out and a minority blaming capital spending and dependence on OpenAI and Anthropic demand.\nOn 27 October, the day before results, the largest thread marks the stock turning negative for the year; replies are almost all &quot;holding&quot; or &quot;bought more&quot;, and the only causal arguments are capital spending and selling ahead of an Anthropic IPO.</p>",
-          "text": "Alphabet trades at an \"execution discount\". The sub's explanation for the stock falling on good news is that the market doubts leadership can ship on time. It is argued from release timing, not from any data. Since Argon shipped on 13 October the claim has been restated as a model-quality discount rather than a timing one, and the best-received replies now attribute the stock to macro — CPI, bond yields, capital spending — instead. By 21 October the argument has thinned to price levels — the 200-day moving average, and whether $360 returns — with the top replies in both threads saying only the 28 October results matter. The sub itself is now deferring the claim to the print rather than defending it. By 24 October the sub's largest threads are about the drawdown itself (\"bear market\", \"why is it trading like a meme stock\"), with the top replies calling it a short-term shake-out and a minority blaming capital spending and dependence on OpenAI and Anthropic demand. On 27 October, the day before results, the largest thread marks the stock turning negative for the year; replies are almost all \"holding\" or \"bought more\", and the only causal arguments are capital spending and selling ahead of an Anthropic IPO. Single source each time; a debate, not a finding · 2026-10-27",
+          "html": "<p><strong>Alphabet trades at an &quot;execution discount&quot;.</strong> The sub's explanation for the stock falling on good news is that the market doubts leadership can ship on time. It is argued from release timing, not from any data.\nSince Argon shipped on 13 October the claim has been restated as a model-quality discount rather than a timing one, and the best-received replies now attribute the stock to macro — CPI, bond yields, capital spending — instead.\nBy 21 October the argument has thinned to price levels — the 200-day moving average, and whether $360 returns — with the top replies in both threads saying only the 28 October results matter. The sub itself is now deferring the claim to the print rather than defending it.\nBy 24 October the sub's largest threads are about the drawdown itself (&quot;bear market&quot;, &quot;why is it trading like a meme stock&quot;), with the top replies calling it a short-term shake-out and a minority blaming capital spending and dependence on OpenAI and Anthropic demand.\nOn 27 October, the day before results, the largest thread marks the stock turning negative for the year; replies are almost all &quot;holding&quot; or &quot;bought more&quot;, and the only causal arguments are capital spending and selling ahead of an Anthropic IPO.\nAfter the 28 October results, posters put the fall at 12.6% to 14%. The sub no longer talks about an execution discount. Its explanations are now the 2027 capex line, negative free cash flow, and Search slowing to 12% growth.</p>",
+          "text": "Alphabet trades at an \"execution discount\". The sub's explanation for the stock falling on good news is that the market doubts leadership can ship on time. It is argued from release timing, not from any data. Since Argon shipped on 13 October the claim has been restated as a model-quality discount rather than a timing one, and the best-received replies now attribute the stock to macro — CPI, bond yields, capital spending — instead. By 21 October the argument has thinned to price levels — the 200-day moving average, and whether $360 returns — with the top replies in both threads saying only the 28 October results matter. The sub itself is now deferring the claim to the print rather than defending it. By 24 October the sub's largest threads are about the drawdown itself (\"bear market\", \"why is it trading like a meme stock\"), with the top replies calling it a short-term shake-out and a minority blaming capital spending and dependence on OpenAI and Anthropic demand. On 27 October, the day before results, the largest thread marks the stock turning negative for the year; replies are almost all \"holding\" or \"bought more\", and the only causal arguments are capital spending and selling ahead of an Anthropic IPO. After the 28 October results, posters put the fall at 12.6% to 14%. The sub no longer talks about an execution discount. Its explanations are now the 2027 capex line, negative free cash flow, and Search slowing to 12% growth. Single source each time; a debate, not a finding · 2026-10-30",
           "status": "single-source",
-          "status_html": "<p>Single source each time; a debate, not a finding · 2026-10-27</p>",
-          "updated": "2026-10-27",
+          "status_html": "<p>Single source each time; a debate, not a finding · 2026-10-30</p>",
+          "updated": "2026-10-30",
           "sources": [],
           "due": null,
           "due_label": null
@@ -1483,11 +1663,11 @@
         },
         {
           "headline": "<strong>External TPU sales are the sub's next growth thesis, and Evercore ISI's note is what it rests on.</strong>",
-          "html": "<p><strong>External TPU sales are the sub's next growth thesis, and Evercore ISI's note is what it rests on.</strong> The firm reaffirmed Outperform with a $450 target and, per secondary coverage, projects external TPU sales at roughly 35% of Google Cloud revenue in 2027 — $75 billion in 2027 and $113 billion in 2028 — with Cloud revenue raised to $213 billion from $180 billion. These are one firm's estimates, not Alphabet guidance; Alphabet has not broken out external TPU hardware revenue. Watch whether the Q3 or Q4 call gives any external TPU figure.</p>",
-          "text": "External TPU sales are the sub's next growth thesis, and Evercore ISI's note is what it rests on. The firm reaffirmed Outperform with a $450 target and, per secondary coverage, projects external TPU sales at roughly 35% of Google Cloud revenue in 2027 — $75 billion in 2027 and $113 billion in 2028 — with Cloud revenue raised to $213 billion from $180 billion. These are one firm's estimates, not Alphabet guidance; Alphabet has not broken out external TPU hardware revenue. Watch whether the Q3 or Q4 call gives any external TPU figure. Reported · the note is paywalled; figures from Evercore coverage via TradingView · 2026-10-17",
+          "html": "<p><strong>External TPU sales are the sub's next growth thesis, and Evercore ISI's note is what it rests on.</strong> The firm reaffirmed Outperform with a $450 target and, per secondary coverage, projects external TPU sales at roughly 35% of Google Cloud revenue in 2027 — $75 billion in 2027 and $113 billion in 2028 — with Cloud revenue raised to $213 billion from $180 billion. These are one firm's estimates, not Alphabet guidance; Alphabet has not broken out external TPU hardware revenue. Watch whether the Q3 or Q4 call gives any external TPU figure.\nThe Q3 release says &quot;TPU systems sales were also a meaningful contributor&quot; to Cloud's 103% growth, but it gives no TPU revenue figure.</p>",
+          "text": "External TPU sales are the sub's next growth thesis, and Evercore ISI's note is what it rests on. The firm reaffirmed Outperform with a $450 target and, per secondary coverage, projects external TPU sales at roughly 35% of Google Cloud revenue in 2027 — $75 billion in 2027 and $113 billion in 2028 — with Cloud revenue raised to $213 billion from $180 billion. These are one firm's estimates, not Alphabet guidance; Alphabet has not broken out external TPU hardware revenue. Watch whether the Q3 or Q4 call gives any external TPU figure. The Q3 release says \"TPU systems sales were also a meaningful contributor\" to Cloud's 103% growth, but it gives no TPU revenue figure. Reported · the note is paywalled; figures from Evercore coverage via TradingView ; the release wording Verified · 2026-10-30",
           "status": "reported",
-          "status_html": "<p>Reported · the note is paywalled; figures from <a href=\"https://www.tradingview.com/news/seekingalpha:554b9cca8094b:0-evercore-raises-alphabet-estimates-on-potential-tpu-hardware-sales/\" target=\"_blank\" rel=\"noopener noreferrer\">Evercore coverage via TradingView</a> · 2026-10-17</p>",
-          "updated": "2026-10-17",
+          "status_html": "<p>Reported · the note is paywalled; figures from <a href=\"https://www.tradingview.com/news/seekingalpha:554b9cca8094b:0-evercore-raises-alphabet-estimates-on-potential-tpu-hardware-sales/\" target=\"_blank\" rel=\"noopener noreferrer\">Evercore coverage via TradingView</a>; the release wording <strong>Verified</strong> · 2026-10-30</p>",
+          "updated": "2026-10-30",
           "sources": [
             "tradingview.com"
           ],
