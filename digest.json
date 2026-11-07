@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-30",
+  "generated": "2026-11-06",
   "meta": {
     "feed": "goog_stock",
     "title": "GOOG Stock Digest",
@@ -21,6 +21,197 @@
     "source_note": "from Reddit's hot threads"
   },
   "digests": [
+    {
+      "date": "2026-11-06",
+      "title": "GOOG stock digest",
+      "intro_html": "<p>This run covers the week after Q3 results and the 3 November midterms. The sub spent it watching GOOG hold roughly flat while chip and neocloud stocks fell on Thursday 5 November, and most of it reads a slower data-centre build-out as good for Alphabet. Company news was thin: Alphabet closed a €6 billion euro bond on 5 November, Reuters reported Google's voluntary buyouts have spread to five more countries, and a K-12 Search change drew a small, angry thread. The gap since the last entry is seven days, so official sources were checked for the whole window.</p>",
+      "sections": [
+        {
+          "heading": "Must know",
+          "category": "mustknow",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>GOOG held near its post-earnings level through the 5 November AI sell-off, and the sub's answer is that it had already fallen and that slower data-centre building favours whoever already owns capacity.</strong>",
+              "html": "<p><strong>GOOG held near its post-earnings level through the 5 November AI sell-off, and the sub's answer is that it had already fallen and that slower data-centre building favours whoever already owns capacity.</strong> The sell-off was blamed on the Democratic sweep and promised data-centre restrictions, which hit chip and neocloud stocks hardest.</p>\n<ul>\n<li><strong>Why it matters:</strong> It is the run's main question, asked directly in <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1xp4o5k/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;Why didn't Goog drop sharply like the other AI stocks yesterday?&quot;</a> and behind <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1xom6zo/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;better to own Google than Chips right now&quot;</a> (63 points). The top reply, at 115 points, is &quot;Because it just dropped 20% already&quot;. The reasoned replies are &quot;if data center buildout slows, the bottleneck for ai becomes the existing data centers where google amazon and microsoft dominate&quot; and &quot;SLOWER DC development = LESS CHIP DEMAND = CHEAPER CAPEX = HIGHER FCF&quot;.</li>\n<li><strong>What to watch:</strong> Texas governor-elect Gina Hinojosa takes office on 19 January and has pledged a moratorium on data-centre approvals until the Legislature passes rules; no order exists yet. Also Berkshire Hathaway's Q3 13F, which the sub expects on 16 November, and the Q4 call, where Alphabet promised 2027 capex details.</li>\n<li><strong>Numbers:</strong> All as posted, none checked. &quot;$281 vs $404 ATH&quot; (<a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1xp96et/\" target=\"_blank\" rel=\"noopener noreferrer\">post</a>, 104 points). &quot;Down 12% last week in 1 day. Lept up Monday by 5%&quot; (<a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1xoogwi/\" target=\"_blank\" rel=\"noopener noreferrer\">post</a>). In an r/investing thread, a commenter says Alphabet &quot;closed Thursday at $282.57, down 0.4% on the week, while Nvidia fell 15%&quot;.</li>\n<li><strong>Caveats:</strong> Nothing has been legislated: the threat is campaign pledges and local ballot measures. The &quot;beneficiary&quot; reading also cuts both ways. A filings-based <a href=\"https://www.reddit.com/r/investing/comments/1xpct6i/\" target=\"_blank\" rel=\"noopener noreferrer\">r/investing post</a> puts Alphabet's Q3 operating cash flow minus capex at about −$9.1 billion, the second-largest gap among the four hyperscalers, and Alphabet borrowed €6 billion more on the day of the sell-off (below).</li>\n<li><strong>Read next:</strong> <a href=\"https://www.thestar.com.my/tech/tech-news/2026/11/05/texas-data-centers-face-uncertain-future-after-hinojosa-wins-governors-race\" target=\"_blank\" rel=\"noopener noreferrer\">Reuters, via The Star: Texas data centers face uncertain future after Hinojosa wins governor's race</a>.</li>\n</ul>",
+              "text": "GOOG held near its post-earnings level through the 5 November AI sell-off, and the sub's answer is that it had already fallen and that slower data-centre building favours whoever already owns capacity. The sell-off was blamed on the Democratic sweep and promised data-centre restrictions, which hit chip and neocloud stocks hardest. Why it matters: It is the run's main question, asked directly in \"Why didn't Goog drop sharply like the other AI stocks yesterday?\" and behind \"better to own Google than Chips right now\" (63 points). The top reply, at 115 points, is \"Because it just dropped 20% already\". The reasoned replies are \"if data center buildout slows, the bottleneck for ai becomes the existing data centers where google amazon and microsoft dominate\" and \"SLOWER DC development = LESS CHIP DEMAND = CHEAPER CAPEX = HIGHER FCF\". What to watch: Texas governor-elect Gina Hinojosa takes office on 19 January and has pledged a moratorium on data-centre approvals until the Legislature passes rules; no order exists yet. Also Berkshire Hathaway's Q3 13F, which the sub expects on 16 November, and the Q4 call, where Alphabet promised 2027 capex details. Numbers: All as posted, none checked. \"$281 vs $404 ATH\" ( post , 104 points). \"Down 12% last week in 1 day. Lept up Monday by 5%\" ( post ). In an r/investing thread, a commenter says Alphabet \"closed Thursday at $282.57, down 0.4% on the week, while Nvidia fell 15%\". Caveats: Nothing has been legislated: the threat is campaign pledges and local ballot measures. The \"beneficiary\" reading also cuts both ways. A filings-based r/investing post puts Alphabet's Q3 operating cash flow minus capex at about −$9.1 billion, the second-largest gap among the four hyperscalers, and Alphabet borrowed €6 billion more on the day of the sell-off (below). Read next: Reuters, via The Star: Texas data centers face uncertain future after Hinojosa wins governor's race . Single source for every share-price figure, as posted · the pledge and the 19 January start are Reported across States Newsroom and Reuters as syndicated",
+              "status": "single-source",
+              "status_html": "<p>Single source for every share-price figure, as posted · the pledge and the 19 January start are Reported across <a href=\"https://www.newsfromthestates.com/article/gina-hinojosa-won-governors-race-what-happens-texas-data-centers-now\" target=\"_blank\" rel=\"noopener noreferrer\">States Newsroom</a> and Reuters as syndicated</p>",
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock",
+                "r/investing",
+                "thestar.com.my",
+                "newsfromthestates.com"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Company news and filings",
+          "category": "news",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Alphabet closed €6 billion of euro-denominated senior notes on 5 November, in seven tranches from 2028 to 2045.</strong>",
+              "html": "<p><strong>Alphabet closed €6 billion of euro-denominated senior notes on 5 November, in seven tranches from 2028 to 2045.</strong> There is a €750 million floating-rate note due 2028, then fixed coupons from 3.700% (2028) to 5.250% (€1 billion due 2045). The preliminary prospectus was filed on 2 November. Nobody on r/GOOG_Stock posted it. The r/investing filings post notes that Alphabet's non-current long-term debt was already $125.1 billion at 30 September; that figure was not checked. <a href=\"https://www.sec.gov/Archives/edgar/data/1652044/000119312526449835/d174184d8k.htm\" target=\"_blank\" rel=\"noopener noreferrer\">8-K</a></p>",
+              "text": "Alphabet closed €6 billion of euro-denominated senior notes on 5 November, in seven tranches from 2028 to 2045. There is a €750 million floating-rate note due 2028, then fixed coupons from 3.700% (2028) to 5.250% (€1 billion due 2045). The preliminary prospectus was filed on 2 November. Nobody on r/GOOG_Stock posted it. The r/investing filings post notes that Alphabet's non-current long-term debt was already $125.1 billion at 30 September; that figure was not checked. 8-K Verified against the 8-K of 5 November",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against the 8-K of 5 November</p>",
+              "updated": null,
+              "sources": [
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Google confirmed to Reuters that it extended voluntary exit packages in June to some employees in Canada, France, Germany, Japan and Switzerland.</strong>",
+              "html": "<p><strong>Google confirmed to Reuters that it extended voluntary exit packages in June to some employees in Canada, France, Germany, Japan and Switzerland.</strong> This follows programmes in some US and UK teams since 2025. Google Cloud and DeepMind staff have been excluded before. Reuters could not say how many accepted. One reply reads it as lower opex that will be spent on AI anyway. A separate post titled <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1xotnze/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;Google Joins The Surge Of Tech Layoffs&quot;</a> drew the correction that &quot;This VEP happened in June, it's not Google scrambling to mirror MSFT&quot;. <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1xnom8s/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "Google confirmed to Reuters that it extended voluntary exit packages in June to some employees in Canada, France, Germany, Japan and Switzerland. This follows programmes in some US and UK teams since 2025. Google Cloud and DeepMind staff have been excluded before. Reuters could not say how many accepted. One reply reads it as lower opex that will be spent on AI anyway. A separate post titled \"Google Joins The Surge Of Tech Layoffs\" drew the correction that \"This VEP happened in June, it's not Google scrambling to mirror MSFT\". thread Reported · Reuters' report as pasted and as syndicated by The Star ; the Reuters original was not read",
+              "status": "reported",
+              "status_html": "<p>Reported · Reuters' report as pasted and as syndicated by <a href=\"https://www.thestar.com.my/tech/tech-news/2026/11/04/exclusive-google-extends-voluntary-buyout-offers-to-employees-in-several-countries\" target=\"_blank\" rel=\"noopener noreferrer\">The Star</a>; the Reuters original was not read</p>",
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock",
+                "thestar.com.my"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "AI models and products",
+          "category": "ai",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Google will turn Gemini and Search off by default for K-12 student accounts from early 2027, and schools that disable its AI tools lose Search with them.</strong>",
+              "html": "<p><strong>Google will turn Gemini and Search off by default for K-12 student accounts from early 2027, and schools that disable its AI tools lose Search with them.</strong> TechCrunch, reporting on 3 November, says administrators can enable Search on its own but can't keep Search while switching off the AI in it. The <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1xnmtsp/\" target=\"_blank\" rel=\"noopener noreferrer\">post</a> calls it a &quot;very stupid decision&quot; given the political climate. The best-received reply says a fork of Search without AI Mode &quot;is probably a lot harder and more expensive than you think&quot; and that the story &quot;will be old news in a week&quot;.</p>",
+              "text": "Google will turn Gemini and Search off by default for K-12 student accounts from early 2027, and schools that disable its AI tools lose Search with them. TechCrunch, reporting on 3 November, says administrators can enable Search on its own but can't keep Search while switching off the AI in it. The post calls it a \"very stupid decision\" given the political climate. The best-received reply says a fork of Search without AI Mode \"is probably a lot harder and more expensive than you think\" and that the story \"will be old news in a week\". Reported · TechCrunch, 3 November ; Google's own announcement was not read",
+              "status": "reported",
+              "status_html": "<p>Reported · <a href=\"https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/\" target=\"_blank\" rel=\"noopener noreferrer\">TechCrunch, 3 November</a>; Google's own announcement was not read</p>",
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock",
+                "TechCrunch"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Valuation and price action",
+          "category": "valuation",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>A 215-point &quot;whale alert&quot; reports $34.8 million of premium collected on GOOG puts struck at $480 for 15 January 2027, and commenters read it as a large bullish buy, not a crash bet.</strong>",
+              "html": "<p><strong>A 215-point &quot;whale alert&quot; reports $34.8 million of premium collected on GOOG puts struck at $480 for 15 January 2027, and commenters read it as a large bullish buy, not a crash bet.</strong> The poster says it commits the seller to 182,200 shares at an effective $278.89. Commenters explain that a deep in-the-money sold put is &quot;Basically a buy order that they got paid for&quot;, so it pays off if GOOG stays above about $279. <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1xn6l2u/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a></p>",
+              "text": "A 215-point \"whale alert\" reports $34.8 million of premium collected on GOOG puts struck at $480 for 15 January 2027, and commenters read it as a large bullish buy, not a crash bet. The poster says it commits the seller to 182,200 shares at an effective $278.89. Commenters explain that a deep in-the-money sold put is \"Basically a buy order that they got paid for\", so it pays off if GOOG stays above about $279. thread Single source · options-flow figures as posted; no flow data was checked",
+              "status": "single-source",
+              "status_html": "<p>Single source · options-flow figures as posted; no flow data was checked</p>",
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>The sub hopes Berkshire bought more in Q3, and its own replies say the 13F can't settle that.</strong>",
+              "html": "<p><strong>The sub hopes Berkshire bought more in Q3, and its own replies say the 13F can't settle that.</strong> <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1xpsxzw/\" target=\"_blank\" rel=\"noopener noreferrer\">The post</a> expects the 13F on 16 November. Replies note it shows holdings only to 30 September, and that &quot;Berkshire can add retail confidence but it doesn't change anything google does&quot;. The <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1xnprse/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;Huge buy just went through&quot;</a> thread credits Berkshire with a block trade without evidence. Its top reply says &quot;the whole fken market is up. Chill.&quot; One commenter claims Alphabet &quot;still has like $27.6 billion worth of shares&quot; unsold from the June equity raise; that was not checked.</p>",
+              "text": "The sub hopes Berkshire bought more in Q3, and its own replies say the 13F can't settle that. The post expects the 13F on 16 November. Replies note it shows holdings only to 30 September, and that \"Berkshire can add retail confidence but it doesn't change anything google does\". The \"Huge buy just went through\" thread credits Berkshire with a block trade without evidence. Its top reply says \"the whole fken market is up. Chill.\" One commenter claims Alphabet \"still has like $27.6 billion worth of shares\" unsold from the June equity raise; that was not checked.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Asked what could lift the stock in one to three months, the sub named capex discipline, layoffs, or a consumer agent like Meta's Muse.</strong>",
+              "html": "<p><strong>Asked what could lift the stock in one to three months, the sub named capex discipline, layoffs, or a consumer agent like Meta's Muse.</strong> In the <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1xpm4y7/\" target=\"_blank\" rel=\"noopener noreferrer\">catalysts thread</a>, one reply says &quot;Even if they drop a model that tops Claude/ChatGPT, we ain't recovering properly&quot; until sentiment on AI shifts.</p>",
+              "text": "Asked what could lift the stock in one to three months, the sub named capex discipline, layoffs, or a consumer agent like Meta's Muse. In the catalysts thread , one reply says \"Even if they drop a model that tops Claude/ChatGPT, we ain't recovering properly\" until sentiment on AI shifts. Single source · opinion",
+              "status": "single-source",
+              "status_html": "<p>Single source · opinion</p>",
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> GOOG_Stock (25 posts in the scan; comments on nine threads read, plus one r/investing filings thread).",
+              "html": "<p><strong>Read:</strong> GOOG_Stock (25 posts in the scan; comments on nine threads read, plus one r/investing filings thread). <strong>Sources checked:</strong> Alphabet's SEC filings on EDGAR (filing list fetched; the 5 November 8-K read; the 2 November 424B5 cover read, blank as a preliminary); Alphabet investor relations (fetched, but its news and earnings sections rendered empty, and no Q4 date is posted); the Google Cloud AI blog (fetched; the index shows no dates, so the newest posts were opened); the Gemini models blog (fetched but showed no posts, so a WebSearch was used and found no new model announcement since 30 October).</p>",
+              "text": "Read: GOOG_Stock (25 posts in the scan; comments on nine threads read, plus one r/investing filings thread). Sources checked: Alphabet's SEC filings on EDGAR (filing list fetched; the 5 November 8-K read; the 2 November 424B5 cover read, blank as a preliminary); Alphabet investor relations (fetched, but its news and earnings sections rendered empty, and no Q4 date is posted); the Google Cloud AI blog (fetched; the index shows no dates, so the newest posts were opened); the Gemini models blog (fetched but showed no posts, so a WebSearch was used and found no new model announcement since 30 October).",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong>",
+              "html": "<p><strong>Announced, not discussed:</strong></p>\n<ul>\n<li><strong>Gemini Omni 1.2 Flash, a video generation and editing model, became generally available on Google Cloud on 5 November.</strong> Google prices it at &quot;$0.07 per second of 720p video, 30% less than Gemini Omni 1.1 Flash&quot;. It is live in Google Vids for business users and &quot;coming soon&quot; to Gemini for business; audio references need allowlisting.</li>\n<li><strong>Alphabet filed its own 13F-HR on 6 November, a Form 4 on 30 October and a Form 144 on 29 October.</strong> None was opened.</li>\n</ul>",
+              "text": "Announced, not discussed: Gemini Omni 1.2 Flash, a video generation and editing model, became generally available on Google Cloud on 5 November. Google prices it at \"$0.07 per second of 720p video, 30% less than Gemini Omni 1.1 Flash\". It is live in Google Vids for business users and \"coming soon\" to Gemini for business; audio references need allowlisting. Alphabet filed its own 13F-HR on 6 November, a Form 4 on 30 October and a Form 144 on 29 October. None was opened. Verified against Google Cloud's post, 5 November Status: Verified against EDGAR's filing list",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://cloud.google.com/blog/products/ai-machine-learning/gemini-omni-1-2-flash-generally-available\" target=\"_blank\" rel=\"noopener noreferrer\">Google Cloud's post, 5 November</a> Status: <strong>Verified</strong> against EDGAR's filing list</p>",
+              "updated": null,
+              "sources": [
+                "Google Cloud"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong> the scan flagged none.",
+              "html": "<p><strong>Flagged terms set aside:</strong> the scan flagged none. Skipped under this feed's guidance: position and cost-basis posts (&quot;Full port&quot;, &quot;Half Of My IRA In GOOG&quot;, &quot;Fuck it&quot;, the &quot;GOOG @ 420 May 2027&quot; trade story), an image post (&quot;we are so back!&quot;), opinion posts (&quot;How does Google not win ai&quot;, &quot;Goog has a PE ratio less than Nike&quot;), and posts with no readable content or replies (a Gemini-ads revenue question, a Bronte Capital interview link, &quot;GOOG: bear case 2027?&quot;, &quot;Any idea on Google Acquiring Reddit now?&quot;). The midterm-rally link post is covered under Must know.</p>",
+              "text": "Flagged terms set aside: the scan flagged none. Skipped under this feed's guidance: position and cost-basis posts (\"Full port\", \"Half Of My IRA In GOOG\", \"Fuck it\", the \"GOOG @ 420 May 2027\" trade story), an image post (\"we are so back!\"), opinion posts (\"How does Google not win ai\", \"Goog has a PE ratio less than Nike\"), and posts with no readable content or replies (a Gemini-ads revenue question, a Bronte Capital interview link, \"GOOG: bear case 2027?\", \"Any idea on Google Acquiring Reddit now?\"). The midterm-rally link post is covered under Must know.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "Hot lists could not cover 2026-10-30 to 2026-11-06; official sources were checked for that window.",
+              "html": "<p>Hot lists could not cover 2026-10-30 to 2026-11-06; official sources were checked for that window.</p>",
+              "text": "Hot lists could not cover 2026-10-30 to 2026-11-06; official sources were checked for that window.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-30",
       "title": "GOOG stock digest",
@@ -1445,6 +1636,32 @@
           "due_label": null
         },
         {
+          "headline": "<strong>Gemini Omni 1.2 Flash, a video generation and editing model, is generally available on Google Cloud from 5 November 2026.</strong>",
+          "html": "<p><strong>Gemini Omni 1.2 Flash, a video generation and editing model, is generally available on Google Cloud from 5 November 2026.</strong> Google prices it at &quot;$0.07 per second of 720p video, 30% less than Gemini Omni 1.1 Flash&quot;. It is live in Google Vids for business users and through the API and Cloud console; Gemini for business is &quot;coming soon&quot;, and audio references need allowlisting. Watch for the Gemini for business rollout.</p>",
+          "text": "Gemini Omni 1.2 Flash, a video generation and editing model, is generally available on Google Cloud from 5 November 2026. Google prices it at \"$0.07 per second of 720p video, 30% less than Gemini Omni 1.1 Flash\". It is live in Google Vids for business users and through the API and Cloud console; Gemini for business is \"coming soon\", and audio references need allowlisting. Watch for the Gemini for business rollout. Verified against Google Cloud's post · 2026-11-06",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://cloud.google.com/blog/products/ai-machine-learning/gemini-omni-1-2-flash-generally-available\" target=\"_blank\" rel=\"noopener noreferrer\">Google Cloud's post</a> · 2026-11-06</p>",
+          "updated": "2026-11-06",
+          "sources": [
+            "Google Cloud"
+          ],
+          "due": null,
+          "due_label": null
+        },
+        {
+          "headline": "<strong>Gemini and Search will be off by default for K-12 student accounts from early 2027, and a school that disables Google's AI tools cannot keep Search with the AI removed.</strong>",
+          "html": "<p><strong>Gemini and Search will be off by default for K-12 student accounts from early 2027, and a school that disables Google's AI tools cannot keep Search with the AI removed.</strong> Per TechCrunch on 3 November, administrators can enable each tool separately, including Search alone, but AI Overviews cannot be switched off within Search. The sub's reaction was small and split between &quot;terrible optics&quot; and &quot;old news in a week&quot;. Watch for Google's own announcement, a start date, and whether the default applies outside the US.</p>",
+          "text": "Gemini and Search will be off by default for K-12 student accounts from early 2027, and a school that disables Google's AI tools cannot keep Search with the AI removed. Per TechCrunch on 3 November, administrators can enable each tool separately, including Search alone, but AI Overviews cannot be switched off within Search. The sub's reaction was small and split between \"terrible optics\" and \"old news in a week\". Watch for Google's own announcement, a start date, and whether the default applies outside the US. Reported · TechCrunch ; Google's announcement not read · 2026-11-06",
+          "status": "reported",
+          "status_html": "<p>Reported · <a href=\"https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/\" target=\"_blank\" rel=\"noopener noreferrer\">TechCrunch</a>; Google's announcement not read · 2026-11-06</p>",
+          "updated": "2026-11-06",
+          "sources": [
+            "TechCrunch"
+          ],
+          "due": null,
+          "due_label": null
+        },
+        {
           "headline": "<strong>Free Gemini accounts are limited to Flash-Lite from 9 October 2026.</strong>",
           "html": "<p><strong>Free Gemini accounts are limited to Flash-Lite from 9 October 2026.</strong> The AI Plus tier keeps Flash and loses Pro.</p>",
           "text": "Free Gemini accounts are limited to Flash-Lite from 9 October 2026. The AI Plus tier keeps Flash and loses Pro. Reported, from Engadget ; Google's own notice was not found · 2026-10-08",
@@ -1576,6 +1793,20 @@
           "due_label": "last day to move for lead plaintiff"
         },
         {
+          "headline": "<strong>Texas governor-elect Gina Hinojosa has pledged a moratorium on data-centre approvals until the Legislature passes rules, and takes office on 19 January 2027.</strong>",
+          "html": "<p><strong>Texas governor-elect Gina Hinojosa has pledged a moratorium on data-centre approvals until the Legislature passes rules, and takes office on 19 January 2027.</strong> She said before the election: &quot;When I am governor I will issue a moratorium — a ban — on all data center approvals until laws can be passed by the Legislature to protect Texans.&quot; A Reddit post says she would let currently permitted projects finish, which was not confirmed. The sub treats slower building as good for Alphabet, which already has capacity. Watch for an executive order after 19 January and the 2027 legislative session.</p>",
+          "text": "Texas governor-elect Gina Hinojosa has pledged a moratorium on data-centre approvals until the Legislature passes rules, and takes office on 19 January 2027. She said before the election: \"When I am governor I will issue a moratorium — a ban — on all data center approvals until laws can be passed by the Legislature to protect Texans.\" A Reddit post says she would let currently permitted projects finish, which was not confirmed. The sub treats slower building as good for Alphabet, which already has capacity. Watch for an executive order after 19 January and the 2027 legislative session. Reported · States Newsroom and Reuters as syndicated by The Star ; no order exists yet · 2026-11-06",
+          "status": "reported",
+          "status_html": "<p>Reported · <a href=\"https://www.newsfromthestates.com/article/gina-hinojosa-won-governors-race-what-happens-texas-data-centers-now\" target=\"_blank\" rel=\"noopener noreferrer\">States Newsroom</a> and Reuters as syndicated by <a href=\"https://www.thestar.com.my/tech/tech-news/2026/11/05/texas-data-centers-face-uncertain-future-after-hinojosa-wins-governors-race\" target=\"_blank\" rel=\"noopener noreferrer\">The Star</a>; no order exists yet · 2026-11-06</p>",
+          "updated": "2026-11-06",
+          "sources": [
+            "newsfromthestates.com",
+            "thestar.com.my"
+          ],
+          "due": "2027-01-19",
+          "due_label": "inauguration"
+        },
+        {
           "headline": "<strong>Finland's regulator halted forest clearance and groundwork at Google's Muhos and Kajaani data-centre sites until their environmental impact assessments are complete.</strong>",
           "html": "<p><strong>Finland's regulator halted forest clearance and groundwork at Google's Muhos and Kajaani data-centre sites until their environmental impact assessments are complete.</strong> LVV's order of 6 October 2026 told Google's subsidiary Tuike Finland to stop no later than 23 October; about 300 hectares were reported lost at Muhos, Google said it had &quot;fallen short of our own high standards&quot;. The sites belong to the €13 billion Finnish investment announced in September. Watch whether work stopped by the deadline, any enforcement or fine, and when the assessments finish.</p>",
           "text": "Finland's regulator halted forest clearance and groundwork at Google's Muhos and Kajaani data-centre sites until their environmental impact assessments are complete. LVV's order of 6 October 2026 told Google's subsidiary Tuike Finland to stop no later than 23 October; about 300 hectares were reported lost at Muhos, Google said it had \"fallen short of our own high standards\". The sites belong to the €13 billion Finnish investment announced in September. Watch whether work stopped by the deadline, any enforcement or fine, and when the assessments finish. Reported · The Next Web , citing LVV; LVV's decision not read · 2026-10-27",
@@ -1621,13 +1852,14 @@
         },
         {
           "headline": "<strong>2026 capex guidance is $195–205 billion, and the CFO says capex will &quot;increase significantly in 2027&quot;, with details promised on the Q4 call.</strong>",
-          "html": "<p><strong>2026 capex guidance is $195–205 billion, and the CFO says capex will &quot;increase significantly in 2027&quot;, with details promised on the Q4 call.</strong> The sub blames this line for the post-earnings fall. A commenter notes the same guidance was given on the Q2 call and at the June capital raise. The 10-Q shows $42.9 billion raised from common stock and $19.1 billion from mandatory convertible preferred stock in the first nine months of 2026. Watch the Q4 call for the 2027 figure.</p>",
-          "text": "2026 capex guidance is $195–205 billion, and the CFO says capex will \"increase significantly in 2027\", with details promised on the Q4 call. The sub blames this line for the post-earnings fall. A commenter notes the same guidance was given on the Q2 call and at the June capital raise. The 10-Q shows $42.9 billion raised from common stock and $19.1 billion from mandatory convertible preferred stock in the first nine months of 2026. Watch the Q4 call for the 2027 figure. Reported · the guidance and quote come from FourWeekMBA's call writeup and a commenter's quote, the transcript not read; the issuance figures are Verified against the 10-Q · 2026-10-30",
+          "html": "<p><strong>2026 capex guidance is $195–205 billion, and the CFO says capex will &quot;increase significantly in 2027&quot;, with details promised on the Q4 call.</strong> The sub blames this line for the post-earnings fall. A commenter notes the same guidance was given on the Q2 call and at the June capital raise. The 10-Q shows $42.9 billion raised from common stock and $19.1 billion from mandatory convertible preferred stock in the first nine months of 2026. Watch the Q4 call for the 2027 figure.\nOn 5 November Alphabet closed €6 billion of euro senior notes in seven tranches due 2028 to 2045, with fixed coupons from 3.700% to 5.250% and one floating-rate tranche.</p>",
+          "text": "2026 capex guidance is $195–205 billion, and the CFO says capex will \"increase significantly in 2027\", with details promised on the Q4 call. The sub blames this line for the post-earnings fall. A commenter notes the same guidance was given on the Q2 call and at the June capital raise. The 10-Q shows $42.9 billion raised from common stock and $19.1 billion from mandatory convertible preferred stock in the first nine months of 2026. Watch the Q4 call for the 2027 figure. On 5 November Alphabet closed €6 billion of euro senior notes in seven tranches due 2028 to 2045, with fixed coupons from 3.700% to 5.250% and one floating-rate tranche. Reported · the guidance and quote come from FourWeekMBA's call writeup and a commenter's quote, the transcript not read; the issuance figures are Verified against the 10-Q · 2026-10-30 · the euro notes are Verified against the 8-K of 5 November · 2026-11-06",
           "status": "reported",
-          "status_html": "<p>Reported · the guidance and quote come from <a href=\"https://fourweekmba.com/ai-google-cloud-revenue-doubles-to-30-7b-as-capex-hits-51-4b/\" target=\"_blank\" rel=\"noopener noreferrer\">FourWeekMBA's call writeup</a> and a commenter's quote, the transcript not read; the issuance figures are <strong>Verified</strong> against the 10-Q · 2026-10-30</p>",
-          "updated": "2026-10-30",
+          "status_html": "<p>Reported · the guidance and quote come from <a href=\"https://fourweekmba.com/ai-google-cloud-revenue-doubles-to-30-7b-as-capex-hits-51-4b/\" target=\"_blank\" rel=\"noopener noreferrer\">FourWeekMBA's call writeup</a> and a commenter's quote, the transcript not read; the issuance figures are <strong>Verified</strong> against the 10-Q · 2026-10-30 · the euro notes are <strong>Verified</strong> against <a href=\"https://www.sec.gov/Archives/edgar/data/1652044/000119312526449835/d174184d8k.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the 8-K of 5 November</a> · 2026-11-06</p>",
+          "updated": "2026-11-06",
           "sources": [
-            "fourweekmba.com"
+            "fourweekmba.com",
+            "SEC filing"
           ],
           "due": null,
           "due_label": null
@@ -1639,6 +1871,17 @@
       "sub": false,
       "lead_html": null,
       "items": [
+        {
+          "headline": "<strong>The sub hopes Berkshire Hathaway added to its Alphabet stake in Q3, and expects the answer in its 13F on 16 November.</strong>",
+          "html": "<p><strong>The sub hopes Berkshire Hathaway added to its Alphabet stake in Q3, and expects the answer in its 13F on 16 November.</strong> Replies note a 13F shows holdings only to 30 September. An r/stocks poster sizes the existing stake at &quot;about $30-35B&quot;, which was not checked.</p>",
+          "text": "The sub hopes Berkshire Hathaway added to its Alphabet stake in Q3, and expects the answer in its 13F on 16 November. Replies note a 13F shows holdings only to 30 September. An r/stocks poster sizes the existing stake at \"about $30-35B\", which was not checked. Single source · the filing date was not checked · 2026-11-06",
+          "status": "single-source",
+          "status_html": "<p>Single source · the filing date was not checked · 2026-11-06</p>",
+          "updated": "2026-11-06",
+          "sources": [],
+          "due": "2026-11-16",
+          "due_label": "Berkshire's Q3 13F, as posted"
+        },
         {
           "headline": "<strong>Alphabet trades at an &quot;execution discount&quot;.</strong>",
           "html": "<p><strong>Alphabet trades at an &quot;execution discount&quot;.</strong> The sub's explanation for the stock falling on good news is that the market doubts leadership can ship on time. It is argued from release timing, not from any data.\nSince Argon shipped on 13 October the claim has been restated as a model-quality discount rather than a timing one, and the best-received replies now attribute the stock to macro — CPI, bond yields, capital spending — instead.\nBy 21 October the argument has thinned to price levels — the 200-day moving average, and whether $360 returns — with the top replies in both threads saying only the 28 October results matter. The sub itself is now deferring the claim to the print rather than defending it.\nBy 24 October the sub's largest threads are about the drawdown itself (&quot;bear market&quot;, &quot;why is it trading like a meme stock&quot;), with the top replies calling it a short-term shake-out and a minority blaming capital spending and dependence on OpenAI and Anthropic demand.\nOn 27 October, the day before results, the largest thread marks the stock turning negative for the year; replies are almost all &quot;holding&quot; or &quot;bought more&quot;, and the only causal arguments are capital spending and selling ahead of an Anthropic IPO.\nAfter the 28 October results, posters put the fall at 12.6% to 14%. The sub no longer talks about an execution discount. Its explanations are now the 2027 capex line, negative free cash flow, and Search slowing to 12% growth.</p>",
@@ -1652,11 +1895,11 @@
         },
         {
           "headline": "<strong>The sub claims an Anthropic IPO is coming &quot;in the middle of November&quot; at a $1.5–2 trillion valuation and is draining liquidity from GOOG.</strong>",
-          "html": "<p><strong>The sub claims an Anthropic IPO is coming &quot;in the middle of November&quot; at a $1.5–2 trillion valuation and is draining liquidity from GOOG.</strong> No source was given. Secondary coverage reports a confidential filing and investor talk of that valuation range, but no announced date. Resolve when Anthropic sets a date or an S-1 becomes public, which would also give Alphabet's stake.</p>",
-          "text": "The sub claims an Anthropic IPO is coming \"in the middle of November\" at a $1.5–2 trillion valuation and is draining liquidity from GOOG. No source was given. Secondary coverage reports a confidential filing and investor talk of that valuation range, but no announced date. Resolve when Anthropic sets a date or an S-1 becomes public, which would also give Alphabet's stake. Unconfirmed · no IPO date found · 2026-10-27",
+          "html": "<p><strong>The sub claims an Anthropic IPO is coming &quot;in the middle of November&quot; at a $1.5–2 trillion valuation and is draining liquidity from GOOG.</strong> No source was given. Secondary coverage reports a confidential filing and investor talk of that valuation range, but no announced date. Resolve when Anthropic sets a date, which would also give Alphabet's stake.\nAfter the 5 November sell-off, a WSJ report pasted on r/stocks and r/investing says Anthropic is aiming for &quot;the week before Thanksgiving&quot;, and that three investors planning to participate say the valuation will likely come down, one saying &quot;closer to $1 trillion&quot;.</p>",
+          "text": "The sub claims an Anthropic IPO is coming \"in the middle of November\" at a $1.5–2 trillion valuation and is draining liquidity from GOOG. No source was given. Secondary coverage reports a confidential filing and investor talk of that valuation range, but no announced date. Resolve when Anthropic sets a date, which would also give Alphabet's stake. After the 5 November sell-off, a WSJ report pasted on r/stocks and r/investing says Anthropic is aiming for \"the week before Thanksgiving\", and that three investors planning to participate say the valuation will likely come down, one saying \"closer to $1 trillion\". Unconfirmed · no IPO date found · 2026-10-27 · 2026-11-06: the WSJ report is Reported as pasted, paywalled and not found in a search; the stocks feed's tracker records the public S-1 of 26 October",
           "status": "unconfirmed",
-          "status_html": "<p><strong>Unconfirmed</strong> · no IPO date found · 2026-10-27</p>",
-          "updated": "2026-10-27",
+          "status_html": "<p><strong>Unconfirmed</strong> · no IPO date found · 2026-10-27 · 2026-11-06: the WSJ report is Reported as pasted, paywalled and not found in a search; the stocks feed's tracker records the public S-1 of 26 October</p>",
+          "updated": "2026-11-06",
           "sources": [],
           "due": null,
           "due_label": null
