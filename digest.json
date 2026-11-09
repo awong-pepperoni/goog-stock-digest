@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-06",
+  "generated": "2026-11-09",
   "meta": {
     "feed": "goog_stock",
     "title": "GOOG Stock Digest",
@@ -21,6 +21,131 @@
     "source_note": "from Reddit's hot threads"
   },
   "digests": [
+    {
+      "date": "2026-11-09",
+      "title": "GOOG stock digest",
+      "intro_html": "<p>A thin run. Most of the hot list is still the threads covered on 6 November, and the new posts are price calls, a Jim Cramer screenshot and a question about an unnamed &quot;Nvidia scandal&quot;. The real news came from Google, not the sub. Google announced two more eighth-generation TPU systems today, and on 5 November it committed $17 billion to its first Wyoming data centre, then took over the site from Crusoe. Strictly, nothing passes this feed's two-test Must know bar. The TPU launch is confirmed by Google and changes what Alphabet sells, but the sub had not reached it when this ran. It leads below because the format requires one item, and its Status line says so.</p>",
+      "sections": [
+        {
+          "heading": "Must know",
+          "category": "mustknow",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Google added two TPU systems to its eighth generation today, TPU 8tx for confidential workloads and TPU 8i Max for long-context inference.</strong>",
+              "html": "<p><strong>Google added two TPU systems to its eighth generation today, TPU 8tx for confidential workloads and TPU 8i Max for long-context inference.</strong> The post also says customers can now deploy TPUs directly in their own data centres. It gives no terms for that.</p>\n<ul>\n<li><strong>Why it matters:</strong> TPU sales are the sub's standing growth thesis (see the Evercore entry in the tracker), and this post comes from Google itself. TPU 8tx pairs TPU 8t silicon with AMD EPYC hosts for &quot;hardware-level confidential compute&quot;, aimed at regulated enterprises and governments. TPU 8i Max puts two TPU 8i chips in one package. Google calls this the first year it has introduced four TPU systems.</li>\n<li><strong>What to watch:</strong> availability. The post gives no preview or general-availability date for either system. Also watch for any terms or pricing for on-premises TPU deployment, and whether the Q4 call breaks out TPU revenue.</li>\n<li><strong>Numbers:</strong> All are Google's claims, none independently measured. TPU 8tx has &quot;up to 2x lower latency compared to TPU 8t&quot;. TPU 8i Max doubles TPU 8i's compute, SRAM and HBM bandwidth in the same rack footprint. TPUs have &quot;nearly 100 customers&quot;, none of them named.</li>\n<li><strong>Caveats:</strong> This is an announcement, not availability. The post does not say whether TPUs deployed outside Google's data centres are sold or leased, or to whom. Only the software around the chips carries a status: GKE dynamic slicing and Cloud Pathways are generally available, and the TPU agent suite is in preview.</li>\n<li><strong>Read next:</strong> <a href=\"https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/\" target=\"_blank\" rel=\"noopener noreferrer\">Google: Our newest TPUs: 8tx and 8i Max, built for the agentic era</a>.</li>\n</ul>",
+              "text": "Google added two TPU systems to its eighth generation today, TPU 8tx for confidential workloads and TPU 8i Max for long-context inference. The post also says customers can now deploy TPUs directly in their own data centres. It gives no terms for that. Why it matters: TPU sales are the sub's standing growth thesis (see the Evercore entry in the tracker), and this post comes from Google itself. TPU 8tx pairs TPU 8t silicon with AMD EPYC hosts for \"hardware-level confidential compute\", aimed at regulated enterprises and governments. TPU 8i Max puts two TPU 8i chips in one package. Google calls this the first year it has introduced four TPU systems. What to watch: availability. The post gives no preview or general-availability date for either system. Also watch for any terms or pricing for on-premises TPU deployment, and whether the Q4 call breaks out TPU revenue. Numbers: All are Google's claims, none independently measured. TPU 8tx has \"up to 2x lower latency compared to TPU 8t\". TPU 8i Max doubles TPU 8i's compute, SRAM and HBM bandwidth in the same rack footprint. TPUs have \"nearly 100 customers\", none of them named. Caveats: This is an announcement, not availability. The post does not say whether TPUs deployed outside Google's data centres are sold or leased, or to whom. Only the software around the chips carries a status: GKE dynamic slicing and Cloud Pathways are generally available, and the TPU agent suite is in preview. Read next: Google: Our newest TPUs: 8tx and 8i Max, built for the agentic era . Verified against Google's post of 9 November · passes one Must know test (a Google-confirmed launch); no r/GOOG_Stock discussion yet",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against Google's post of 9 November · passes one Must know test (a Google-confirmed launch); no r/GOOG_Stock discussion yet</p>",
+              "updated": null,
+              "sources": [
+                "Google"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Company news and filings",
+          "category": "news",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Google committed $17 billion to its first Wyoming data centre on 5 November, and took over the Laramie County site from developer Crusoe the next day.</strong>",
+              "html": "<p><strong>Google committed $17 billion to its first Wyoming data centre on 5 November, and took over the Laramie County site from developer Crusoe the next day.</strong> Google calls it &quot;a long-term, $17 billion investment&quot; with Tallgrass Energy, Black Hills Energy, AEP and Related Digital. It is &quot;contracted with AEP to feature a first-of-its-kind, commercial-scale, 702 MW fuel cell development&quot;, and it will be air-cooled. Google gives no data-centre capacity or timeline. Crusoe says the sale &quot;marks the completion of Crusoe's engagement in pre-development work&quot;. Neither company disclosed terms. Per The Next Web, Bloomberg reported that Google had raised concerns about cost and timing under Crusoe, which Crusoe's statement does not address. Crusoe remains developer of Google's Armstrong County, Texas campus. The <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1xpy4gd/\" target=\"_blank\" rel=\"noopener noreferrer\">sub's post</a> (13 points) frames it as cash on hand letting Google pick up &quot;a problematic&quot; project; it had no comments.</p>",
+              "text": "Google committed $17 billion to its first Wyoming data centre on 5 November, and took over the Laramie County site from developer Crusoe the next day. Google calls it \"a long-term, $17 billion investment\" with Tallgrass Energy, Black Hills Energy, AEP and Related Digital. It is \"contracted with AEP to feature a first-of-its-kind, commercial-scale, 702 MW fuel cell development\", and it will be air-cooled. Google gives no data-centre capacity or timeline. Crusoe says the sale \"marks the completion of Crusoe's engagement in pre-development work\". Neither company disclosed terms. Per The Next Web, Bloomberg reported that Google had raised concerns about cost and timing under Crusoe, which Crusoe's statement does not address. Crusoe remains developer of Google's Armstrong County, Texas campus. The sub's post (13 points) frames it as cash on hand letting Google pick up \"a problematic\" project; it had no comments. Verified against Google's post and Crusoe's statement of 6 November · the Bloomberg detail is Reported via The Next Web , Bloomberg not read",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/\" target=\"_blank\" rel=\"noopener noreferrer\">Google's post</a> and <a href=\"https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update\" target=\"_blank\" rel=\"noopener noreferrer\">Crusoe's statement of 6 November</a> · the Bloomberg detail is Reported via <a href=\"https://thenextweb.com/news/google-buys-crusoe-wyoming-data-centre-site\" target=\"_blank\" rel=\"noopener noreferrer\">The Next Web</a>, Bloomberg not read</p>",
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock",
+                "Google",
+                "crusoe.ai",
+                "thenextweb.com"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>The sub is waiting for a catalyst, and its new posts are mostly price calls and reaction.</strong>",
+              "html": "<p><strong>The sub is waiting for a catalyst, and its new posts are mostly price calls and reaction.</strong> A Jim Cramer post (<a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1xqms8m/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a>, 29 points) drew mostly jokes. Its most-upvoted text reply notes that the inverse-Cramer ETF &quot;shut down after running something like -20% annually&quot;. A &quot;We rally&quot; image post and a &quot;Where do you see $GOOG trading by the end of 2026?&quot; poll carry no sourced content. A sum-of-the-parts post asking whether spin-offs would unlock value (<a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1xr65k2/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a>) got one non-answer.</p>",
+              "text": "The sub is waiting for a catalyst, and its new posts are mostly price calls and reaction. A Jim Cramer post ( thread , 29 points) drew mostly jokes. Its most-upvoted text reply notes that the inverse-Cramer ETF \"shut down after running something like -20% annually\". A \"We rally\" image post and a \"Where do you see $GOOG trading by the end of 2026?\" poll carry no sourced content. A sum-of-the-parts post asking whether spin-offs would unlock value ( thread ) got one non-answer.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Asked whether &quot;the Nvidia scandal&quot; helps Google, the sub mostly said marginally at best.</strong>",
+              "html": "<p><strong>Asked whether &quot;the Nvidia scandal&quot; helps Google, the sub mostly said marginally at best.</strong> <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1xrgp1o/\" target=\"_blank\" rel=\"noopener noreferrer\">The post</a> does not say what the scandal is, and nothing fetched here says either. Replies split between &quot;Google's tpu&quot; and &quot;It's going to be bullish mainly for AMD/AVGO imho, GOOGL can slightly benefit&quot;. One reply argues the reverse: if Nvidia is blocked from selling outside Western markets, it would compete harder with TPUs. A commenter's process-node claims (&quot;TPU7 used N3P&quot;, the V8 &quot;uses 2nm&quot;) were not checked.</p>",
+              "text": "Asked whether \"the Nvidia scandal\" helps Google, the sub mostly said marginally at best. The post does not say what the scandal is, and nothing fetched here says either. Replies split between \"Google's tpu\" and \"It's going to be bullish mainly for AMD/AVGO imho, GOOGL can slightly benefit\". One reply argues the reverse: if Nvidia is blocked from selling outside Western markets, it would compete harder with TPUs. A commenter's process-node claims (\"TPU7 used N3P\", the V8 \"uses 2nm\") were not checked. Single source · opinion throughout",
+              "status": "single-source",
+              "status_html": "<p>Single source · opinion throughout</p>",
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> GOOG_Stock (25 posts in the scan; comments on eight threads read).",
+              "html": "<p><strong>Read:</strong> GOOG_Stock (25 posts in the scan; comments on eight threads read). <strong>Sources checked:</strong> Alphabet's SEC filings on EDGAR (filing list fetched; nothing new since the 5 November 8-K and 6 November 13F-HR, both covered last run). Alphabet investor relations (fetched; its news, earnings and events sections rendered empty, so no Q4 date was found). The Google Cloud AI blog (fetched; the index has no dates, and the only unfamiliar top post, on Antigravity for enterprise, is dated 20 August). The Gemini models blog (fetched but showed no posts, so Google's blog RSS feed was read for items since 5 November).</p>",
+              "text": "Read: GOOG_Stock (25 posts in the scan; comments on eight threads read). Sources checked: Alphabet's SEC filings on EDGAR (filing list fetched; nothing new since the 5 November 8-K and 6 November 13F-HR, both covered last run). Alphabet investor relations (fetched; its news, earnings and events sections rendered empty, so no Q4 date was found). The Google Cloud AI blog (fetched; the index has no dates, and the only unfamiliar top post, on Antigravity for enterprise, is dated 20 August). The Gemini models blog (fetched but showed no posts, so Google's blog RSS feed was read for items since 5 November).",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong>",
+              "html": "<p><strong>Announced, not discussed:</strong></p>\n<ul>\n<li><strong>Gemini Omni 1.2 Flash is free in Google Vids for longer AI videos, from 5 November.</strong> This is the consumer side of the Cloud launch already in the tracker.</li>\n<li><strong>The Gemini app can turn a quick drawing into a live app, from 5 November.</strong> This is a Canvas feature, not a new model.</li>\n</ul>",
+              "text": "Announced, not discussed: Gemini Omni 1.2 Flash is free in Google Vids for longer AI videos, from 5 November. This is the consumer side of the Cloud launch already in the tracker. The Gemini app can turn a quick drawing into a live app, from 5 November. This is a Canvas feature, not a new model. Verified against Google's post Status: Verified against Google's post",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://blog.google/products-and-platforms/products/workspace/omni-1-2-flash-google-vids/\" target=\"_blank\" rel=\"noopener noreferrer\">Google's post</a> Status: <strong>Verified</strong> against <a href=\"https://blog.google/innovation-and-ai/products/gemini-app/turn-drawings-into-apps-gemini/\" target=\"_blank\" rel=\"noopener noreferrer\">Google's post</a></p>",
+              "updated": null,
+              "sources": [
+                "Google"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong> the scan flagged none.",
+              "html": "<p><strong>Flagged terms set aside:</strong> the scan flagged none. Already covered on 6 November and still on hot: the &quot;why didn't GOOG drop&quot;, &quot;better than chips&quot;, &quot;43% away from ATH&quot;, &quot;high volatility&quot;, Berkshire 13F, catalysts, &quot;we are so back&quot;, &quot;Huge buy&quot;, &quot;How does Google not win ai&quot;, &quot;PE ratio less than Nike&quot;, &quot;GOOG @ 420&quot;, Gemini-ads and Bronte Capital posts. Skipped under this feed's guidance: position posts (&quot;I'm putting another 20k in GOOGL&quot;, &quot;Roll or bounce?&quot;), a &quot;Tech Death Cross&quot; link post whose replies quote levels that don't match GOOG's price, a sell-volume image whose replies blame the election or &quot;a bar misprint&quot;, and an AI-capex link post with no comments.</p>",
+              "text": "Flagged terms set aside: the scan flagged none. Already covered on 6 November and still on hot: the \"why didn't GOOG drop\", \"better than chips\", \"43% away from ATH\", \"high volatility\", Berkshire 13F, catalysts, \"we are so back\", \"Huge buy\", \"How does Google not win ai\", \"PE ratio less than Nike\", \"GOOG @ 420\", Gemini-ads and Bronte Capital posts. Skipped under this feed's guidance: position posts (\"I'm putting another 20k in GOOGL\", \"Roll or bounce?\"), a \"Tech Death Cross\" link post whose replies quote levels that don't match GOOG's price, a sell-volume image whose replies blame the election or \"a bar misprint\", and an AI-capex link post with no comments.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-06",
       "title": "GOOG stock digest",
@@ -1662,6 +1787,19 @@
           "due_label": null
         },
         {
+          "headline": "<strong>TPU 8tx and TPU 8i Max were announced on 9 November 2026, with no availability date given.</strong>",
+          "html": "<p><strong>TPU 8tx and TPU 8i Max were announced on 9 November 2026, with no availability date given.</strong> TPU 8tx targets confidential inference for regulated enterprises and governments, and TPU 8i Max packages two TPU 8i chips together. Google's post also says customers can now deploy TPUs directly in their own data centres, with no terms given. Watch for preview or general-availability dates and for any on-premises pricing or customer names.</p>",
+          "text": "TPU 8tx and TPU 8i Max were announced on 9 November 2026, with no availability date given. TPU 8tx targets confidential inference for regulated enterprises and governments, and TPU 8i Max packages two TPU 8i chips together. Google's post also says customers can now deploy TPUs directly in their own data centres, with no terms given. Watch for preview or general-availability dates and for any on-premises pricing or customer names. Verified against Google's post · 2026-11-09",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/\" target=\"_blank\" rel=\"noopener noreferrer\">Google's post</a> · 2026-11-09</p>",
+          "updated": "2026-11-09",
+          "sources": [
+            "Google"
+          ],
+          "due": null,
+          "due_label": null
+        },
+        {
           "headline": "<strong>Free Gemini accounts are limited to Flash-Lite from 9 October 2026.</strong>",
           "html": "<p><strong>Free Gemini accounts are limited to Flash-Lite from 9 October 2026.</strong> The AI Plus tier keeps Flash and loses Pro.</p>",
           "text": "Free Gemini accounts are limited to Flash-Lite from 9 October 2026. The AI Plus tier keeps Flash and loses Pro. Reported, from Engadget ; Google's own notice was not found · 2026-10-08",
@@ -1768,6 +1906,20 @@
           "updated": "2026-10-30",
           "sources": [
             "euronews.com"
+          ],
+          "due": null,
+          "due_label": null
+        },
+        {
+          "headline": "<strong>Google is investing $17 billion in its first Wyoming data centre, in Laramie County, announced 5 November 2026, and took over the site from Crusoe on 6 November.</strong>",
+          "html": "<p><strong>Google is investing $17 billion in its first Wyoming data centre, in Laramie County, announced 5 November 2026, and took over the site from Crusoe on 6 November.</strong> Partners are Tallgrass Energy, Black Hills Energy, AEP and Related Digital. Power comes from a 702 MW fuel-cell development contracted with AEP, and the site is air-cooled. Google gives no data-centre capacity, timeline or deal terms. Crusoe stays developer of Google's Armstrong County, Texas campus. Watch for a construction timeline and any capacity figure.</p>",
+          "text": "Google is investing $17 billion in its first Wyoming data centre, in Laramie County, announced 5 November 2026, and took over the site from Crusoe on 6 November. Partners are Tallgrass Energy, Black Hills Energy, AEP and Related Digital. Power comes from a 702 MW fuel-cell development contracted with AEP, and the site is air-cooled. Google gives no data-centre capacity, timeline or deal terms. Crusoe stays developer of Google's Armstrong County, Texas campus. Watch for a construction timeline and any capacity figure. Verified against Google's post and Crusoe's statement · 2026-11-09",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/\" target=\"_blank\" rel=\"noopener noreferrer\">Google's post</a> and <a href=\"https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update\" target=\"_blank\" rel=\"noopener noreferrer\">Crusoe's statement</a> · 2026-11-09</p>",
+          "updated": "2026-11-09",
+          "sources": [
+            "Google",
+            "crusoe.ai"
           ],
           "due": null,
           "due_label": null
@@ -1906,8 +2058,8 @@
         },
         {
           "headline": "<strong>External TPU sales are the sub's next growth thesis, and Evercore ISI's note is what it rests on.</strong>",
-          "html": "<p><strong>External TPU sales are the sub's next growth thesis, and Evercore ISI's note is what it rests on.</strong> The firm reaffirmed Outperform with a $450 target and, per secondary coverage, projects external TPU sales at roughly 35% of Google Cloud revenue in 2027 — $75 billion in 2027 and $113 billion in 2028 — with Cloud revenue raised to $213 billion from $180 billion. These are one firm's estimates, not Alphabet guidance; Alphabet has not broken out external TPU hardware revenue. Watch whether the Q3 or Q4 call gives any external TPU figure.\nThe Q3 release says &quot;TPU systems sales were also a meaningful contributor&quot; to Cloud's 103% growth, but it gives no TPU revenue figure.</p>",
-          "text": "External TPU sales are the sub's next growth thesis, and Evercore ISI's note is what it rests on. The firm reaffirmed Outperform with a $450 target and, per secondary coverage, projects external TPU sales at roughly 35% of Google Cloud revenue in 2027 — $75 billion in 2027 and $113 billion in 2028 — with Cloud revenue raised to $213 billion from $180 billion. These are one firm's estimates, not Alphabet guidance; Alphabet has not broken out external TPU hardware revenue. Watch whether the Q3 or Q4 call gives any external TPU figure. The Q3 release says \"TPU systems sales were also a meaningful contributor\" to Cloud's 103% growth, but it gives no TPU revenue figure. Reported · the note is paywalled; figures from Evercore coverage via TradingView ; the release wording Verified · 2026-10-30",
+          "html": "<p><strong>External TPU sales are the sub's next growth thesis, and Evercore ISI's note is what it rests on.</strong> The firm reaffirmed Outperform with a $450 target and, per secondary coverage, projects external TPU sales at roughly 35% of Google Cloud revenue in 2027 — $75 billion in 2027 and $113 billion in 2028 — with Cloud revenue raised to $213 billion from $180 billion. These are one firm's estimates, not Alphabet guidance; Alphabet has not broken out external TPU hardware revenue. Watch whether the Q3 or Q4 call gives any external TPU figure.\nThe Q3 release says &quot;TPU systems sales were also a meaningful contributor&quot; to Cloud's 103% growth, but it gives no TPU revenue figure.\nOn 9 November Google's TPU 8tx and 8i Max post said TPUs have &quot;nearly 100 customers&quot; and can now be deployed in customers' own data centres; it gives no revenue or terms.</p>",
+          "text": "External TPU sales are the sub's next growth thesis, and Evercore ISI's note is what it rests on. The firm reaffirmed Outperform with a $450 target and, per secondary coverage, projects external TPU sales at roughly 35% of Google Cloud revenue in 2027 — $75 billion in 2027 and $113 billion in 2028 — with Cloud revenue raised to $213 billion from $180 billion. These are one firm's estimates, not Alphabet guidance; Alphabet has not broken out external TPU hardware revenue. Watch whether the Q3 or Q4 call gives any external TPU figure. The Q3 release says \"TPU systems sales were also a meaningful contributor\" to Cloud's 103% growth, but it gives no TPU revenue figure. On 9 November Google's TPU 8tx and 8i Max post said TPUs have \"nearly 100 customers\" and can now be deployed in customers' own data centres; it gives no revenue or terms. Reported · the note is paywalled; figures from Evercore coverage via TradingView ; the release wording Verified · 2026-10-30",
           "status": "reported",
           "status_html": "<p>Reported · the note is paywalled; figures from <a href=\"https://www.tradingview.com/news/seekingalpha:554b9cca8094b:0-evercore-raises-alphabet-estimates-on-potential-tpu-hardware-sales/\" target=\"_blank\" rel=\"noopener noreferrer\">Evercore coverage via TradingView</a>; the release wording <strong>Verified</strong> · 2026-10-30</p>",
           "updated": "2026-10-30",
