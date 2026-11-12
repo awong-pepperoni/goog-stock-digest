@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-09",
+  "generated": "2026-11-12",
   "meta": {
     "feed": "goog_stock",
     "title": "GOOG Stock Digest",
@@ -21,6 +21,207 @@
     "source_note": "from Reddit's hot threads"
   },
   "digests": [
+    {
+      "date": "2026-11-12",
+      "title": "GOOG stock digest",
+      "intro_html": "<p>The sub spent this run on the stock rising in the morning and fading by the close, on whether Nvidia's trouble helps Google, and on a rumoured model codenamed Krypton. The real change came from Google: on 10 November, Gemini 4 Carbon opened to paying developers and AI Ultra subscribers. Google had announced it on 28 October, and the 30 October and 6 November runs missed that. Google also put Gemini for healthcare into preview, released a Gemini Decisions API, and opened pre-orders for Gemini eyewear.</p>",
+      "sections": [
+        {
+          "heading": "Must know",
+          "category": "mustknow",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Gemini 4 Carbon, Google's strongest model by its own account, opened to paying developers and AI Ultra subscribers on 10 November.</strong>",
+              "html": "<p><strong>Gemini 4 Carbon, Google's strongest model by its own account, opened to paying developers and AI Ultra subscribers on 10 November.</strong> Google announced it on 28 October but first gave it only to vetted cyber defenders through its Fairwind Program.</p>\n<ul>\n<li><strong>Why it matters:</strong> This is Google's new top model on sale, priced the same as Argon, and the sub's model debate now centres on it. In <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1xswtlc/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;Is this bullish for Gemini?&quot;</a> (20 points), commenters argue over a benchmark chart: &quot;Carbon wins at many more of the ones they blanked out&quot;, &quot;they are comparing xhigh effort of Fable to medium of Carbon&quot;, and &quot;Google model is cheap and equally capable&quot;. The chart itself was not readable here, and nobody says who published it.</li>\n<li><strong>What to watch:</strong> introductory pricing ends after 30 November. Also watch whether free, AI Plus or Pro users get access, and whether Google mentions Carbon or the Gemini-app tiers on the Q4 call (no date has been announced).</li>\n<li><strong>Numbers:</strong> All are Google's own claims, none independently measured. Introductory pricing is &quot;$2 per million input tokens and $10 per million output tokens&quot;, rising to $4 and $20 after 30 November. Google claims #1 on the Artificial Analysis Intelligence Index v5.0 &quot;at 59&quot;, SEC-bench Pro at 88.2%, and #1 on CursorBench 4.0, Perplexity's WANDR and Zapier's AutomationBench at &quot;more than 2X lower cost per task&quot; than the next-best external model. It says Carbon passed 92% of 375 tasks on its honesty benchmark, against 70% for Argon.</li>\n<li><strong>Caveats:</strong> Consumer access is limited to AI Ultra, where it is &quot;rolling out&quot; in the Gemini app, AI Mode and Antigravity. On the API, it is limited to paid tiers in AI Studio and Gemini for business. Google does not call it generally available. The benchmarks are vendor claims, and the sub's own replies say the comparisons are cherry-picked.</li>\n<li><strong>Read next:</strong> <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/\" target=\"_blank\" rel=\"noopener noreferrer\">Google: Gemini 4 Carbon is now available</a>.</li>\n</ul>",
+              "text": "Gemini 4 Carbon, Google's strongest model by its own account, opened to paying developers and AI Ultra subscribers on 10 November. Google announced it on 28 October but first gave it only to vetted cyber defenders through its Fairwind Program. Why it matters: This is Google's new top model on sale, priced the same as Argon, and the sub's model debate now centres on it. In \"Is this bullish for Gemini?\" (20 points), commenters argue over a benchmark chart: \"Carbon wins at many more of the ones they blanked out\", \"they are comparing xhigh effort of Fable to medium of Carbon\", and \"Google model is cheap and equally capable\". The chart itself was not readable here, and nobody says who published it. What to watch: introductory pricing ends after 30 November. Also watch whether free, AI Plus or Pro users get access, and whether Google mentions Carbon or the Gemini-app tiers on the Q4 call (no date has been announced). Numbers: All are Google's own claims, none independently measured. Introductory pricing is \"$2 per million input tokens and $10 per million output tokens\", rising to $4 and $20 after 30 November. Google claims #1 on the Artificial Analysis Intelligence Index v5.0 \"at 59\", SEC-bench Pro at 88.2%, and #1 on CursorBench 4.0, Perplexity's WANDR and Zapier's AutomationBench at \"more than 2X lower cost per task\" than the next-best external model. It says Carbon passed 92% of 375 tasks on its honesty benchmark, against 70% for Argon. Caveats: Consumer access is limited to AI Ultra, where it is \"rolling out\" in the Gemini app, AI Mode and Antigravity. On the API, it is limited to paid tiers in AI Studio and Gemini for business. Google does not call it generally available. The benchmarks are vendor claims, and the sub's own replies say the comparisons are cherry-picked. Read next: Google: Gemini 4 Carbon is now available . Verified against Google's posts of 28 October and 10 November · the sub's chart is Single source and was not read",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against Google's posts of <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/\" target=\"_blank\" rel=\"noopener noreferrer\">28 October</a> and 10 November · the sub's chart is Single source and was not read</p>",
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock",
+                "Google"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "AI models and products",
+          "category": "ai",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Gemini for healthcare entered preview in the US on 10 November.</strong>",
+              "html": "<p><strong>Gemini for healthcare entered preview in the US on 10 November.</strong> It is the healthcare specialisation of the Gemini agent, which Google had listed as &quot;coming soon&quot;. Google says it is &quot;available starting today in preview&quot;. It names HCA Healthcare, Highmark Health, Northwell Health and Optum Insight among the organisations quoted, and Epic and Oracle Health among the connector partners. No pricing is given. Nobody on the sub posted it. <a href=\"https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare\" target=\"_blank\" rel=\"noopener noreferrer\">Google Cloud's post</a></p>",
+              "text": "Gemini for healthcare entered preview in the US on 10 November. It is the healthcare specialisation of the Gemini agent, which Google had listed as \"coming soon\". Google says it is \"available starting today in preview\". It names HCA Healthcare, Highmark Health, Northwell Health and Optum Insight among the organisations quoted, and Epic and Oracle Health among the connector partners. No pricing is given. Nobody on the sub posted it. Google Cloud's post Verified against Google Cloud's post of 10 November",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against Google Cloud's post of 10 November</p>",
+              "updated": null,
+              "sources": [
+                "Google Cloud"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Valuation and price action",
+          "category": "valuation",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>A 72-point post repeats Google's &quot;nearly 100 customers&quot; TPU figure alongside a Bloomberg Intelligence forecast of TPU sales rising from &quot;about $12 billion this year to more than $135 billion by 2028&quot;.</strong>",
+              "html": "<p><strong>A 72-point post repeats Google's &quot;nearly 100 customers&quot; TPU figure alongside a Bloomberg Intelligence forecast of TPU sales rising from &quot;about $12 billion this year to more than $135 billion by 2028&quot;.</strong> <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1xrwwrl/\" target=\"_blank\" rel=\"noopener noreferrer\">The post</a> is a link with no body. The only trace of the Bloomberg Intelligence figure found here is a <a href=\"https://brapi.dev/news/google-lanca-tpus-8tx-e-8i-max-e-amplia-ofensiva-contra-nvidia-cfadfe58\" target=\"_blank\" rel=\"noopener noreferrer\">Portuguese-language aggregator</a> citing InfoMoney. It says the figure excludes customers who use TPUs through Google Cloud. In the replies, one commenter calls a &quot;15 P/E ratio&quot; senseless, and another answers &quot;its closer to 27 excluding non recurring&quot;. A third says it doesn't matter &quot;because the data centres to house them still aren't being built&quot;.</p>",
+              "text": "A 72-point post repeats Google's \"nearly 100 customers\" TPU figure alongside a Bloomberg Intelligence forecast of TPU sales rising from \"about $12 billion this year to more than $135 billion by 2028\". The post is a link with no body. The only trace of the Bloomberg Intelligence figure found here is a Portuguese-language aggregator citing InfoMoney. It says the figure excludes customers who use TPUs through Google Cloud. In the replies, one commenter calls a \"15 P/E ratio\" senseless, and another answers \"its closer to 27 excluding non recurring\". A third says it doesn't matter \"because the data centres to house them still aren't being built\". Single source · the forecast is as posted; Bloomberg Intelligence was not read; the P/E figures are commenters' own",
+              "status": "single-source",
+              "status_html": "<p>Single source · the forecast is as posted; Bloomberg Intelligence was not read; the P/E figures are commenters' own</p>",
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock",
+                "brapi.dev"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>The sub's recurring complaint is that GOOG rises in the morning and gives it back by the close.</strong>",
+              "html": "<p><strong>The sub's recurring complaint is that GOOG rises in the morning and gives it back by the close.</strong> In <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1xs74xo/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;GOOG didn't participate in market going up today&quot;</a> (61 points), the top replies correct the post: &quot;It went up 1.18%&quot; and &quot;it was up almost 3%, just sold off like it always does&quot;. Another reply says &quot;a week ago it was 276 now its about 288&quot;. The most specific reply expects the stock to &quot;slowly bleed out until next earnings&quot; while investors wait to see whether AI Mode monetisation offsets slower Search growth. Another commenter answers that Search is &quot;still growing … just … at a slightly slower rate&quot;.</p>",
+              "text": "The sub's recurring complaint is that GOOG rises in the morning and gives it back by the close. In \"GOOG didn't participate in market going up today\" (61 points), the top replies correct the post: \"It went up 1.18%\" and \"it was up almost 3%, just sold off like it always does\". Another reply says \"a week ago it was 276 now its about 288\". The most specific reply expects the stock to \"slowly bleed out until next earnings\" while investors wait to see whether AI Mode monetisation offsets slower Search growth. Another commenter answers that Search is \"still growing … just … at a slightly slower rate\". Single source · price figures as posted, not checked",
+              "status": "single-source",
+              "status_html": "<p>Single source · price figures as posted, not checked</p>",
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Asked whether Jensen Huang being &quot;ousted&quot; helps Google, the sub mostly said &quot;Neutral&quot;.</strong>",
+              "html": "<p><strong>Asked whether Jensen Huang being &quot;ousted&quot; helps Google, the sub mostly said &quot;Neutral&quot;.</strong> <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1xtxaod/\" target=\"_blank\" rel=\"noopener noreferrer\">The post</a> (32 points, 53 comments) says Nvidia's board is &quot;considering removing him as CEO after several extramarital affairs&quot;. Nvidia's board statement of 8 November says something different: it opened &quot;an independent investigation&quot; after reporting that Huang &quot;has been the target of a foreign intelligence effort&quot;, and it &quot;has confidence in Jensen and his leadership team&quot;. It does not mention removal. The top reply, at 48 points, is &quot;Neutral effect&quot;. Others expect money rotating from NVDA into GOOG or an opening for TPUs, and one says &quot;There is zero chance Jensen gets ousted&quot;. This continues the 9 November &quot;Nvidia scandal&quot; thread, which is still on hot.</p>",
+              "text": "Asked whether Jensen Huang being \"ousted\" helps Google, the sub mostly said \"Neutral\". The post (32 points, 53 comments) says Nvidia's board is \"considering removing him as CEO after several extramarital affairs\". Nvidia's board statement of 8 November says something different: it opened \"an independent investigation\" after reporting that Huang \"has been the target of a foreign intelligence effort\", and it \"has confidence in Jensen and his leadership team\". It does not mention removal. The top reply, at 48 points, is \"Neutral effect\". Others expect money rotating from NVDA into GOOG or an opening for TPUs, and one says \"There is zero chance Jensen gets ousted\". This continues the 9 November \"Nvidia scandal\" thread, which is still on hot. Verified for the board's statement against Nvidia's release · the removal claim is Unconfirmed ; secondary coverage links the probe to an affair Huang admitted, which the release does not mention",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> for the board's statement against <a href=\"https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors\" target=\"_blank\" rel=\"noopener noreferrer\">Nvidia's release</a> · the removal claim is <strong>Unconfirmed</strong>; secondary coverage links the probe to an affair Huang admitted, which the release does not mention</p>",
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock",
+                "nvidianews.nvidia.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>A post arguing that a Democratic slowdown in data-centre building favours Google drew pushback on its premise.</strong>",
+              "html": "<p><strong>A post arguing that a Democratic slowdown in data-centre building favours Google drew pushback on its premise.</strong> <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1xtfwqk/\" target=\"_blank\" rel=\"noopener noreferrer\">The post</a> says Google's subsea cables let it &quot;put data centers anywhere&quot;. One reply calls this &quot;obviously false&quot;, since US projects would never have been planned if location didn't matter. Another says &quot;Power, permits and water still tie data centers to specific places, and subsea cables fix latency, not grid capacity&quot;, and puts the stronger case in TPUs. It extends the 6 November Must know debate.</p>",
+              "text": "A post arguing that a Democratic slowdown in data-centre building favours Google drew pushback on its premise. The post says Google's subsea cables let it \"put data centers anywhere\". One reply calls this \"obviously false\", since US projects would never have been planned if location didn't matter. Another says \"Power, permits and water still tie data centers to specific places, and subsea cables fix latency, not grid capacity\", and puts the stronger case in TPUs. It extends the 6 November Must know debate. Single source · opinion",
+              "status": "single-source",
+              "status_html": "<p>Single source · opinion</p>",
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Unverified, and worth watching",
+          "category": "unverified",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>A 58-point post says Google will announce &quot;krypton&quot; tomorrow, &quot;on the level of fable 5.2 and cheaper&quot;, for &quot;trusted users&quot; only, along with Hydrogen, &quot;a flash model thats a little worse than opus 5.5&quot;.</strong>",
+              "html": "<p><strong>A 58-point post says Google will announce &quot;krypton&quot; tomorrow, &quot;on the level of fable 5.2 and cheaper&quot;, for &quot;trusted users&quot; only, along with Hydrogen, &quot;a flash model thats a little worse than opus 5.5&quot;.</strong> <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1xtla93/\" target=\"_blank\" rel=\"noopener noreferrer\">The post</a> gives no source, and its replies are reaction. Google's blog feed up to 12 November has no Krypton or Hydrogen post. Neither the 28 October nor the 10 November Carbon post names either model. Hydrogen exists, at least: per <a href=\"https://mlq.ai/news/google-is-testing-a-fast-new-gemini-model-called-hydrogen-with-staff-business-insider-reports/\" target=\"_blank\" rel=\"noopener noreferrer\">mlq.ai's summary</a>, Business Insider reported on 11 November that staff are testing a model &quot;built for speed and efficiency&quot; codenamed Hydrogen, with no release date, and Google declined to comment. Krypton turns up only in leak-based blogs.</p>",
+              "text": "A 58-point post says Google will announce \"krypton\" tomorrow, \"on the level of fable 5.2 and cheaper\", for \"trusted users\" only, along with Hydrogen, \"a flash model thats a little worse than opus 5.5\". The post gives no source, and its replies are reaction. Google's blog feed up to 12 November has no Krypton or Hydrogen post. Neither the 28 October nor the 10 November Carbon post names either model. Hydrogen exists, at least: per mlq.ai's summary , Business Insider reported on 11 November that staff are testing a model \"built for speed and efficiency\" codenamed Hydrogen, with no release date, and Google declined to comment. Krypton turns up only in leak-based blogs. Unconfirmed for Krypton and any announcement date · Hydrogen is Reported via a secondary summary of Business Insider; the original was not read",
+              "status": "unconfirmed",
+              "status_html": "<p><strong>Unconfirmed</strong> for Krypton and any announcement date · Hydrogen is Reported via a secondary summary of Business Insider; the original was not read</p>",
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock",
+                "mlq.ai"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> GOOG_Stock (25 posts in the scan; comments read on nine threads, and one link post had none).",
+              "html": "<p><strong>Read:</strong> GOOG_Stock (25 posts in the scan; comments read on nine threads, and one link post had none). <strong>Sources checked:</strong> Alphabet's SEC filings on EDGAR, fetched with WebFetch because the curl call needed approval in this unattended run; nothing new since the 13F-HR of 6 November. Alphabet investor relations: fetched, but its sections rendered empty, so there is still no Q4 date. The Google Cloud AI blog: fetched, and the new Gemini for healthcare post was opened. The Gemini models blog: fetched but showed no posts, so Google's blog RSS feed was read for items since 9 November.</p>",
+              "text": "Read: GOOG_Stock (25 posts in the scan; comments read on nine threads, and one link post had none). Sources checked: Alphabet's SEC filings on EDGAR, fetched with WebFetch because the curl call needed approval in this unattended run; nothing new since the 13F-HR of 6 November. Alphabet investor relations: fetched, but its sections rendered empty, so there is still no Q4 date. The Google Cloud AI blog: fetched, and the new Gemini for healthcare post was opened. The Gemini models blog: fetched but showed no posts, so Google's blog RSS feed was read for items since 9 November.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong>",
+              "html": "<p><strong>Announced, not discussed:</strong></p>\n<ul>\n<li><strong>The Gemini Decisions API launched on 11 November, built on a model named <code>gemini-decision-1</code>.</strong> It scores up to 1,000 closed-set questions against one input. It costs $0.10 per million input tokens with no charge for output, and is available through the Gemini API in AI Studio, with Google Cloud support &quot;coming soon&quot;.</li>\n<li><strong>Google's Gemini eyewear, made with Gentle Monster and Warby Parker and engineered by Samsung, went on pre-order on 12 November and goes on sale on 10 December.</strong> Prices start at $449 (Gentle Monster) and $395 (Warby Parker), and only US and South Korean Google accounts are eligible.</li>\n<li><strong>Also on Google's blog since 9 November:</strong> Gemini on Apple CarPlay (11 November), Gemini Intelligence on more Android devices and the November Pixel Drop (10 November), Google's Multimodal Knowledge Agent benchmark (10 November), and a Google Fi network update (10 November). These are product updates and were not opened.</li>\n</ul>",
+              "text": "Announced, not discussed: The Gemini Decisions API launched on 11 November, built on a model named gemini-decision-1 . It scores up to 1,000 closed-set questions against one input. It costs $0.10 per million input tokens with no charge for output, and is available through the Gemini API in AI Studio, with Google Cloud support \"coming soon\". Google's Gemini eyewear, made with Gentle Monster and Warby Parker and engineered by Samsung, went on pre-order on 12 November and goes on sale on 10 December. Prices start at $449 (Gentle Monster) and $395 (Warby Parker), and only US and South Korean Google accounts are eligible. Also on Google's blog since 9 November: Gemini on Apple CarPlay (11 November), Gemini Intelligence on more Android devices and the November Pixel Drop (10 November), Google's Multimodal Knowledge Agent benchmark (10 November), and a Google Fi network update (10 November). These are product updates and were not opened. Verified against Google's post Status: Verified against Google's post Status: Verified against Google's blog RSS feed",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/\" target=\"_blank\" rel=\"noopener noreferrer\">Google's post</a> Status: <strong>Verified</strong> against <a href=\"https://blog.google/innovation-and-ai/technology/xr-ar/google-intelligent-eyewear-collections-pre-order/\" target=\"_blank\" rel=\"noopener noreferrer\">Google's post</a> Status: <strong>Verified</strong> against Google's blog RSS feed</p>",
+              "updated": null,
+              "sources": [
+                "Google"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong> &quot;huang&quot; is covered under Community sentiment.",
+              "html": "<p><strong>Flagged terms set aside:</strong> &quot;huang&quot; is covered under Community sentiment. The second post using the term is a 2-point joke title with no comments.</p>",
+              "text": "Flagged terms set aside: \"huang\" is covered under Community sentiment. The second post using the term is a 2-point joke title with no comments.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Missed earlier:</strong> Google announced Gemini 4 Carbon on 28 October, and the 30 October and 6 November runs did not record it.",
+              "html": "<p><strong>Missed earlier:</strong> Google announced Gemini 4 Carbon on 28 October, and the 30 October and 6 November runs did not record it. The Gemini models blog page rendered empty both times.</p>",
+              "text": "Missed earlier: Google announced Gemini 4 Carbon on 28 October, and the 30 October and 6 November runs did not record it. The Gemini models blog page rendered empty both times.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "Skipped under this feed&#x27;s guidance: position posts (&quot;Should I add now?&quot;, &quot;Roll or bounce?&quot;) and &quot;Are you guys buying at this price?&quot;.",
+              "html": "<p>Skipped under this feed's guidance: position posts (&quot;Should I add now?&quot;, &quot;Roll or bounce?&quot;) and &quot;Are you guys buying at this price?&quot;. Its replies are mostly members moving cash to NVDA; one claims Google is &quot;prepping 10B to buy Anthropic&quot;, which was not checked. Also skipped: image posts with no sourced content (&quot;This is what most people here expect to happen every day&quot;, &quot;LETS GO GOOGLE HOLDERS&quot;, &quot;$GOOGL sentiment&quot;), a &quot;feels like MSFT a few months ago&quot; thread, link posts with no comments (S&amp;P hyperscaler debt forecasts via the FT, an AI-capex post, &quot;It's survival of the fittest&quot;, &quot;Why Google Search's Moat is Shrinking&quot;), &quot;This Trend Won't Last&quot;, &quot;Buy Nvidia&quot;, and &quot;Why is $QQQ outperforming $GOOG&quot;. Threads already covered on 9 November and still on hot: the &quot;Nvidia scandal&quot; thread, the year-end price poll, &quot;We rally&quot; and the sum-of-the-parts post.</p>",
+              "text": "Skipped under this feed's guidance: position posts (\"Should I add now?\", \"Roll or bounce?\") and \"Are you guys buying at this price?\". Its replies are mostly members moving cash to NVDA; one claims Google is \"prepping 10B to buy Anthropic\", which was not checked. Also skipped: image posts with no sourced content (\"This is what most people here expect to happen every day\", \"LETS GO GOOGLE HOLDERS\", \"$GOOGL sentiment\"), a \"feels like MSFT a few months ago\" thread, link posts with no comments (S&P hyperscaler debt forecasts via the FT, an AI-capex post, \"It's survival of the fittest\", \"Why Google Search's Moat is Shrinking\"), \"This Trend Won't Last\", \"Buy Nvidia\", and \"Why is $QQQ outperforming $GOOG\". Threads already covered on 9 November and still on hot: the \"Nvidia scandal\" thread, the year-end price poll, \"We rally\" and the sum-of-the-parts post.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-09",
       "title": "GOOG stock digest",
@@ -1683,6 +1884,19 @@
           "due_label": "introductory pricing ends"
         },
         {
+          "headline": "<strong>Gemini 4 Carbon was announced on 28 October 2026 for vetted cyber defenders only, and opened to paying developers and AI Ultra subscribers on 10 November.</strong>",
+          "html": "<p><strong>Gemini 4 Carbon was announced on 28 October 2026 for vetted cyber defenders only, and opened to paying developers and AI Ultra subscribers on 10 November.</strong> It is available on the API's paid tiers in AI Studio and Gemini for business, and it is &quot;rolling out&quot; to AI Ultra in the Gemini app, AI Mode and Antigravity. Google does not call it generally available, and free, AI Plus and Pro users have no access. Introductory pricing matches Argon, $2 and $10 per million input and output tokens, rising to $4 and $20 after 30 November. Google claims #1 on the Artificial Analysis Intelligence Index v5.0; that is its own benchmark claim. This resolves the earlier Business Insider report of an internal build named Carbon. Watch the pricing step-up and whether lower tiers gain access.</p>",
+          "text": "Gemini 4 Carbon was announced on 28 October 2026 for vetted cyber defenders only, and opened to paying developers and AI Ultra subscribers on 10 November. It is available on the API's paid tiers in AI Studio and Gemini for business, and it is \"rolling out\" to AI Ultra in the Gemini app, AI Mode and Antigravity. Google does not call it generally available, and free, AI Plus and Pro users have no access. Introductory pricing matches Argon, $2 and $10 per million input and output tokens, rising to $4 and $20 after 30 November. Google claims #1 on the Artificial Analysis Intelligence Index v5.0; that is its own benchmark claim. This resolves the earlier Business Insider report of an internal build named Carbon. Watch the pricing step-up and whether lower tiers gain access. Verified against Google's posts of 28 October and 10 November · 2026-11-12",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> against Google's posts of <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/\" target=\"_blank\" rel=\"noopener noreferrer\">28 October</a> and <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/\" target=\"_blank\" rel=\"noopener noreferrer\">10 November</a> · 2026-11-12</p>",
+          "updated": "2026-11-12",
+          "sources": [
+            "Google"
+          ],
+          "due": "2026-11-30",
+          "due_label": "introductory pricing ends"
+        },
+        {
           "headline": "<strong>Universal Cart launched in the US on 15 October 2026, in Google Search and the Gemini app.</strong>",
           "html": "<p><strong>Universal Cart launched in the US on 15 October 2026, in Google Search and the Gemini app.</strong> A cart that holds items from several merchants, tracks price drops and restocks, surfaces card perks and promo codes, and checks out with Google Pay or hands off to the merchant's cart. Named merchants are Nike, Sephora, Target, Ulta Beauty, Walmart, Wayfair, Steve Madden, Quince and Shopify merchants; it is not in YouTube. Watch for a YouTube surface, non-US availability, and whether Alphabet gives any commerce take-rate detail on an earnings call.</p>",
           "text": "Universal Cart launched in the US on 15 October 2026, in Google Search and the Gemini app. A cart that holds items from several merchants, tracks price drops and restocks, surfaces card perks and promo codes, and checks out with Google Pay or hands off to the merchant's cart. Named merchants are Nike, Sephora, Target, Ulta Beauty, Walmart, Wayfair, Steve Madden, Quince and Shopify merchants; it is not in YouTube. Watch for a YouTube surface, non-US availability, and whether Alphabet gives any commerce take-rate detail on an earnings call. Verified against Google's launch post · 2026-10-17",
@@ -1722,14 +1936,14 @@
           "due_label": null
         },
         {
-          "headline": "<strong>An internal Gemini 4 build codenamed Carbon is in employee testing.</strong>",
-          "html": "<p><strong>An internal Gemini 4 build codenamed Carbon is in employee testing.</strong> Business Insider reported it is available on Google's internal coding platform Jetski, with one tester calling its coding performance comparable to Anthropic's Opus 5.5. Google has not said whether it ships, under what name, or whether it is a revision of Argon. Resolve this entry if a release names it, or fold it into the Argon entry if Google says they are the same model.\nArgon's 13 October launch post does not mention Carbon, so the two are still not publicly connected.</p>",
-          "text": "An internal Gemini 4 build codenamed Carbon is in employee testing. Business Insider reported it is available on Google's internal coding platform Jetski, with one tester calling its coding performance comparable to Anthropic's Opus 5.5. Google has not said whether it ships, under what name, or whether it is a revision of Argon. Resolve this entry if a release names it, or fold it into the Argon entry if Google says they are the same model. Argon's 13 October launch post does not mention Carbon, so the two are still not publicly connected. Reported · Storyboard18's writeup of the Business Insider report · re-checked 2026-10-14 against the Argon launch post, still unnamed",
+          "headline": "<strong>A fast Gemini model codenamed Hydrogen is in staff testing, and the sub claims a larger model called Krypton is coming.</strong>",
+          "html": "<p><strong>A fast Gemini model codenamed Hydrogen is in staff testing, and the sub claims a larger model called Krypton is coming.</strong> Per a secondary summary, Business Insider reported on 11 November that Hydrogen is &quot;built for speed and efficiency&quot; and similar to earlier Flash models; it gave no release date, and Google declined to comment. Krypton appears only in an unsourced r/GOOG_Stock post and leak blogs. Resolve this entry when Google names either model.</p>",
+          "text": "A fast Gemini model codenamed Hydrogen is in staff testing, and the sub claims a larger model called Krypton is coming. Per a secondary summary, Business Insider reported on 11 November that Hydrogen is \"built for speed and efficiency\" and similar to earlier Flash models; it gave no release date, and Google declined to comment. Krypton appears only in an unsourced r/GOOG_Stock post and leak blogs. Resolve this entry when Google names either model. Reported for Hydrogen via mlq.ai's summary , Business Insider not read · Unconfirmed for Krypton; Google's blog feed checked up to 12 November · 2026-11-12",
           "status": "reported",
-          "status_html": "<p>Reported · <a href=\"https://www.storyboard18.com/digital/google-employees-test-new-gemini-4-model-carbon-as-ai-coding-race-heats-up-ws-kl-112285.htm\" target=\"_blank\" rel=\"noopener noreferrer\">Storyboard18's writeup of the Business Insider report</a> · re-checked 2026-10-14 against the Argon launch post, still unnamed</p>",
-          "updated": "2026-10-14",
+          "status_html": "<p>Reported for Hydrogen via <a href=\"https://mlq.ai/news/google-is-testing-a-fast-new-gemini-model-called-hydrogen-with-staff-business-insider-reports/\" target=\"_blank\" rel=\"noopener noreferrer\">mlq.ai's summary</a>, Business Insider not read · <strong>Unconfirmed</strong> for Krypton; Google's blog feed checked up to 12 November · 2026-11-12</p>",
+          "updated": "2026-11-12",
           "sources": [
-            "storyboard18.com"
+            "mlq.ai"
           ],
           "due": null,
           "due_label": null
@@ -1814,11 +2028,11 @@
         },
         {
           "headline": "<strong>Gemini agent for Google Cloud and Workspace.</strong>",
-          "html": "<p><strong>Gemini agent for Google Cloud and Workspace.</strong> The core is generally available; the financial-services and legal specializations are in preview, and government, healthcare and retail are &quot;coming soon&quot;.</p>",
-          "text": "Gemini agent for Google Cloud and Workspace. The core is generally available; the financial-services and legal specializations are in preview, and government, healthcare and retail are \"coming soon\". Verified against the Google Cloud blog · 2026-10-08",
+          "html": "<p><strong>Gemini agent for Google Cloud and Workspace.</strong> The core is generally available; the financial-services and legal specializations are in preview, and government, healthcare and retail are &quot;coming soon&quot;.\nHealthcare entered preview in the US on 10 November 2026, with no pricing given; government entered preview on 20 October (separate entry). Retail is still to come.</p>",
+          "text": "Gemini agent for Google Cloud and Workspace. The core is generally available; the financial-services and legal specializations are in preview, and government, healthcare and retail are \"coming soon\". Healthcare entered preview in the US on 10 November 2026, with no pricing given; government entered preview on 20 October (separate entry). Retail is still to come. Verified against the Google Cloud blog · 2026-10-08 · healthcare Verified against Google Cloud's post · 2026-11-12",
           "status": "verified",
-          "status_html": "<p><strong>Verified</strong> against <a href=\"https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026\" target=\"_blank\" rel=\"noopener noreferrer\">the Google Cloud blog</a> · 2026-10-08</p>",
-          "updated": "2026-10-08",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026\" target=\"_blank\" rel=\"noopener noreferrer\">the Google Cloud blog</a> · 2026-10-08 · healthcare <strong>Verified</strong> against <a href=\"https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare\" target=\"_blank\" rel=\"noopener noreferrer\">Google Cloud's post</a> · 2026-11-12</p>",
+          "updated": "2026-11-12",
           "sources": [
             "Google Cloud"
           ],
@@ -2058,8 +2272,8 @@
         },
         {
           "headline": "<strong>External TPU sales are the sub's next growth thesis, and Evercore ISI's note is what it rests on.</strong>",
-          "html": "<p><strong>External TPU sales are the sub's next growth thesis, and Evercore ISI's note is what it rests on.</strong> The firm reaffirmed Outperform with a $450 target and, per secondary coverage, projects external TPU sales at roughly 35% of Google Cloud revenue in 2027 — $75 billion in 2027 and $113 billion in 2028 — with Cloud revenue raised to $213 billion from $180 billion. These are one firm's estimates, not Alphabet guidance; Alphabet has not broken out external TPU hardware revenue. Watch whether the Q3 or Q4 call gives any external TPU figure.\nThe Q3 release says &quot;TPU systems sales were also a meaningful contributor&quot; to Cloud's 103% growth, but it gives no TPU revenue figure.\nOn 9 November Google's TPU 8tx and 8i Max post said TPUs have &quot;nearly 100 customers&quot; and can now be deployed in customers' own data centres; it gives no revenue or terms.</p>",
-          "text": "External TPU sales are the sub's next growth thesis, and Evercore ISI's note is what it rests on. The firm reaffirmed Outperform with a $450 target and, per secondary coverage, projects external TPU sales at roughly 35% of Google Cloud revenue in 2027 — $75 billion in 2027 and $113 billion in 2028 — with Cloud revenue raised to $213 billion from $180 billion. These are one firm's estimates, not Alphabet guidance; Alphabet has not broken out external TPU hardware revenue. Watch whether the Q3 or Q4 call gives any external TPU figure. The Q3 release says \"TPU systems sales were also a meaningful contributor\" to Cloud's 103% growth, but it gives no TPU revenue figure. On 9 November Google's TPU 8tx and 8i Max post said TPUs have \"nearly 100 customers\" and can now be deployed in customers' own data centres; it gives no revenue or terms. Reported · the note is paywalled; figures from Evercore coverage via TradingView ; the release wording Verified · 2026-10-30",
+          "html": "<p><strong>External TPU sales are the sub's next growth thesis, and Evercore ISI's note is what it rests on.</strong> The firm reaffirmed Outperform with a $450 target and, per secondary coverage, projects external TPU sales at roughly 35% of Google Cloud revenue in 2027 — $75 billion in 2027 and $113 billion in 2028 — with Cloud revenue raised to $213 billion from $180 billion. These are one firm's estimates, not Alphabet guidance; Alphabet has not broken out external TPU hardware revenue. Watch whether the Q3 or Q4 call gives any external TPU figure.\nThe Q3 release says &quot;TPU systems sales were also a meaningful contributor&quot; to Cloud's 103% growth, but it gives no TPU revenue figure.\nOn 12 November a 72-point post cited a Bloomberg Intelligence forecast of TPU sales rising from about $12 billion in 2026 to more than $135 billion by 2028; only an aggregator citing InfoMoney was found for it.\nOn 9 November Google's TPU 8tx and 8i Max post said TPUs have &quot;nearly 100 customers&quot; and can now be deployed in customers' own data centres; it gives no revenue or terms.</p>",
+          "text": "External TPU sales are the sub's next growth thesis, and Evercore ISI's note is what it rests on. The firm reaffirmed Outperform with a $450 target and, per secondary coverage, projects external TPU sales at roughly 35% of Google Cloud revenue in 2027 — $75 billion in 2027 and $113 billion in 2028 — with Cloud revenue raised to $213 billion from $180 billion. These are one firm's estimates, not Alphabet guidance; Alphabet has not broken out external TPU hardware revenue. Watch whether the Q3 or Q4 call gives any external TPU figure. The Q3 release says \"TPU systems sales were also a meaningful contributor\" to Cloud's 103% growth, but it gives no TPU revenue figure. On 12 November a 72-point post cited a Bloomberg Intelligence forecast of TPU sales rising from about $12 billion in 2026 to more than $135 billion by 2028; only an aggregator citing InfoMoney was found for it. On 9 November Google's TPU 8tx and 8i Max post said TPUs have \"nearly 100 customers\" and can now be deployed in customers' own data centres; it gives no revenue or terms. Reported · the note is paywalled; figures from Evercore coverage via TradingView ; the release wording Verified · 2026-10-30",
           "status": "reported",
           "status_html": "<p>Reported · the note is paywalled; figures from <a href=\"https://www.tradingview.com/news/seekingalpha:554b9cca8094b:0-evercore-raises-alphabet-estimates-on-potential-tpu-hardware-sales/\" target=\"_blank\" rel=\"noopener noreferrer\">Evercore coverage via TradingView</a>; the release wording <strong>Verified</strong> · 2026-10-30</p>",
           "updated": "2026-10-30",
