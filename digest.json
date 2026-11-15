@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12",
+  "generated": "2026-11-15",
   "meta": {
     "feed": "goog_stock",
     "title": "GOOG Stock Digest",
@@ -21,6 +21,178 @@
     "source_note": "from Reddit's hot threads"
   },
   "digests": [
+    {
+      "date": "2026-11-15",
+      "title": "GOOG stock digest",
+      "intro_html": "<p>The sub spent this run on the stock recovering towards $300, on Microsoft rising through an Outlook outage while GOOG fell, and on Google's commitment to buy about $10 billion of Anthropic stock in its IPO. Two things changed. Google released Gemini 4 Hydrogen on 12 November, to everyone and in Search worldwide, so the rumoured &quot;Hydrogen&quot; from last run turned out to be real; the rumoured &quot;Krypton&quot; did not appear. And Nvidia's 8-K of 12 November says Jensen Huang resigned as CEO, which settles the &quot;ousted&quot; thread from last run.</p>",
+      "sections": [
+        {
+          "heading": "Must know",
+          "category": "mustknow",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Google has agreed to buy about $10 billion of Anthropic stock at the IPO price, according to coverage of Anthropic's amended S-1 of 10 November.</strong>",
+              "html": "<p><strong>Google has agreed to buy about $10 billion of Anthropic stock at the IPO price, according to coverage of Anthropic's amended S-1 of 10 November.</strong> The shares are non-voting and sit inside a larger private placement that runs alongside the IPO.</p>\n<ul>\n<li><strong>Why it matters:</strong> It is new money from Alphabet into its largest outside AI holding, and it drew the run's most-discussed new thread. In <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1xwc2hx/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;Scary&quot;</a> (29 points, 22 comments), the replies mostly reject the title. One says &quot;Alphabet already owns hundreds of billions of anthropic. 10 billion more isn't much&quot;. Another says &quot;If Anthropic sinks after IPO, it means Open AI is also likely to sink. That means Gemini usage accelerates. If Anthropic surges, GOOG benefits.&quot; One asks whether Google is &quot;actually buying shares or trading 10b worth of tpu's&quot;. The sharpest objection is circular financing: &quot;The suppliers are financing the customer buying their supplies.&quot; Last run, a commenter claimed Google was &quot;prepping 10B to buy Anthropic&quot;; this is that claim, now with a filing behind it.</li>\n<li><strong>What to watch:</strong> pricing is expected on 18 November and trading on Nasdaq under &quot;ANT&quot; on 19 November. Google's purchase depends on the IPO closing. Watch also how Alphabet reports the stake's value in its Q4 results, whose date has not been announced.</li>\n<li><strong>Numbers:</strong> All are reported from coverage of the filing; none was checked against the filing itself. &quot;135,135,135 Class N shares, about $10 billion at the $74 midpoint, inside a $26 billion private placement&quot;. 825 million shares offered at $70 to $78. Google's ownership is capped at 14.99%. Per that coverage, Reuters values Google's stake at &quot;about $139 billion against $33.3 billion invested&quot; at $78.</li>\n<li><strong>Caveats:</strong> The purchase uses an option under a March 2026 financing agreement, so it is not a new relationship. One report adds that a roll-over note funds any amount the 14.99% cap blocks, and that Google gets price protection if another investor buys cheaper in the placement. A headline says Nvidia is buying $10 billion too, but the article body does not confirm it.</li>\n<li><strong>Read next:</strong> <a href=\"https://finance.yahoo.com/markets/stocks/articles/alphabet-stocks-rise-google-commits-175810483.html\" target=\"_blank\" rel=\"noopener noreferrer\">GuruFocus via Yahoo Finance: Alphabet Stocks Rise as Google Commits $10 Billion to Anthropic at IPO</a>.</li>\n</ul>",
+              "text": "Google has agreed to buy about $10 billion of Anthropic stock at the IPO price, according to coverage of Anthropic's amended S-1 of 10 November. The shares are non-voting and sit inside a larger private placement that runs alongside the IPO. Why it matters: It is new money from Alphabet into its largest outside AI holding, and it drew the run's most-discussed new thread. In \"Scary\" (29 points, 22 comments), the replies mostly reject the title. One says \"Alphabet already owns hundreds of billions of anthropic. 10 billion more isn't much\". Another says \"If Anthropic sinks after IPO, it means Open AI is also likely to sink. That means Gemini usage accelerates. If Anthropic surges, GOOG benefits.\" One asks whether Google is \"actually buying shares or trading 10b worth of tpu's\". The sharpest objection is circular financing: \"The suppliers are financing the customer buying their supplies.\" Last run, a commenter claimed Google was \"prepping 10B to buy Anthropic\"; this is that claim, now with a filing behind it. What to watch: pricing is expected on 18 November and trading on Nasdaq under \"ANT\" on 19 November. Google's purchase depends on the IPO closing. Watch also how Alphabet reports the stake's value in its Q4 results, whose date has not been announced. Numbers: All are reported from coverage of the filing; none was checked against the filing itself. \"135,135,135 Class N shares, about $10 billion at the $74 midpoint, inside a $26 billion private placement\". 825 million shares offered at $70 to $78. Google's ownership is capped at 14.99%. Per that coverage, Reuters values Google's stake at \"about $139 billion against $33.3 billion invested\" at $78. Caveats: The purchase uses an option under a March 2026 financing agreement, so it is not a new relationship. One report adds that a roll-over note funds any amount the 14.99% cap blocks, and that Google gets price protection if another investor buys cheaper in the placement. A headline says Nvidia is buying $10 billion too, but the article body does not confirm it. Read next: GuruFocus via Yahoo Finance: Alphabet Stocks Rise as Google Commits $10 Billion to Anthropic at IPO . Reported · the terms come from GuruFocus, which links the filing; the S-1/A of 10 November is Verified as filed on EDGAR, but its 14.8 MB main document was too large to fetch and was not read; Nvidia's purchase is Unconfirmed",
+              "status": "reported",
+              "status_html": "<p>Reported · the terms come from GuruFocus, which links the filing; the <a href=\"https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/0001628280-26-072484-index.htm\" target=\"_blank\" rel=\"noopener noreferrer\">S-1/A of 10 November</a> is <strong>Verified</strong> as filed on EDGAR, but its 14.8 MB main document was too large to fetch and was not read; Nvidia's purchase is <strong>Unconfirmed</strong></p>",
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock",
+                "Yahoo Finance",
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "AI models and products",
+          "category": "ai",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Google released Gemini 4 Hydrogen on 12 November, and it is &quot;rolling out globally&quot; to developers, businesses, Gemini app users and Google Search.</strong>",
+              "html": "<p><strong>Google released Gemini 4 Hydrogen on 12 November, and it is &quot;rolling out globally&quot; to developers, businesses, Gemini app users and Google Search.</strong> Google calls it &quot;our daily driver for agentic workflows&quot;. It is on every tier of the Gemini API and AI Studio, and in the Gemini app's model picker; free users get it when auto model selection picks it. Google says it is &quot;now available globally in Google Search for all users&quot;, with better handling of complex questions and more visual answers. The Search post does not mention ads. Pricing is &quot;$1.50 per million input tokens and $7.50 per million output tokens&quot;, flat across the 1M-token context. Google's own benchmark claims are 51 on the Artificial Analysis Intelligence Index against 50 for Argon, and Terminal-Bench 4.1 at 57% against 18.2% for 3.8 Flash. The post does not say &quot;generally available&quot;. On the sub, <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1xupmuw/\" target=\"_blank\" rel=\"noopener noreferrer\">the launch post</a> (40 points) drew only jokes. In the <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1xvpuj7/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;Search vs LLMs&quot;</a> thread, one commenter says &quot;carbon 4 is awesome&quot;. Last run's unsourced post predicted Hydrogen and a model called Krypton for the next day; Hydrogen arrived and Krypton did not. <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/\" target=\"_blank\" rel=\"noopener noreferrer\">Google's post</a></p>",
+              "text": "Google released Gemini 4 Hydrogen on 12 November, and it is \"rolling out globally\" to developers, businesses, Gemini app users and Google Search. Google calls it \"our daily driver for agentic workflows\". It is on every tier of the Gemini API and AI Studio, and in the Gemini app's model picker; free users get it when auto model selection picks it. Google says it is \"now available globally in Google Search for all users\", with better handling of complex questions and more visual answers. The Search post does not mention ads. Pricing is \"$1.50 per million input tokens and $7.50 per million output tokens\", flat across the 1M-token context. Google's own benchmark claims are 51 on the Artificial Analysis Intelligence Index against 50 for Argon, and Terminal-Bench 4.1 at 57% against 18.2% for 3.8 Flash. The post does not say \"generally available\". On the sub, the launch post (40 points) drew only jokes. In the \"Search vs LLMs\" thread, one commenter says \"carbon 4 is awesome\". Last run's unsourced post predicted Hydrogen and a model called Krypton for the next day; Hydrogen arrived and Krypton did not. Google's post Verified against Google's launch post and Search post of 12 November · the benchmarks are Google's claims · Krypton is still Unconfirmed",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against Google's launch post and <a href=\"https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/\" target=\"_blank\" rel=\"noopener noreferrer\">Search post</a> of 12 November · the benchmarks are Google's claims · Krypton is still <strong>Unconfirmed</strong></p>",
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock",
+                "Google"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Valuation and price action",
+          "category": "valuation",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>A 107-point thread says the market is &quot;ridiculous&quot; because MSFT rose during a global Microsoft outage while GOOG fell.</strong>",
+              "html": "<p><strong>A 107-point thread says the market is &quot;ridiculous&quot; because MSFT rose during a global Microsoft outage while GOOG fell.</strong> A companion post (<a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1xuzbgq/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a>) puts the Outlook outage at &quot;TEN HOURS&quot;, and says Outlook, Teams and Copilot were all down. In <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1xvef5y/\" target=\"_blank\" rel=\"noopener noreferrer\">the main thread</a>, the top reply is &quot;Global outage was priced in&quot;. One reply puts the day's fall down to NVDA. In the companion thread, a reply answers the comparison directly: an outage does not make customers drop Outlook, but &quot;Google search slow growth is actual real revenue miss&quot;. Another says Microsoft fell &quot;2.5% pre market&quot; afterwards, with &quot;google up nearly 7% for the week&quot;. A search found no outage of that length in November: an aggregator lists one of about four hours on 9 November, for some Outlook on the web users in Europe, the Middle East and Africa.</p>",
+              "text": "A 107-point thread says the market is \"ridiculous\" because MSFT rose during a global Microsoft outage while GOOG fell. A companion post ( thread ) puts the Outlook outage at \"TEN HOURS\", and says Outlook, Teams and Copilot were all down. In the main thread , the top reply is \"Global outage was priced in\". One reply puts the day's fall down to NVDA. In the companion thread, a reply answers the comparison directly: an outage does not make customers drop Outlook, but \"Google search slow growth is actual real revenue miss\". Another says Microsoft fell \"2.5% pre market\" afterwards, with \"google up nearly 7% for the week\". A search found no outage of that length in November: an aggregator lists one of about four hours on 9 November, for some Outlook on the web users in Europe, the Middle East and Africa. Single source · price moves as posted; the ten-hour outage is Unconfirmed ; Microsoft's service-health page was not read",
+              "status": "single-source",
+              "status_html": "<p>Single source · price moves as posted; the ten-hour outage is <strong>Unconfirmed</strong>; Microsoft's service-health page was not read</p>",
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>The sub's mood has turned from the post-earnings low to the $300 level.</strong>",
+              "html": "<p><strong>The sub's mood has turned from the post-earnings low to the $300 level.</strong> <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1xv44dz/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;We are very near to 300 guys&quot;</a> (62 points, 103 comments) asks who bought near $280. Its replies are mostly members' own entry prices. The one counterpoint is &quot;Acting like 300 vs 280 is a missed opportunity is kinda nuts&quot;. <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1xuh2vh/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;Up she goes 🚀&quot;</a> (104 points) drew &quot;we're using rockets for 1.5%?&quot; and &quot;only 20% more to get back to 0%&quot;.</p>",
+              "text": "The sub's mood has turned from the post-earnings low to the $300 level. \"We are very near to 300 guys\" (62 points, 103 comments) asks who bought near $280. Its replies are mostly members' own entry prices. The one counterpoint is \"Acting like 300 vs 280 is a missed opportunity is kinda nuts\". \"Up she goes 🚀\" (104 points) drew \"we're using rockets for 1.5%?\" and \"only 20% more to get back to 0%\". Single source · price levels as posted, not checked",
+              "status": "single-source",
+              "status_html": "<p>Single source · price levels as posted, not checked</p>",
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Nvidia's 8-K of 12 November says Jensen Huang resigned as CEO, president and director &quot;effective immediately&quot;, and CFO Colette Kress is interim CEO.</strong>",
+              "html": "<p><strong>Nvidia's 8-K of 12 November says Jensen Huang resigned as CEO, president and director &quot;effective immediately&quot;, and CFO Colette Kress is interim CEO.</strong> It gives no reason. Last run, the sub was asking whether his &quot;ousting&quot; helps Google; that thread is still on hot, now at 39 points and 59 comments. In <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1xufe4u/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;Are we past the DIP?&quot;</a> the second reply guesses &quot;money from Nvidia stock is going to Google and AMD&quot;. Another answers &quot;Money is not moving from nvda&quot;. No one gave evidence of a rotation either way.</p>",
+              "text": "Nvidia's 8-K of 12 November says Jensen Huang resigned as CEO, president and director \"effective immediately\", and CFO Colette Kress is interim CEO. It gives no reason. Last run, the sub was asking whether his \"ousting\" helps Google; that thread is still on hot, now at 39 points and 59 comments. In \"Are we past the DIP?\" the second reply guesses \"money from Nvidia stock is going to Google and AMD\". Another answers \"Money is not moving from nvda\". No one gave evidence of a rotation either way. Verified against Nvidia's 8-K · the rotation claims are Single source opinion",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm\" target=\"_blank\" rel=\"noopener noreferrer\">Nvidia's 8-K</a> · the rotation claims are Single source opinion</p>",
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock",
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Asked whether LLMs will erode Search, the sub's replies argue that LLMs depend on Google's index.</strong>",
+              "html": "<p><strong>Asked whether LLMs will erode Search, the sub's replies argue that LLMs depend on Google's index.</strong> In <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1xvpuj7/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;Search vs LLMs&quot;</a> (0 points, 29 comments), the replies say &quot;How many LLMs rely on Google search for their data?&quot; and &quot;Google could allow them bot access for micro transactions&quot;. Another says &quot;The money is not in searching, it's in answering&quot;. No one offered data either way.</p>",
+              "text": "Asked whether LLMs will erode Search, the sub's replies argue that LLMs depend on Google's index. In \"Search vs LLMs\" (0 points, 29 comments), the replies say \"How many LLMs rely on Google search for their data?\" and \"Google could allow them bot access for micro transactions\". Another says \"The money is not in searching, it's in answering\". No one offered data either way. Single source · opinion",
+              "status": "single-source",
+              "status_html": "<p>Single source · opinion</p>",
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> GOOG_Stock (25 posts in the scan; comments read on eleven threads).",
+              "html": "<p><strong>Read:</strong> GOOG_Stock (25 posts in the scan; comments read on eleven threads). <strong>Sources checked:</strong> Alphabet's SEC filings on EDGAR, read with WebFetch; nothing new since the 13F-HR of 6 November. Anthropic's EDGAR filing list was also read, but curl needed approval in this unattended run, so the S-1/A text was not read. Alphabet investor relations: fetched, but its sections rendered empty, so there is still no Q4 date. Google Cloud AI blog: fetched, but the index has no dates and shows no Hydrogen post. Gemini models blog: read through Google's blog RSS feed for items since 12 November.</p>",
+              "text": "Read: GOOG_Stock (25 posts in the scan; comments read on eleven threads). Sources checked: Alphabet's SEC filings on EDGAR, read with WebFetch; nothing new since the 13F-HR of 6 November. Anthropic's EDGAR filing list was also read, but curl needed approval in this unattended run, so the S-1/A text was not read. Alphabet investor relations: fetched, but its sections rendered empty, so there is still no Q4 date. Google Cloud AI blog: fetched, but the index has no dates and shows no Hydrogen post. Gemini models blog: read through Google's blog RSS feed for items since 12 November.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong>",
+              "html": "<p><strong>Announced, not discussed:</strong></p>\n<ul>\n<li><strong>Google Wallet can now connect to the Gemini app for personal finance insights, from 13 November.</strong></li>\n<li><strong>Google launched a $10 million Energy Impact Program in West Virginia on 12 November.</strong></li>\n<li><strong>Google Ads gained a transparency tool for invalid traffic on 12 November.</strong></li>\n<li><strong>Also on Google's blog since 12 November:</strong> Google Cloud credits in AI Studio (13 November), new Google Flow tools, Gemini in Chrome for quick answers, privacy design on the intelligent eyewear, kelp restoration and the 2026 PhD Fellows (all 12 November). The eyewear pre-order was covered last run. These were not opened.</li>\n</ul>",
+              "text": "Announced, not discussed: Google Wallet can now connect to the Gemini app for personal finance insights, from 13 November. Google launched a $10 million Energy Impact Program in West Virginia on 12 November. Google Ads gained a transparency tool for invalid traffic on 12 November. Also on Google's blog since 12 November: Google Cloud credits in AI Studio (13 November), new Google Flow tools, Gemini in Chrome for quick answers, privacy design on the intelligent eyewear, kelp restoration and the 2026 PhD Fellows (all 12 November). The eyewear pre-order was covered last run. These were not opened. Verified against Google's post , title only Status: Verified against Google's post , title only Status: Verified against Google's post , title only Status: Verified against Google's blog RSS feed",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/\" target=\"_blank\" rel=\"noopener noreferrer\">Google's post</a>, title only Status: <strong>Verified</strong> against <a href=\"https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/energy-impact-program-west-virginia/\" target=\"_blank\" rel=\"noopener noreferrer\">Google's post</a>, title only Status: <strong>Verified</strong> against <a href=\"https://blog.google/products/ads-commerce/invalid-traffic-overview-google-ads/\" target=\"_blank\" rel=\"noopener noreferrer\">Google's post</a>, title only Status: <strong>Verified</strong> against Google's blog RSS feed</p>",
+              "updated": null,
+              "sources": [
+                "Google"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong> the scan flagged none.",
+              "html": "<p><strong>Flagged terms set aside:</strong> the scan flagged none.</p>",
+              "text": "Flagged terms set aside: the scan flagged none.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "Re-posted and already covered: &quot;Google announces two new TPU variants&quot; (85 points) is the 9 November TPU 8tx and 8i Max launch.",
+              "html": "<p>Re-posted and already covered: <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1xuzo0z/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;Google announces two new TPU variants&quot;</a> (85 points) is the 9 November TPU 8tx and 8i Max launch. Its one substantive reply claims the confidential-compute TPU lets Google &quot;move the Apple business from SpaceX to their own data center&quot;; that was not checked. Skipped under this feed's guidance: position posts (&quot;5k in my savings account&quot;, &quot;Would it be wise to buy $GOOG&quot;, &quot;Am i cooked&quot;, &quot;You guys just got a dip&quot;, the &quot;Google update&quot; gallery), a question about a 2025 opening price, a P/E video link with no comments, and &quot;Google will benefit from AI bubble crash&quot; (9 points; the replies are one-liners). Still on hot from 12 November: the Huang thread (updated above), the Krypton post, the data-centre slowdown post, the S&amp;P debt link, &quot;It's survival of the fittest&quot;, &quot;Buy Nvidia&quot;, a Huang joke and &quot;This Trend Won't Last&quot;.</p>",
+              "text": "Re-posted and already covered: \"Google announces two new TPU variants\" (85 points) is the 9 November TPU 8tx and 8i Max launch. Its one substantive reply claims the confidential-compute TPU lets Google \"move the Apple business from SpaceX to their own data center\"; that was not checked. Skipped under this feed's guidance: position posts (\"5k in my savings account\", \"Would it be wise to buy $GOOG\", \"Am i cooked\", \"You guys just got a dip\", the \"Google update\" gallery), a question about a 2025 opening price, a P/E video link with no comments, and \"Google will benefit from AI bubble crash\" (9 points; the replies are one-liners). Still on hot from 12 November: the Huang thread (updated above), the Krypton post, the data-centre slowdown post, the S&P debt link, \"It's survival of the fittest\", \"Buy Nvidia\", a Huang joke and \"This Trend Won't Last\".",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-12",
       "title": "GOOG stock digest",
@@ -1936,15 +2108,26 @@
           "due_label": null
         },
         {
-          "headline": "<strong>A fast Gemini model codenamed Hydrogen is in staff testing, and the sub claims a larger model called Krypton is coming.</strong>",
-          "html": "<p><strong>A fast Gemini model codenamed Hydrogen is in staff testing, and the sub claims a larger model called Krypton is coming.</strong> Per a secondary summary, Business Insider reported on 11 November that Hydrogen is &quot;built for speed and efficiency&quot; and similar to earlier Flash models; it gave no release date, and Google declined to comment. Krypton appears only in an unsourced r/GOOG_Stock post and leak blogs. Resolve this entry when Google names either model.</p>",
-          "text": "A fast Gemini model codenamed Hydrogen is in staff testing, and the sub claims a larger model called Krypton is coming. Per a secondary summary, Business Insider reported on 11 November that Hydrogen is \"built for speed and efficiency\" and similar to earlier Flash models; it gave no release date, and Google declined to comment. Krypton appears only in an unsourced r/GOOG_Stock post and leak blogs. Resolve this entry when Google names either model. Reported for Hydrogen via mlq.ai's summary , Business Insider not read · Unconfirmed for Krypton; Google's blog feed checked up to 12 November · 2026-11-12",
-          "status": "reported",
-          "status_html": "<p>Reported for Hydrogen via <a href=\"https://mlq.ai/news/google-is-testing-a-fast-new-gemini-model-called-hydrogen-with-staff-business-insider-reports/\" target=\"_blank\" rel=\"noopener noreferrer\">mlq.ai's summary</a>, Business Insider not read · <strong>Unconfirmed</strong> for Krypton; Google's blog feed checked up to 12 November · 2026-11-12</p>",
-          "updated": "2026-11-12",
+          "headline": "<strong>Gemini 4 Hydrogen was released on 12 November 2026, &quot;rolling out globally&quot; to the API, AI Studio, Gemini for business, the Gemini app and Google Search for all users.</strong>",
+          "html": "<p><strong>Gemini 4 Hydrogen was released on 12 November 2026, &quot;rolling out globally&quot; to the API, AI Studio, Gemini for business, the Gemini app and Google Search for all users.</strong> Google positions it as the fast &quot;daily driver for agentic workflows&quot; below Carbon and Argon. It costs $1.50 per million input tokens and $7.50 per million output tokens across the full 1M-token context. Free Gemini app users get it only through auto model selection, and Antigravity access needs AI Pro or Ultra. Google does not call it generally available. Watch whether Alphabet links Hydrogen in Search to any change in Search revenue or ads on the Q4 call.</p>",
+          "text": "Gemini 4 Hydrogen was released on 12 November 2026, \"rolling out globally\" to the API, AI Studio, Gemini for business, the Gemini app and Google Search for all users. Google positions it as the fast \"daily driver for agentic workflows\" below Carbon and Argon. It costs $1.50 per million input tokens and $7.50 per million output tokens across the full 1M-token context. Free Gemini app users get it only through auto model selection, and Antigravity access needs AI Pro or Ultra. Google does not call it generally available. Watch whether Alphabet links Hydrogen in Search to any change in Search revenue or ads on the Q4 call. Verified against Google's launch post and Search post · 2026-11-15",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/\" target=\"_blank\" rel=\"noopener noreferrer\">Google's launch post</a> and <a href=\"https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/\" target=\"_blank\" rel=\"noopener noreferrer\">Search post</a> · 2026-11-15</p>",
+          "updated": "2026-11-15",
           "sources": [
-            "mlq.ai"
+            "Google"
           ],
+          "due": null,
+          "due_label": null
+        },
+        {
+          "headline": "<strong>The sub claims a larger Gemini model called Krypton is coming, for &quot;trusted users&quot; only.</strong>",
+          "html": "<p><strong>The sub claims a larger Gemini model called Krypton is coming, for &quot;trusted users&quot; only.</strong> It appears only in an unsourced r/GOOG_Stock post and leak blogs. The same post predicted Hydrogen, which shipped on 12 November, but Google's launch post names only Carbon and Argon alongside it. Resolve this entry when Google names Krypton.</p>",
+          "text": "The sub claims a larger Gemini model called Krypton is coming, for \"trusted users\" only. It appears only in an unsourced r/GOOG_Stock post and leak blogs. The same post predicted Hydrogen, which shipped on 12 November, but Google's launch post names only Carbon and Argon alongside it. Resolve this entry when Google names Krypton. Unconfirmed · Google's blog feed checked up to 13 November · 2026-11-15",
+          "status": "unconfirmed",
+          "status_html": "<p><strong>Unconfirmed</strong> · Google's blog feed checked up to 13 November · 2026-11-15</p>",
+          "updated": "2026-11-15",
+          "sources": [],
           "due": null,
           "due_label": null
         },
@@ -2249,23 +2432,26 @@
           "due_label": "Berkshire's Q3 13F, as posted"
         },
         {
+          "headline": "<strong>The sub claims an Anthropic IPO is coming &quot;in the middle of November&quot; at a $1.5–2 trillion valuation and is draining liquidity from GOOG.</strong>",
+          "html": "<p><strong>The sub claims an Anthropic IPO is coming &quot;in the middle of November&quot; at a $1.5–2 trillion valuation and is draining liquidity from GOOG.</strong> No source was given. Secondary coverage reports a confidential filing and investor talk of that valuation range, but no announced date. Resolve when Anthropic sets a date, which would also give Alphabet's stake.\nAfter the 5 November sell-off, a WSJ report pasted on r/stocks and r/investing says Anthropic is aiming for &quot;the week before Thanksgiving&quot;, and that three investors planning to participate say the valuation will likely come down, one saying &quot;closer to $1 trillion&quot;.\nAnthropic's S-1/A of 10 November, per GuruFocus coverage, offers 825 million shares at $70 to $78 on Nasdaq under &quot;ANT&quot;, with pricing expected on 18 November and trading on 19 November. Google has agreed to buy &quot;135,135,135 Class N shares, about $10 billion at the $74 midpoint, inside a $26 billion private placement&quot;. It is exercising an option from a March 2026 agreement, its ownership is capped at 14.99%, and the purchase depends on the IPO closing. Per that coverage, Reuters values Google's stake at about $139 billion at $78. Resolve this entry once the IPO prices and Alphabet reports the stake.</p>",
+          "text": "The sub claims an Anthropic IPO is coming \"in the middle of November\" at a $1.5–2 trillion valuation and is draining liquidity from GOOG. No source was given. Secondary coverage reports a confidential filing and investor talk of that valuation range, but no announced date. Resolve when Anthropic sets a date, which would also give Alphabet's stake. After the 5 November sell-off, a WSJ report pasted on r/stocks and r/investing says Anthropic is aiming for \"the week before Thanksgiving\", and that three investors planning to participate say the valuation will likely come down, one saying \"closer to $1 trillion\". Anthropic's S-1/A of 10 November, per GuruFocus coverage, offers 825 million shares at $70 to $78 on Nasdaq under \"ANT\", with pricing expected on 18 November and trading on 19 November. Google has agreed to buy \"135,135,135 Class N shares, about $10 billion at the $74 midpoint, inside a $26 billion private placement\". It is exercising an option from a March 2026 agreement, its ownership is capped at 14.99%, and the purchase depends on the IPO closing. Per that coverage, Reuters values Google's stake at about $139 billion at $78. Resolve this entry once the IPO prices and Alphabet reports the stake. Reported for the terms and dates, via GuruFocus on Yahoo Finance · the S-1/A is Verified as filed but was not read · 2026-11-15 · earlier: the \"middle of November\" date was Unconfirmed on 2026-10-27, and the WSJ report was Reported as pasted on 2026-11-06",
+          "status": "reported",
+          "status_html": "<p>Reported for the terms and dates, via <a href=\"https://finance.yahoo.com/markets/stocks/articles/alphabet-stocks-rise-google-commits-175810483.html\" target=\"_blank\" rel=\"noopener noreferrer\">GuruFocus on Yahoo Finance</a> · the <a href=\"https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/0001628280-26-072484-index.htm\" target=\"_blank\" rel=\"noopener noreferrer\">S-1/A</a> is <strong>Verified</strong> as filed but was not read · 2026-11-15 · earlier: the &quot;middle of November&quot; date was <strong>Unconfirmed</strong> on 2026-10-27, and the WSJ report was Reported as pasted on 2026-11-06</p>",
+          "updated": "2026-11-15",
+          "sources": [
+            "Yahoo Finance",
+            "SEC filing"
+          ],
+          "due": "2026-11-18",
+          "due_label": "IPO pricing expected"
+        },
+        {
           "headline": "<strong>Alphabet trades at an &quot;execution discount&quot;.</strong>",
           "html": "<p><strong>Alphabet trades at an &quot;execution discount&quot;.</strong> The sub's explanation for the stock falling on good news is that the market doubts leadership can ship on time. It is argued from release timing, not from any data.\nSince Argon shipped on 13 October the claim has been restated as a model-quality discount rather than a timing one, and the best-received replies now attribute the stock to macro — CPI, bond yields, capital spending — instead.\nBy 21 October the argument has thinned to price levels — the 200-day moving average, and whether $360 returns — with the top replies in both threads saying only the 28 October results matter. The sub itself is now deferring the claim to the print rather than defending it.\nBy 24 October the sub's largest threads are about the drawdown itself (&quot;bear market&quot;, &quot;why is it trading like a meme stock&quot;), with the top replies calling it a short-term shake-out and a minority blaming capital spending and dependence on OpenAI and Anthropic demand.\nOn 27 October, the day before results, the largest thread marks the stock turning negative for the year; replies are almost all &quot;holding&quot; or &quot;bought more&quot;, and the only causal arguments are capital spending and selling ahead of an Anthropic IPO.\nAfter the 28 October results, posters put the fall at 12.6% to 14%. The sub no longer talks about an execution discount. Its explanations are now the 2027 capex line, negative free cash flow, and Search slowing to 12% growth.</p>",
           "text": "Alphabet trades at an \"execution discount\". The sub's explanation for the stock falling on good news is that the market doubts leadership can ship on time. It is argued from release timing, not from any data. Since Argon shipped on 13 October the claim has been restated as a model-quality discount rather than a timing one, and the best-received replies now attribute the stock to macro — CPI, bond yields, capital spending — instead. By 21 October the argument has thinned to price levels — the 200-day moving average, and whether $360 returns — with the top replies in both threads saying only the 28 October results matter. The sub itself is now deferring the claim to the print rather than defending it. By 24 October the sub's largest threads are about the drawdown itself (\"bear market\", \"why is it trading like a meme stock\"), with the top replies calling it a short-term shake-out and a minority blaming capital spending and dependence on OpenAI and Anthropic demand. On 27 October, the day before results, the largest thread marks the stock turning negative for the year; replies are almost all \"holding\" or \"bought more\", and the only causal arguments are capital spending and selling ahead of an Anthropic IPO. After the 28 October results, posters put the fall at 12.6% to 14%. The sub no longer talks about an execution discount. Its explanations are now the 2027 capex line, negative free cash flow, and Search slowing to 12% growth. Single source each time; a debate, not a finding · 2026-10-30",
           "status": "single-source",
           "status_html": "<p>Single source each time; a debate, not a finding · 2026-10-30</p>",
           "updated": "2026-10-30",
-          "sources": [],
-          "due": null,
-          "due_label": null
-        },
-        {
-          "headline": "<strong>The sub claims an Anthropic IPO is coming &quot;in the middle of November&quot; at a $1.5–2 trillion valuation and is draining liquidity from GOOG.</strong>",
-          "html": "<p><strong>The sub claims an Anthropic IPO is coming &quot;in the middle of November&quot; at a $1.5–2 trillion valuation and is draining liquidity from GOOG.</strong> No source was given. Secondary coverage reports a confidential filing and investor talk of that valuation range, but no announced date. Resolve when Anthropic sets a date, which would also give Alphabet's stake.\nAfter the 5 November sell-off, a WSJ report pasted on r/stocks and r/investing says Anthropic is aiming for &quot;the week before Thanksgiving&quot;, and that three investors planning to participate say the valuation will likely come down, one saying &quot;closer to $1 trillion&quot;.</p>",
-          "text": "The sub claims an Anthropic IPO is coming \"in the middle of November\" at a $1.5–2 trillion valuation and is draining liquidity from GOOG. No source was given. Secondary coverage reports a confidential filing and investor talk of that valuation range, but no announced date. Resolve when Anthropic sets a date, which would also give Alphabet's stake. After the 5 November sell-off, a WSJ report pasted on r/stocks and r/investing says Anthropic is aiming for \"the week before Thanksgiving\", and that three investors planning to participate say the valuation will likely come down, one saying \"closer to $1 trillion\". Unconfirmed · no IPO date found · 2026-10-27 · 2026-11-06: the WSJ report is Reported as pasted, paywalled and not found in a search; the stocks feed's tracker records the public S-1 of 26 October",
-          "status": "unconfirmed",
-          "status_html": "<p><strong>Unconfirmed</strong> · no IPO date found · 2026-10-27 · 2026-11-06: the WSJ report is Reported as pasted, paywalled and not found in a search; the stocks feed's tracker records the public S-1 of 26 October</p>",
-          "updated": "2026-11-06",
           "sources": [],
           "due": null,
           "due_label": null
