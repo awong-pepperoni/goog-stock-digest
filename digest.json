@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-18",
+  "generated": "2026-11-22",
   "meta": {
     "feed": "goog_stock",
     "title": "GOOG Stock Digest",
@@ -21,6 +21,222 @@
     "source_note": "from Reddit's hot threads"
   },
   "digests": [
+    {
+      "date": "2026-11-22",
+      "title": "GOOG stock digest",
+      "intro_html": "<p>The sub spent this run on a broad sell-off. Posters say GOOG broke its 52-week low and that the whole market, Nvidia and Micron included, fell with it. Anthropic's IPO has now happened, and the sub reads it as no help to the stock. Two things were checked that the sub barely discussed. Google announced Gemini 4 Neon on 18 November, and Alphabet priced Canadian-dollar notes on 19 November. Both are covered in Must know.</p>",
+      "sections": [
+        {
+          "heading": "Must know",
+          "category": "mustknow",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Google announced Gemini 4 Neon on 18 November, &quot;rolling out today&quot; in the API, Antigravity, Gemini for business and the Gemini app, at $3 per million input tokens and $15 per million output tokens.</strong>",
+              "html": "<p><strong>Google announced Gemini 4 Neon on 18 November, &quot;rolling out today&quot; in the API, Antigravity, Gemini for business and the Gemini app, at $3 per million input tokens and $15 per million output tokens.</strong> It is Google's newest model, and the sub's talk of Anthropic keeps coming back to it.</p>\n<ul>\n<li><strong>Why it matters:</strong> It changes what Google sells. In <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1y1fu0l/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;Google wants to ride&quot;</a> (51 points), the top reply says the model &quot;gets within spitting distance of opus 5.5, and <em>beats</em> it in many respects&quot;, and that Google &quot;doesn't actually lose money serving it&quot;. A reply asks why the stock is not higher; another says the market is holding it back with rates and the Iran situation. A separate <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1y1if3n/\" target=\"_blank\" rel=\"noopener noreferrer\">gallery post, &quot;Gemini 4 Neon&quot;</a> (19 points, 1 comment), drew almost no discussion.</li>\n<li><strong>What to watch:</strong> Google says a cyber version is &quot;rolling out to trusted defenders in the coming days&quot;. Watch whether Neon reaches free and AI Plus users, and whether Alphabet gives any revenue figure for it on the Q4 call, whose date has not been announced.</li>\n<li><strong>Numbers:</strong> All Google's own claims. Google puts it &quot;#3 overall&quot; with a score of 61 on the Artificial Analysis Intelligence Index, #2 on the Vals Index at 70.9%, and #1 on Zapier AutomationBench at 56.3%. It gives a 1 million-token context window and cached input at $0.15 per million tokens. The &quot;beats Opus 5.5&quot; line is one commenter's claim, not Google's.</li>\n<li><strong>Caveats:</strong> Google's post says &quot;rolling out&quot;, not generally available. Access is by paid tier: the paid API tier, and AI Pro and Ultra subscribers in the app and in Antigravity. None of the benchmark placings was checked on the index sites. The &quot;lowest fabrication rate yet&quot; line is an internal Google test.</li>\n<li><strong>Read next:</strong> <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/\" target=\"_blank\" rel=\"noopener noreferrer\">Introducing Gemini 4 Neon</a>.</li>\n</ul>",
+              "text": "Google announced Gemini 4 Neon on 18 November, \"rolling out today\" in the API, Antigravity, Gemini for business and the Gemini app, at $3 per million input tokens and $15 per million output tokens. It is Google's newest model, and the sub's talk of Anthropic keeps coming back to it. Why it matters: It changes what Google sells. In \"Google wants to ride\" (51 points), the top reply says the model \"gets within spitting distance of opus 5.5, and beats it in many respects\", and that Google \"doesn't actually lose money serving it\". A reply asks why the stock is not higher; another says the market is holding it back with rates and the Iran situation. A separate gallery post, \"Gemini 4 Neon\" (19 points, 1 comment), drew almost no discussion. What to watch: Google says a cyber version is \"rolling out to trusted defenders in the coming days\". Watch whether Neon reaches free and AI Plus users, and whether Alphabet gives any revenue figure for it on the Q4 call, whose date has not been announced. Numbers: All Google's own claims. Google puts it \"#3 overall\" with a score of 61 on the Artificial Analysis Intelligence Index, #2 on the Vals Index at 70.9%, and #1 on Zapier AutomationBench at 56.3%. It gives a 1 million-token context window and cached input at $0.15 per million tokens. The \"beats Opus 5.5\" line is one commenter's claim, not Google's. Caveats: Google's post says \"rolling out\", not generally available. Access is by paid tier: the paid API tier, and AI Pro and Ultra subscribers in the app and in Antigravity. None of the benchmark placings was checked on the index sites. The \"lowest fabrication rate yet\" line is an internal Google test. Read next: Introducing Gemini 4 Neon . Verified that Google announced it and what it said about availability and price, against its post of 18 November · the benchmark figures are Google's own claims",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> that Google announced it and what it said about availability and price, against its post of 18 November · the benchmark figures are Google's own claims</p>",
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock",
+                "Google"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Alphabet priced four tranches of Canadian-dollar senior notes on 19 November, settling 24 November, for general corporate purposes.</strong>",
+              "html": "<p><strong>Alphabet priced four tranches of Canadian-dollar senior notes on 19 November, settling 24 November, for general corporate purposes.</strong> It follows the euro notes closed on 5 November. None of the threads read mentions it.</p>\n<ul>\n<li><strong>Why it matters:</strong> It is new borrowing by a company whose capex guidance the sub blames for its fall. A commenter in <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1y2rbgj/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;Google loses its floor&quot;</a> says Alphabet will not buy back stock &quot;for a while&quot;, because it is &quot;spending more than 190 billion dollars on building new datacenters&quot;. That reply is the commenter's own reading.</li>\n<li><strong>What to watch:</strong> the settlement on 24 November and the first coupon date of 24 May 2027, both as the term sheet states. Any 8-K that follows. Whether the Q4 call gives a 2027 capex figure.</li>\n<li><strong>Numbers:</strong> The term sheet lists C$2,000,000,000 of 4.100% notes due 24 November 2029, C$1,250,000,000 of 4.800% due 2034, C$1,500,000,000 of 5.325% due 2038 and C$1,250,000,000 of 6.000% due 2066. It rates them Moody's Aa2 and S&amp;P AA+, both Stable. Use of proceeds: &quot;General corporate purposes, which may include the repayment of outstanding debt.&quot;</li>\n<li><strong>Caveats:</strong> The preliminary prospectus supplement describes five series, including a floating-rate one, and the term sheet lists only four fixed-rate ones. The supplement's full text was not read, so whether the floating series was dropped is unknown. The notes are not listed. The 8-A12B filed on 20 November relates to a different set of notes: U.S. dollar senior notes on Nasdaq.</li>\n<li><strong>Read next:</strong> <a href=\"https://www.sec.gov/Archives/edgar/data/1652044/000119312526469213/d21316dfwp.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the FWP term sheet</a>.</li>\n</ul>",
+              "text": "Alphabet priced four tranches of Canadian-dollar senior notes on 19 November, settling 24 November, for general corporate purposes. It follows the euro notes closed on 5 November. None of the threads read mentions it. Why it matters: It is new borrowing by a company whose capex guidance the sub blames for its fall. A commenter in \"Google loses its floor\" says Alphabet will not buy back stock \"for a while\", because it is \"spending more than 190 billion dollars on building new datacenters\". That reply is the commenter's own reading. What to watch: the settlement on 24 November and the first coupon date of 24 May 2027, both as the term sheet states. Any 8-K that follows. Whether the Q4 call gives a 2027 capex figure. Numbers: The term sheet lists C$2,000,000,000 of 4.100% notes due 24 November 2029, C$1,250,000,000 of 4.800% due 2034, C$1,500,000,000 of 5.325% due 2038 and C$1,250,000,000 of 6.000% due 2066. It rates them Moody's Aa2 and S&P AA+, both Stable. Use of proceeds: \"General corporate purposes, which may include the repayment of outstanding debt.\" Caveats: The preliminary prospectus supplement describes five series, including a floating-rate one, and the term sheet lists only four fixed-rate ones. The supplement's full text was not read, so whether the floating series was dropped is unknown. The notes are not listed. The 8-A12B filed on 20 November relates to a different set of notes: U.S. dollar senior notes on Nasdaq. Read next: the FWP term sheet . Verified against Alphabet's FWP of 20 November and 424B5 of 19 November on EDGAR · the 424B5 was only partly read",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against Alphabet's FWP of 20 November and 424B5 of 19 November on EDGAR · the 424B5 was only partly read</p>",
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock",
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Company news and filings",
+          "category": "news",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Anthropic is now trading as &quot;ANT&quot;, and the sub keeps measuring GOOG against it.</strong>",
+              "html": "<p><strong>Anthropic is now trading as &quot;ANT&quot;, and the sub keeps measuring GOOG against it.</strong> In <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1y0lrfj/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;With Anthropic ipo out, I'm even more bullish on GOOG&quot;</a> (51 points), the top reply, at 21 points, says &quot;Google's share of Anthropic now worth over 100bn. Google share price? Near 52 week low. Make it make sense.&quot; In <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1y0ew3h/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;This shit is still selling off on good news&quot;</a> (67 points), a reply says Google put in &quot;about $30b for a 13% stake&quot;, now &quot;worth over $100b&quot;. Another commenter in the 52-week-low thread says &quot;Anthropic couldnt save the market&quot;. Neither stake figure was sourced.</p>",
+              "text": "Anthropic is now trading as \"ANT\", and the sub keeps measuring GOOG against it. In \"With Anthropic ipo out, I'm even more bullish on GOOG\" (51 points), the top reply, at 21 points, says \"Google's share of Anthropic now worth over 100bn. Google share price? Near 52 week low. Make it make sense.\" In \"This shit is still selling off on good news\" (67 points), a reply says Google put in \"about $30b for a 13% stake\", now \"worth over $100b\". Another commenter in the 52-week-low thread says \"Anthropic couldnt save the market\". Neither stake figure was sourced. Single source · the stake figures are commenters' claims; the IPO price and Google's final stake were not checked this run, though the earlier tracker entry has the terms as reported",
+              "status": "single-source",
+              "status_html": "<p>Single source · the stake figures are commenters' claims; the IPO price and Google's final stake were not checked this run, though the earlier tracker entry has the terms as reported</p>",
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "AI models and products",
+          "category": "ai",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>A link post says Google is cutting Broadcom-designed TPU plans and eyeing more MediaTek chips.</strong>",
+              "html": "<p><strong>A link post says Google is cutting Broadcom-designed TPU plans and eyeing more MediaTek chips.</strong> In <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1y1urw5/\" target=\"_blank\" rel=\"noopener noreferrer\">the thread</a> (24 points), the top reply, at 13 points, says it &quot;probably just means Broadcom was charging too much&quot;. Another commenter reads it as a shift from inference to training chips. A reply disputes that: &quot;the i and t are branding as much as technical designations.&quot; The linked article could not be found.</p>",
+              "text": "A link post says Google is cutting Broadcom-designed TPU plans and eyeing more MediaTek chips. In the thread (24 points), the top reply, at 13 points, says it \"probably just means Broadcom was charging too much\". Another commenter reads it as a shift from inference to training chips. A reply disputes that: \"the i and t are branding as much as technical designations.\" The linked article could not be found. Unconfirmed · only the post's title was read; a search for the report returned nothing; neither Google nor either chip firm was seen commenting",
+              "status": "unconfirmed",
+              "status_html": "<p><strong>Unconfirmed</strong> · only the post's title was read; a search for the report returned nothing; neither Google nor either chip firm was seen commenting</p>",
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>A Benzinga piece posted to the sub says Google is trying to put TPUs inside customers' own data centres.</strong>",
+              "html": "<p><strong>A Benzinga piece posted to the sub says Google is trying to put TPUs inside customers' own data centres.</strong> It leans on a November 2025 report by The Information that Google approached Meta, and on the Q3 call, where, per the article, Thomas Kurian said &quot;nearly 100 customers&quot; use TPUs. The top reply says &quot;Hardware is good, but that isn't what wins this race.&quot; <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1y15mo6/\" target=\"_blank\" rel=\"noopener noreferrer\">The thread</a> has 31 points. Google's own 9 November TPU post says the same &quot;nearly 100 customers&quot; figure, already in the tracker.</p>",
+              "text": "A Benzinga piece posted to the sub says Google is trying to put TPUs inside customers' own data centres. It leans on a November 2025 report by The Information that Google approached Meta, and on the Q3 call, where, per the article, Thomas Kurian said \"nearly 100 customers\" use TPUs. The top reply says \"Hardware is good, but that isn't what wins this race.\" The thread has 31 points. Google's own 9 November TPU post says the same \"nearly 100 customers\" figure, already in the tracker. Reported · Benzinga , as pasted in the post; its quotes of the call were not checked",
+              "status": "reported",
+              "status_html": "<p>Reported · <a href=\"https://www.benzinga.com/trading-ideas/long-ideas/26/11/63469027/google-ai-chips-nvidia-rivals\" target=\"_blank\" rel=\"noopener noreferrer\">Benzinga</a>, as pasted in the post; its quotes of the call were not checked</p>",
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock",
+                "benzinga.com"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Valuation and price action",
+          "category": "valuation",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>The sub says the 52-week low of $270 broke, and then that the price fell below $265.</strong>",
+              "html": "<p><strong>The sub says the 52-week low of $270 broke, and then that the price fell below $265.</strong> In <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1y1cm4q/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;52 Week Low of $270 has been broken&quot;</a> (36 points), the poster adds that &quot;Nvidia has broken below $130 and Micron has just dipped below $600&quot;. The top reply, at 24 points, says &quot;Stop with the technical analysis. That bs wasn't able to predict any iota of this crash.&quot; Others say it is &quot;holding well compared to the rest of the market&quot;, and one posts a $199 buy order. A commenter in <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1y2rbgj/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;Google loses its floor&quot;</a> says the VIX &quot;peaked at 40 on friday just before close&quot;. In <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1y1fu0l/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;Google wants to ride&quot;</a>, one reply puts the &quot;core PE&quot; at &quot;about 24&quot;, and another puts the forward PE at &quot;about 18.5&quot; and tells the first never to use trailing PE for future returns.</p>",
+              "text": "The sub says the 52-week low of $270 broke, and then that the price fell below $265. In \"52 Week Low of $270 has been broken\" (36 points), the poster adds that \"Nvidia has broken below $130 and Micron has just dipped below $600\". The top reply, at 24 points, says \"Stop with the technical analysis. That bs wasn't able to predict any iota of this crash.\" Others say it is \"holding well compared to the rest of the market\", and one posts a $199 buy order. A commenter in \"Google loses its floor\" says the VIX \"peaked at 40 on friday just before close\". In \"Google wants to ride\" , one reply puts the \"core PE\" at \"about 24\", and another puts the forward PE at \"about 18.5\" and tells the first never to use trailing PE for future returns. Single source · every price, index level and multiple is as posted, none checked",
+              "status": "single-source",
+              "status_html": "<p>Single source · every price, index level and multiple is as posted, none checked</p>",
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Most replies call the fall market-wide, and the usual answer is to keep buying.</strong>",
+              "html": "<p><strong>Most replies call the fall market-wide, and the usual answer is to keep buying.</strong> In the 67-point selling-off thread, the top reply, at 26 points, says &quot;<em>everything</em> is dumping right now&quot;, and another says &quot;Nasdaq -3,80% last 2 hours&quot;. The &quot;disastrous week&quot; and &quot;brought my avg down&quot; posts are position posts and are skipped. The minority view, in the 52-week-low thread, blames Fed rates, Nvidia's China exposure and &quot;slowed data center build outs&quot;. A link post, titled as saying the US president &quot;won't allow American companies to build data centres 'outside' the US&quot;, has no replies and no readable content.</p>",
+              "text": "Most replies call the fall market-wide, and the usual answer is to keep buying. In the 67-point selling-off thread, the top reply, at 26 points, says \" everything is dumping right now\", and another says \"Nasdaq -3,80% last 2 hours\". The \"disastrous week\" and \"brought my avg down\" posts are position posts and are skipped. The minority view, in the 52-week-low thread, blames Fed rates, Nvidia's China exposure and \"slowed data center build outs\". A link post, titled as saying the US president \"won't allow American companies to build data centres 'outside' the US\", has no replies and no readable content. Single source · opinion",
+              "status": "single-source",
+              "status_html": "<p>Single source · opinion</p>",
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Unverified, and worth watching",
+          "category": "unverified",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>A poster says an &quot;investigation into Nvidia's financial affairs&quot; hit stocks &quot;half an hour before the market close&quot;.</strong>",
+              "html": "<p><strong>A poster says an &quot;investigation into Nvidia's financial affairs&quot; hit stocks &quot;half an hour before the market close&quot;.</strong> It is an edit to the 52-week-low post, and it asks whether Nvidia could become &quot;the next Enron&quot;. The poster gives no source and nobody else repeats it. No source was found in the Google or SEC pages this run, which do not cover Nvidia.</p>",
+              "text": "A poster says an \"investigation into Nvidia's financial affairs\" hit stocks \"half an hour before the market close\". It is an edit to the 52-week-low post, and it asks whether Nvidia could become \"the next Enron\". The poster gives no source and nobody else repeats it. No source was found in the Google or SEC pages this run, which do not cover Nvidia. Unconfirmed · no source given; Nvidia's filings and the press were not searched this run",
+              "status": "unconfirmed",
+              "status_html": "<p><strong>Unconfirmed</strong> · no source given; Nvidia's filings and the press were not searched this run</p>",
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> GOOG_Stock (25 posts in the scan; comments read on eight threads).",
+              "html": "<p><strong>Read:</strong> GOOG_Stock (25 posts in the scan; comments read on eight threads). <strong>Sources checked:</strong> Alphabet's SEC filings on EDGAR, read through the web-fetch agent: filings since 18 November are a 424B5 (19 November), an FWP (20 November) and an 8-A12B (20 November); no 8-K. Google's blog was read through its RSS feed. Google Cloud AI blog: the index has no dates, so nothing could be placed in the window. Alphabet investor relations: loaded, but its Earnings and News lists were empty, so no Q4 date was seen. The Gemini models blog index showed navigation only; the RSS feed covered it.</p>",
+              "text": "Read: GOOG_Stock (25 posts in the scan; comments read on eight threads). Sources checked: Alphabet's SEC filings on EDGAR, read through the web-fetch agent: filings since 18 November are a 424B5 (19 November), an FWP (20 November) and an 8-A12B (20 November); no 8-K. Google's blog was read through its RSS feed. Google Cloud AI blog: the index has no dates, so nothing could be placed in the window. Alphabet investor relations: loaded, but its Earnings and News lists were empty, so no Q4 date was seen. The Gemini models blog index showed navigation only; the RSS feed covered it.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong>",
+              "html": "<p><strong>Announced, not discussed:</strong></p>\n<ul>\n<li><strong>Genie 4 became available to eligible AI Ultra subscribers, 18 November, and on the Gemini API, 19 November.</strong></li>\n<li><strong>Google is partnering with Blue Origin on a heavy-lift Project Suncatcher launch, 19 November.</strong></li>\n<li><strong>Also on Google's blog since 18 November:</strong> Tool Retrieval in the Gemini API, Gemini computer use on Mac, Connected Apps for year-end tasks, a history transfer tool from other AI apps into Gemini, Watch Duty's use of Gemini, a quantum mechanics experiment at scale, water stewardship commitments, and The Dalles data-centre anniversary. These were not opened.</li>\n</ul>",
+              "text": "Announced, not discussed: Genie 4 became available to eligible AI Ultra subscribers, 18 November, and on the Gemini API, 19 November. Google is partnering with Blue Origin on a heavy-lift Project Suncatcher launch, 19 November. Also on Google's blog since 18 November: Tool Retrieval in the Gemini API, Gemini computer use on Mac, Connected Apps for year-end tasks, a history transfer tool from other AI apps into Gemini, Watch Duty's use of Gemini, a quantum mechanics experiment at scale, water stewardship commitments, and The Dalles data-centre anniversary. These were not opened. Verified against Google's posts Genie 4 now available and Genie 4 in the Gemini API , title only Status: Verified against Google's post , title only Status: Verified against Google's blog RSS feed",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against Google's posts <a href=\"https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/\" target=\"_blank\" rel=\"noopener noreferrer\">Genie 4 now available</a> and <a href=\"https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/\" target=\"_blank\" rel=\"noopener noreferrer\">Genie 4 in the Gemini API</a>, title only Status: <strong>Verified</strong> against <a href=\"https://blog.google/innovation-and-ai/models-and-research/google-research/blue-origin-project-suncatcher-partnership/\" target=\"_blank\" rel=\"noopener noreferrer\">Google's post</a>, title only Status: <strong>Verified</strong> against Google's blog RSS feed</p>",
+              "updated": null,
+              "sources": [
+                "Google"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong> the scan flagged none.",
+              "html": "<p><strong>Flagged terms set aside:</strong> the scan flagged none. &quot;GGLL&quot;, asked about in a post with 11 comments, is a position question and was skipped under this feed's guidance. A commenter in the selling-off thread says &quot;Because of $ANT&quot;, the Anthropic ticker, covered above.</p>",
+              "text": "Flagged terms set aside: the scan flagged none. \"GGLL\", asked about in a post with 11 comments, is a position question and was skipped under this feed's guidance. A commenter in the selling-off thread says \"Because of $ANT\", the Anthropic ticker, covered above.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "Hot lists could not cover 2026-11-18 to 2026-11-22; official sources were checked for that window.",
+              "html": "<p>Hot lists could not cover 2026-11-18 to 2026-11-22; official sources were checked for that window.</p>",
+              "text": "Hot lists could not cover 2026-11-18 to 2026-11-22; official sources were checked for that window.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "Skipped under this feed&#x27;s guidance: position and timing posts (&quot;Is this still everybody&#x27;s favourite stock?&quot;, &quot;Good time to buy?&quot;, &quot;Bought more Googl at 272is…",
+              "html": "<p>Skipped under this feed's guidance: position and timing posts (&quot;Is this still everybody's favourite stock?&quot;, &quot;Good time to buy?&quot;, &quot;Bought more Googl at 272ish&quot;, &quot;Finally pulled the trigger! Happy to be here.&quot;, &quot;Finally brought my avg down&quot;, &quot;How Much Have You Bought…&quot;), &quot;Google is the best long-term company to hold!&quot;, &quot;Who's dumping GOOG all the time?&quot;, &quot;YouTube in video ads&quot;, the Cramer chartist link, &quot;Made using Nano Banana through Gemini&quot;, &quot;Up 3% early, then down 3.5% by the close&quot;, and &quot;It's all okay.&quot;</p>",
+              "text": "Skipped under this feed's guidance: position and timing posts (\"Is this still everybody's favourite stock?\", \"Good time to buy?\", \"Bought more Googl at 272ish\", \"Finally pulled the trigger! Happy to be here.\", \"Finally brought my avg down\", \"How Much Have You Bought…\"), \"Google is the best long-term company to hold!\", \"Who's dumping GOOG all the time?\", \"YouTube in video ads\", the Cramer chartist link, \"Made using Nano Banana through Gemini\", \"Up 3% early, then down 3.5% by the close\", and \"It's all okay.\"",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-18",
       "title": "GOOG stock digest",
@@ -2350,12 +2566,25 @@
           "due_label": null
         },
         {
+          "headline": "<strong>Gemini 4 Neon was announced on 18 November 2026 and is &quot;rolling out&quot; in the Gemini API, Antigravity, Gemini for business and the Gemini app, not called generally available.</strong>",
+          "html": "<p><strong>Gemini 4 Neon was announced on 18 November 2026 and is &quot;rolling out&quot; in the Gemini API, Antigravity, Gemini for business and the Gemini app, not called generally available.</strong> Paid API tier and AI Pro and Ultra subscribers get it; a cyber version is &quot;rolling out to trusted defenders in the coming days&quot;. Google prices it at $3 per million input tokens and $15 per million output tokens, with a 1 million-token context window. Google claims #3 on the Artificial Analysis Intelligence Index and #2 on the Vals Index; those are its own benchmark claims. Watch whether free and AI Plus users gain access.</p>",
+          "text": "Gemini 4 Neon was announced on 18 November 2026 and is \"rolling out\" in the Gemini API, Antigravity, Gemini for business and the Gemini app, not called generally available. Paid API tier and AI Pro and Ultra subscribers get it; a cyber version is \"rolling out to trusted defenders in the coming days\". Google prices it at $3 per million input tokens and $15 per million output tokens, with a 1 million-token context window. Google claims #3 on the Artificial Analysis Intelligence Index and #2 on the Vals Index; those are its own benchmark claims. Watch whether free and AI Plus users gain access. Verified against Google's launch post · 2026-11-22",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/\" target=\"_blank\" rel=\"noopener noreferrer\">Google's launch post</a> · 2026-11-22</p>",
+          "updated": "2026-11-22",
+          "sources": [
+            "Google"
+          ],
+          "due": null,
+          "due_label": null
+        },
+        {
           "headline": "<strong>The sub claims a larger Gemini model called Krypton is coming, for &quot;trusted users&quot; only.</strong>",
-          "html": "<p><strong>The sub claims a larger Gemini model called Krypton is coming, for &quot;trusted users&quot; only.</strong> It appears only in an unsourced r/GOOG_Stock post and leak blogs. The same post predicted Hydrogen, which shipped on 12 November, but Google's launch post names only Carbon and Argon alongside it. Resolve this entry when Google names Krypton.\nOn 18 November a commenter again said a new Gemini model would come &quot;possibly tomorrow&quot;, with no source.</p>",
-          "text": "The sub claims a larger Gemini model called Krypton is coming, for \"trusted users\" only. It appears only in an unsourced r/GOOG_Stock post and leak blogs. The same post predicted Hydrogen, which shipped on 12 November, but Google's launch post names only Carbon and Argon alongside it. Resolve this entry when Google names Krypton. On 18 November a commenter again said a new Gemini model would come \"possibly tomorrow\", with no source. Unconfirmed · Google's blog feed checked up to 18 November · 2026-11-18",
+          "html": "<p><strong>The sub claims a larger Gemini model called Krypton is coming, for &quot;trusted users&quot; only.</strong> It appears only in an unsourced r/GOOG_Stock post and leak blogs. The same post predicted Hydrogen, which shipped on 12 November, but Google's launch post names only Carbon and Argon alongside it. Resolve this entry when Google names Krypton.\nOn 18 November a commenter again said a new Gemini model would come &quot;possibly tomorrow&quot;, with no source.\nGoogle announced Gemini 4 Neon on 18 November, which is not Krypton, and its blog feed up to 22 November does not name Krypton.</p>",
+          "text": "The sub claims a larger Gemini model called Krypton is coming, for \"trusted users\" only. It appears only in an unsourced r/GOOG_Stock post and leak blogs. The same post predicted Hydrogen, which shipped on 12 November, but Google's launch post names only Carbon and Argon alongside it. Resolve this entry when Google names Krypton. On 18 November a commenter again said a new Gemini model would come \"possibly tomorrow\", with no source. Google announced Gemini 4 Neon on 18 November, which is not Krypton, and its blog feed up to 22 November does not name Krypton. Unconfirmed · Google's blog feed checked up to 22 November · 2026-11-22",
           "status": "unconfirmed",
-          "status_html": "<p><strong>Unconfirmed</strong> · Google's blog feed checked up to 18 November · 2026-11-18</p>",
-          "updated": "2026-11-18",
+          "status_html": "<p><strong>Unconfirmed</strong> · Google's blog feed checked up to 22 November · 2026-11-22</p>",
+          "updated": "2026-11-22",
           "sources": [],
           "due": null,
           "due_label": null
@@ -2471,6 +2700,19 @@
       "sub": false,
       "lead_html": null,
       "items": [
+        {
+          "headline": "<strong>Alphabet priced four tranches of Canadian-dollar senior notes on 19 November 2026, settling 24 November.</strong>",
+          "html": "<p><strong>Alphabet priced four tranches of Canadian-dollar senior notes on 19 November 2026, settling 24 November.</strong> The term sheet lists C$2,000,000,000 of 4.100% notes due 2029, C$1,250,000,000 of 4.800% due 2034, C$1,500,000,000 of 5.325% due 2038 and C$1,250,000,000 of 6.000% due 2066, rated Aa2 by Moody's and AA+ by S&amp;P, for &quot;general corporate purposes&quot;. The preliminary supplement also describes a floating-rate series that the term sheet does not list. Watch the settlement and any later 8-K.</p>",
+          "text": "Alphabet priced four tranches of Canadian-dollar senior notes on 19 November 2026, settling 24 November. The term sheet lists C$2,000,000,000 of 4.100% notes due 2029, C$1,250,000,000 of 4.800% due 2034, C$1,500,000,000 of 5.325% due 2038 and C$1,250,000,000 of 6.000% due 2066, rated Aa2 by Moody's and AA+ by S&P, for \"general corporate purposes\". The preliminary supplement also describes a floating-rate series that the term sheet does not list. Watch the settlement and any later 8-K. Verified against Alphabet's FWP of 20 November · the 424B5 was only partly read · 2026-11-22",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> against Alphabet's <a href=\"https://www.sec.gov/Archives/edgar/data/1652044/000119312526469213/d21316dfwp.htm\" target=\"_blank\" rel=\"noopener noreferrer\">FWP</a> of 20 November · the 424B5 was only partly read · 2026-11-22</p>",
+          "updated": "2026-11-22",
+          "sources": [
+            "SEC filing"
+          ],
+          "due": "2026-11-24",
+          "due_label": "settlement"
+        },
         {
           "headline": "<strong>Constellation nuclear agreements.</strong>",
           "html": "<p><strong>Constellation nuclear agreements.</strong> A 20-year deal covers 890 MW of new capacity from upgrades at 11 reactors, with the first expected by 2028. A 15-year agreement covers 2,700 MW of existing capacity.</p>",
@@ -2664,8 +2906,8 @@
       "items": [
         {
           "headline": "<strong>The sub claims an Anthropic IPO is coming &quot;in the middle of November&quot; at a $1.5–2 trillion valuation and is draining liquidity from GOOG.</strong>",
-          "html": "<p><strong>The sub claims an Anthropic IPO is coming &quot;in the middle of November&quot; at a $1.5–2 trillion valuation and is draining liquidity from GOOG.</strong> No source was given. Secondary coverage reports a confidential filing and investor talk of that valuation range, but no announced date. Resolve when Anthropic sets a date, which would also give Alphabet's stake.\nAfter the 5 November sell-off, a WSJ report pasted on r/stocks and r/investing says Anthropic is aiming for &quot;the week before Thanksgiving&quot;, and that three investors planning to participate say the valuation will likely come down, one saying &quot;closer to $1 trillion&quot;.\nAnthropic's S-1/A of 10 November, per GuruFocus coverage, offers 825 million shares at $70 to $78 on Nasdaq under &quot;ANT&quot;, with pricing expected on 18 November and trading on 19 November. Google has agreed to buy &quot;135,135,135 Class N shares, about $10 billion at the $74 midpoint, inside a $26 billion private placement&quot;. It is exercising an option from a March 2026 agreement, its ownership is capped at 14.99%, and the purchase depends on the IPO closing. Per that coverage, Reuters values Google's stake at about $139 billion at $78. Resolve this entry once the IPO prices and Alphabet reports the stake.\nOn 18 November no final price had been reported yet; pricing was still expected that evening. Coverage now gives the full $26 billion placement: Google and Nvidia $10 billion each, AMD $2.5 billion, Broadcom, Micron and Microsoft $1 billion each, and TSMC $500 million. A commenter's claim that Microsoft is also buying $10 billion is not supported.</p>",
-          "text": "The sub claims an Anthropic IPO is coming \"in the middle of November\" at a $1.5–2 trillion valuation and is draining liquidity from GOOG. No source was given. Secondary coverage reports a confidential filing and investor talk of that valuation range, but no announced date. Resolve when Anthropic sets a date, which would also give Alphabet's stake. After the 5 November sell-off, a WSJ report pasted on r/stocks and r/investing says Anthropic is aiming for \"the week before Thanksgiving\", and that three investors planning to participate say the valuation will likely come down, one saying \"closer to $1 trillion\". Anthropic's S-1/A of 10 November, per GuruFocus coverage, offers 825 million shares at $70 to $78 on Nasdaq under \"ANT\", with pricing expected on 18 November and trading on 19 November. Google has agreed to buy \"135,135,135 Class N shares, about $10 billion at the $74 midpoint, inside a $26 billion private placement\". It is exercising an option from a March 2026 agreement, its ownership is capped at 14.99%, and the purchase depends on the IPO closing. Per that coverage, Reuters values Google's stake at about $139 billion at $78. Resolve this entry once the IPO prices and Alphabet reports the stake. On 18 November no final price had been reported yet; pricing was still expected that evening. Coverage now gives the full $26 billion placement: Google and Nvidia $10 billion each, AMD $2.5 billion, Broadcom, Micron and Microsoft $1 billion each, and TSMC $500 million. A commenter's claim that Microsoft is also buying $10 billion is not supported. Reported for the terms and dates, via GuruFocus on Yahoo Finance , and for the placement split via FourWeekMBA · the S-1/A is Verified as filed but was not read · 2026-11-18 · earlier: the \"middle of November\" date was Unconfirmed on 2026-10-27, and the WSJ report was Reported as pasted on 2026-11-06",
+          "html": "<p><strong>The sub claims an Anthropic IPO is coming &quot;in the middle of November&quot; at a $1.5–2 trillion valuation and is draining liquidity from GOOG.</strong> No source was given. Secondary coverage reports a confidential filing and investor talk of that valuation range, but no announced date. Resolve when Anthropic sets a date, which would also give Alphabet's stake.\nAfter the 5 November sell-off, a WSJ report pasted on r/stocks and r/investing says Anthropic is aiming for &quot;the week before Thanksgiving&quot;, and that three investors planning to participate say the valuation will likely come down, one saying &quot;closer to $1 trillion&quot;.\nAnthropic's S-1/A of 10 November, per GuruFocus coverage, offers 825 million shares at $70 to $78 on Nasdaq under &quot;ANT&quot;, with pricing expected on 18 November and trading on 19 November. Google has agreed to buy &quot;135,135,135 Class N shares, about $10 billion at the $74 midpoint, inside a $26 billion private placement&quot;. It is exercising an option from a March 2026 agreement, its ownership is capped at 14.99%, and the purchase depends on the IPO closing. Per that coverage, Reuters values Google's stake at about $139 billion at $78. Resolve this entry once the IPO prices and Alphabet reports the stake.\nOn 18 November no final price had been reported yet; pricing was still expected that evening. Coverage now gives the full $26 billion placement: Google and Nvidia $10 billion each, AMD $2.5 billion, Broadcom, Micron and Microsoft $1 billion each, and TSMC $500 million. A commenter's claim that Microsoft is also buying $10 billion is not supported.\nOn 22 November the sub's posts treat the IPO as done: a pasted Benzinga article calls the company &quot;Anthropic, PBC (NASDAQ:ANT)&quot;, and commenters call Google's stake &quot;worth over $100b&quot;. The final price and Google's stake were not checked.</p>",
+          "text": "The sub claims an Anthropic IPO is coming \"in the middle of November\" at a $1.5–2 trillion valuation and is draining liquidity from GOOG. No source was given. Secondary coverage reports a confidential filing and investor talk of that valuation range, but no announced date. Resolve when Anthropic sets a date, which would also give Alphabet's stake. After the 5 November sell-off, a WSJ report pasted on r/stocks and r/investing says Anthropic is aiming for \"the week before Thanksgiving\", and that three investors planning to participate say the valuation will likely come down, one saying \"closer to $1 trillion\". Anthropic's S-1/A of 10 November, per GuruFocus coverage, offers 825 million shares at $70 to $78 on Nasdaq under \"ANT\", with pricing expected on 18 November and trading on 19 November. Google has agreed to buy \"135,135,135 Class N shares, about $10 billion at the $74 midpoint, inside a $26 billion private placement\". It is exercising an option from a March 2026 agreement, its ownership is capped at 14.99%, and the purchase depends on the IPO closing. Per that coverage, Reuters values Google's stake at about $139 billion at $78. Resolve this entry once the IPO prices and Alphabet reports the stake. On 18 November no final price had been reported yet; pricing was still expected that evening. Coverage now gives the full $26 billion placement: Google and Nvidia $10 billion each, AMD $2.5 billion, Broadcom, Micron and Microsoft $1 billion each, and TSMC $500 million. A commenter's claim that Microsoft is also buying $10 billion is not supported. On 22 November the sub's posts treat the IPO as done: a pasted Benzinga article calls the company \"Anthropic, PBC (NASDAQ:ANT)\", and commenters call Google's stake \"worth over $100b\". The final price and Google's stake were not checked. Reported for the terms and dates, via GuruFocus on Yahoo Finance , and for the placement split via FourWeekMBA · the S-1/A is Verified as filed but was not read · 2026-11-18 · earlier: the \"middle of November\" date was Unconfirmed on 2026-10-27, and the WSJ report was Reported as pasted on 2026-11-06",
           "status": "reported",
           "status_html": "<p>Reported for the terms and dates, via <a href=\"https://finance.yahoo.com/markets/stocks/articles/alphabet-stocks-rise-google-commits-175810483.html\" target=\"_blank\" rel=\"noopener noreferrer\">GuruFocus on Yahoo Finance</a>, and for the placement split via <a href=\"https://fourweekmba.com/ai-nvidia-google-buy-10b-each-of-anthropics-26b-placement/\" target=\"_blank\" rel=\"noopener noreferrer\">FourWeekMBA</a> · the <a href=\"https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/0001628280-26-072484-index.htm\" target=\"_blank\" rel=\"noopener noreferrer\">S-1/A</a> is <strong>Verified</strong> as filed but was not read · 2026-11-18 · earlier: the &quot;middle of November&quot; date was <strong>Unconfirmed</strong> on 2026-10-27, and the WSJ report was Reported as pasted on 2026-11-06</p>",
           "updated": "2026-11-18",
@@ -2716,8 +2958,8 @@
         },
         {
           "headline": "<strong>External TPU sales are the sub's next growth thesis, and Evercore ISI's note is what it rests on.</strong>",
-          "html": "<p><strong>External TPU sales are the sub's next growth thesis, and Evercore ISI's note is what it rests on.</strong> The firm reaffirmed Outperform with a $450 target and, per secondary coverage, projects external TPU sales at roughly 35% of Google Cloud revenue in 2027 — $75 billion in 2027 and $113 billion in 2028 — with Cloud revenue raised to $213 billion from $180 billion. These are one firm's estimates, not Alphabet guidance; Alphabet has not broken out external TPU hardware revenue. Watch whether the Q3 or Q4 call gives any external TPU figure.\nThe Q3 release says &quot;TPU systems sales were also a meaningful contributor&quot; to Cloud's 103% growth, but it gives no TPU revenue figure.\nOn 12 November a 72-point post cited a Bloomberg Intelligence forecast of TPU sales rising from about $12 billion in 2026 to more than $135 billion by 2028; only an aggregator citing InfoMoney was found for it.\nOn 9 November Google's TPU 8tx and 8i Max post said TPUs have &quot;nearly 100 customers&quot; and can now be deployed in customers' own data centres; it gives no revenue or terms.\nOn 16 November Google posted MLPerf Training v6.1 results for Ironwood TPUs. These are its own submissions, and they include the first agentic-RL benchmark. They give no revenue, pricing or customers (<a href=\"https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/training-performance-benchmarks-tpus/\" target=\"_blank\" rel=\"noopener noreferrer\">post</a>).</p>",
-          "text": "External TPU sales are the sub's next growth thesis, and Evercore ISI's note is what it rests on. The firm reaffirmed Outperform with a $450 target and, per secondary coverage, projects external TPU sales at roughly 35% of Google Cloud revenue in 2027 — $75 billion in 2027 and $113 billion in 2028 — with Cloud revenue raised to $213 billion from $180 billion. These are one firm's estimates, not Alphabet guidance; Alphabet has not broken out external TPU hardware revenue. Watch whether the Q3 or Q4 call gives any external TPU figure. The Q3 release says \"TPU systems sales were also a meaningful contributor\" to Cloud's 103% growth, but it gives no TPU revenue figure. On 12 November a 72-point post cited a Bloomberg Intelligence forecast of TPU sales rising from about $12 billion in 2026 to more than $135 billion by 2028; only an aggregator citing InfoMoney was found for it. On 9 November Google's TPU 8tx and 8i Max post said TPUs have \"nearly 100 customers\" and can now be deployed in customers' own data centres; it gives no revenue or terms. On 16 November Google posted MLPerf Training v6.1 results for Ironwood TPUs. These are its own submissions, and they include the first agentic-RL benchmark. They give no revenue, pricing or customers ( post ). Reported · the note is paywalled; figures from Evercore coverage via TradingView ; the release wording Verified · 2026-10-30",
+          "html": "<p><strong>External TPU sales are the sub's next growth thesis, and Evercore ISI's note is what it rests on.</strong> The firm reaffirmed Outperform with a $450 target and, per secondary coverage, projects external TPU sales at roughly 35% of Google Cloud revenue in 2027 — $75 billion in 2027 and $113 billion in 2028 — with Cloud revenue raised to $213 billion from $180 billion. These are one firm's estimates, not Alphabet guidance; Alphabet has not broken out external TPU hardware revenue. Watch whether the Q3 or Q4 call gives any external TPU figure.\nThe Q3 release says &quot;TPU systems sales were also a meaningful contributor&quot; to Cloud's 103% growth, but it gives no TPU revenue figure.\nOn 12 November a 72-point post cited a Bloomberg Intelligence forecast of TPU sales rising from about $12 billion in 2026 to more than $135 billion by 2028; only an aggregator citing InfoMoney was found for it.\nOn 9 November Google's TPU 8tx and 8i Max post said TPUs have &quot;nearly 100 customers&quot; and can now be deployed in customers' own data centres; it gives no revenue or terms.\nOn 16 November Google posted MLPerf Training v6.1 results for Ironwood TPUs. These are its own submissions, and they include the first agentic-RL benchmark. They give no revenue, pricing or customers (<a href=\"https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/training-performance-benchmarks-tpus/\" target=\"_blank\" rel=\"noopener noreferrer\">post</a>).\nOn 22 November a link post claimed Google is cutting Broadcom-designed TPU plans and eyeing more MediaTek chips; the article was not found and neither company was seen commenting (Unconfirmed).</p>",
+          "text": "External TPU sales are the sub's next growth thesis, and Evercore ISI's note is what it rests on. The firm reaffirmed Outperform with a $450 target and, per secondary coverage, projects external TPU sales at roughly 35% of Google Cloud revenue in 2027 — $75 billion in 2027 and $113 billion in 2028 — with Cloud revenue raised to $213 billion from $180 billion. These are one firm's estimates, not Alphabet guidance; Alphabet has not broken out external TPU hardware revenue. Watch whether the Q3 or Q4 call gives any external TPU figure. The Q3 release says \"TPU systems sales were also a meaningful contributor\" to Cloud's 103% growth, but it gives no TPU revenue figure. On 12 November a 72-point post cited a Bloomberg Intelligence forecast of TPU sales rising from about $12 billion in 2026 to more than $135 billion by 2028; only an aggregator citing InfoMoney was found for it. On 9 November Google's TPU 8tx and 8i Max post said TPUs have \"nearly 100 customers\" and can now be deployed in customers' own data centres; it gives no revenue or terms. On 16 November Google posted MLPerf Training v6.1 results for Ironwood TPUs. These are its own submissions, and they include the first agentic-RL benchmark. They give no revenue, pricing or customers ( post ). On 22 November a link post claimed Google is cutting Broadcom-designed TPU plans and eyeing more MediaTek chips; the article was not found and neither company was seen commenting (Unconfirmed). Reported · the note is paywalled; figures from Evercore coverage via TradingView ; the release wording Verified · 2026-10-30",
           "status": "reported",
           "status_html": "<p>Reported · the note is paywalled; figures from <a href=\"https://www.tradingview.com/news/seekingalpha:554b9cca8094b:0-evercore-raises-alphabet-estimates-on-potential-tpu-hardware-sales/\" target=\"_blank\" rel=\"noopener noreferrer\">Evercore coverage via TradingView</a>; the release wording <strong>Verified</strong> · 2026-10-30</p>",
           "updated": "2026-10-30",
