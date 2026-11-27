@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-22",
+  "generated": "2026-11-26",
   "meta": {
     "feed": "goog_stock",
     "title": "GOOG Stock Digest",
@@ -21,6 +21,187 @@
     "source_note": "from Reddit's hot threads"
   },
   "digests": [
+    {
+      "date": "2026-11-26",
+      "title": "GOOG stock digest",
+      "intro_html": "<p>The sub spent this run on the drawdown: posters call GOOG &quot;14% down YTD&quot;, argue over whether negative free cash flow started it, and keep returning to Gemini adoption. Google's filings answered one open question, because Alphabet closed its Canadian-dollar notes on 24 November. Everything else here is posters' claims.</p>",
+      "sections": [
+        {
+          "heading": "Must know",
+          "category": "mustknow",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Alphabet closed C$6 billion of Canadian-dollar senior notes on 24 November, according to its 8-K filed that day.</strong>",
+              "html": "<p><strong>Alphabet closed C$6 billion of Canadian-dollar senior notes on 24 November, according to its 8-K filed that day.</strong> It is the settlement of the four tranches priced on 19 November, and no thread read mentions it.</p>\n<ul>\n<li><strong>Why it matters:</strong> It is more borrowing by a company whose spending the sub blames for its fall. In <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1y580sv/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;This all began with negative FCF&quot;</a> (34 points), the poster says the drawdown &quot;began with negative fcf&quot; and &quot;dilution and debt financing further eroded sentiment&quot;. The top replies, at 16 and 10 points, split: one says macro drives it more than cash flow, another says it is &quot;widely known&quot; and cites Microsoft. Both are commenters' readings.</li>\n<li><strong>What to watch:</strong> the first interest date of 24 May 2027 and the Q4 call, where the CFO promised capex details for 2027. The call date has not been announced.</li>\n<li><strong>Numbers:</strong> The 8-K lists C$2,000,000,000 of 4.100% notes due 2029, C$1,250,000,000 of 4.800% due 2034, C$1,500,000,000 of 5.325% due 2038 and C$1,250,000,000 of 6.000% due 2066. The 424B2 gives net proceeds of &quot;approximately C$5.97 billion in the aggregate&quot;, for &quot;general corporate purposes, which may include repaying outstanding debt&quot;.</li>\n<li><strong>Caveats:</strong> The 8-K does not say what the money will fund. The notes are not listed on any exchange. Only the first 40,000 or so of the 424B2's roughly 250,000 characters were read verbatim, so the offering prices and underwriting discounts in it are not repeated here.</li>\n<li><strong>Read next:</strong> <a href=\"https://www.sec.gov/Archives/edgar/data/1652044/000119312526475973/d91615d8k.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the 8-K of 24 November</a>.</li>\n</ul>",
+              "text": "Alphabet closed C$6 billion of Canadian-dollar senior notes on 24 November, according to its 8-K filed that day. It is the settlement of the four tranches priced on 19 November, and no thread read mentions it. Why it matters: It is more borrowing by a company whose spending the sub blames for its fall. In \"This all began with negative FCF\" (34 points), the poster says the drawdown \"began with negative fcf\" and \"dilution and debt financing further eroded sentiment\". The top replies, at 16 and 10 points, split: one says macro drives it more than cash flow, another says it is \"widely known\" and cites Microsoft. Both are commenters' readings. What to watch: the first interest date of 24 May 2027 and the Q4 call, where the CFO promised capex details for 2027. The call date has not been announced. Numbers: The 8-K lists C$2,000,000,000 of 4.100% notes due 2029, C$1,250,000,000 of 4.800% due 2034, C$1,500,000,000 of 5.325% due 2038 and C$1,250,000,000 of 6.000% due 2066. The 424B2 gives net proceeds of \"approximately C$5.97 billion in the aggregate\", for \"general corporate purposes, which may include repaying outstanding debt\". Caveats: The 8-K does not say what the money will fund. The notes are not listed on any exchange. Only the first 40,000 or so of the 424B2's roughly 250,000 characters were read verbatim, so the offering prices and underwriting discounts in it are not repeated here. Read next: the 8-K of 24 November . Verified against Alphabet's 8-K, Item 8.01, filed 24 November",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against Alphabet's 8-K, Item 8.01, filed 24 November</p>",
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock",
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "AI models and products",
+          "category": "ai",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>A link post says Sundar Pichai announced that a new Gemini model &quot;just reached a major milestone&quot;.</strong>",
+              "html": "<p><strong>A link post says Sundar Pichai announced that a new Gemini model &quot;just reached a major milestone&quot;.</strong> The post (79 points) is a LinkedIn News link and its text could not be read. The only detail is a commenter's quote: &quot;paid APIs and Antigravity tokens/day are up 82% since Argon launched&quot;, which another commenter reads as growth in revenue-linked usage. A reply at -21 points says &quot;show us the fucking revenue&quot;. A search found no Pichai statement or Google post with that figure.</p>",
+              "text": "A link post says Sundar Pichai announced that a new Gemini model \"just reached a major milestone\". The post (79 points) is a LinkedIn News link and its text could not be read. The only detail is a commenter's quote: \"paid APIs and Antigravity tokens/day are up 82% since Argon launched\", which another commenter reads as growth in revenue-linked usage. A reply at -21 points says \"show us the fucking revenue\". A search found no Pichai statement or Google post with that figure. Unconfirmed · the 82% figure appears only in a comment; Google's blog feed to 26 November and a web search did not show it",
+              "status": "unconfirmed",
+              "status_html": "<p><strong>Unconfirmed</strong> · the 82% figure appears only in a comment; Google's blog feed to 26 November and a web search did not show it</p>",
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Posters in a 160-comment thread say Gemini is now used widely, answering a poster who knows no one using it.</strong>",
+              "html": "<p><strong>Posters in a 160-comment thread say Gemini is now used widely, answering a poster who knows no one using it.</strong> In <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1y5qebo/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;Bought some GOOG today…&quot;</a> (64 points), the top replies call Gemini &quot;an AI navigator of the internet&quot; and say &quot;Gemini 4 Neon is a game changer&quot;. One commenter says it &quot;actually dropped a really cracked model for coding&quot; and that their work team is trying it. A commenter claims &quot;Gemini has 1 billion active users&quot;; no source was given. The poster's worry that free consumer AI &quot;is basically a money burning machine&quot; drew no figures in reply.</p>",
+              "text": "Posters in a 160-comment thread say Gemini is now used widely, answering a poster who knows no one using it. In \"Bought some GOOG today…\" (64 points), the top replies call Gemini \"an AI navigator of the internet\" and say \"Gemini 4 Neon is a game changer\". One commenter says it \"actually dropped a really cracked model for coding\" and that their work team is trying it. A commenter claims \"Gemini has 1 billion active users\"; no source was given. The poster's worry that free consumer AI \"is basically a money burning machine\" drew no figures in reply. Single source · anecdotes and one unsourced user count; Neon's availability is already in the tracker",
+              "status": "single-source",
+              "status_html": "<p>Single source · anecdotes and one unsourced user count; Neon's availability is already in the tracker</p>",
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Analyst coverage",
+          "category": "analysts",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>A poster relays an alternative-data note from MScience on X, saying Q4 ad revenue is tracking about 2.4% below consensus.</strong>",
+              "html": "<p><strong>A poster relays an alternative-data note from MScience on X, saying Q4 ad revenue is tracking about 2.4% below consensus.</strong> The post (0 points, 7 comments) gives $87.73B against $89.89B, search and other at +7.6% year on year against +12.0% in Q3, and YouTube ads at 7.5%. A commenter calls MScience an alternative-data provider used by institutions; another says the next debate is whether FY27 search estimates fall. The note itself was not read.</p>",
+              "text": "A poster relays an alternative-data note from MScience on X, saying Q4 ad revenue is tracking about 2.4% below consensus. The post (0 points, 7 comments) gives $87.73B against $89.89B, search and other at +7.6% year on year against +12.0% in Q3, and YouTube ads at 7.5%. A commenter calls MScience an alternative-data provider used by institutions; another says the next debate is whether FY27 search estimates fall. The note itself was not read. Single source · figures as posted from a tweet; neither the note nor Alphabet has confirmed them",
+              "status": "single-source",
+              "status_html": "<p>Single source · figures as posted from a tweet; neither the note nor Alphabet has confirmed them</p>",
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Valuation and price action",
+          "category": "valuation",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Posters say GOOG is &quot;14% down YTD&quot;, and one lays out a path to a $285 target for 31 December 2026.</strong>",
+              "html": "<p><strong>Posters say GOOG is &quot;14% down YTD&quot;, and one lays out a path to a $285 target for 31 December 2026.</strong> In <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1y44bs3/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;Realistic Expectations&quot;</a> (26 points), the poster assumes Alphabet regains a 20% premium to the S&amp;P 500 forward multiple, with 2027 EPS of $15.00 at 19x, and says it trades near 18x forward earnings after a 30% drawdown. Those are the poster's assumptions and figures. A separate post predicts the year-end price &quot;stuck around 270&quot;.</p>",
+              "text": "Posters say GOOG is \"14% down YTD\", and one lays out a path to a $285 target for 31 December 2026. In \"Realistic Expectations\" (26 points), the poster assumes Alphabet regains a 20% premium to the S&P 500 forward multiple, with 2027 EPS of $15.00 at 19x, and says it trades near 18x forward earnings after a 30% drawdown. Those are the poster's assumptions and figures. A separate post predicts the year-end price \"stuck around 270\". Single source · every figure is as posted and was not checked",
+              "status": "single-source",
+              "status_html": "<p>Single source · every figure is as posted and was not checked</p>",
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>The sub blames the market as much as Google.</strong>",
+              "html": "<p><strong>The sub blames the market as much as Google.</strong> In <a href=\"https://www.reddit.com/r/GOOG_Stock/comments/1y57b39/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;GOOG in for a brutal day today&quot;</a> (87 points), the top reply, at 56 points, blames new tariffs, and others say Alphabet fell more than the market because of its Anthropic shares or a remark by Yahoo's chief executive about AI search. None was sourced. A mod thread request for a daily thread was answered; the 26 November daily thread has 3 comments.</p>",
+              "text": "The sub blames the market as much as Google. In \"GOOG in for a brutal day today\" (87 points), the top reply, at 56 points, blames new tariffs, and others say Alphabet fell more than the market because of its Anthropic shares or a remark by Yahoo's chief executive about AI search. None was sourced. A mod thread request for a daily thread was answered; the 26 November daily thread has 3 comments. Single source · opinion",
+              "status": "single-source",
+              "status_html": "<p>Single source · opinion</p>",
+              "updated": null,
+              "sources": [
+                "r/GOOG_Stock"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> GOOG_Stock (23 posts in the scan; comments read on seven threads).",
+              "html": "<p><strong>Read:</strong> GOOG_Stock (23 posts in the scan; comments read on seven threads). <strong>Sources checked:</strong> Alphabet's SEC filings on EDGAR, read through the web-fetch agent. Google's blog, read through its RSS feed (last built 26 November). Alphabet investor relations: loaded, but its Earnings and News lists were empty, so no Q4 date was seen. The Gemini models blog index showed navigation only; the RSS feed covered it. The Google Cloud AI blog index has no dates, so nothing could be placed in the window.</p>",
+              "text": "Read: GOOG_Stock (23 posts in the scan; comments read on seven threads). Sources checked: Alphabet's SEC filings on EDGAR, read through the web-fetch agent. Google's blog, read through its RSS feed (last built 26 November). Alphabet investor relations: loaded, but its Earnings and News lists were empty, so no Q4 date was seen. The Gemini models blog index showed navigation only; the RSS feed covered it. The Google Cloud AI blog index has no dates, so nothing could be placed in the window.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong>",
+              "html": "<p><strong>Announced, not discussed:</strong></p>\n<ul>\n<li><strong>Alphabet filed a Form 4 on 23 November, a CERT on 23 November approving securities for listing, and a 424B2 on 23 November.</strong> The 8-A12B of 20 November was already noted in the last entry. These were not opened beyond the 424B2.</li>\n<li><strong>Google launched a Humanity's First Exam and Kaggle hackathon on 24 November, and posted &quot;See what 5 builders are making with Gemini 4 Neon&quot; the same day.</strong> Neon's launch is already in the tracker.</li>\n<li><strong>Also on Google's blog since 22 November:</strong> a more tailored Search using personal intelligence (23 November), file slicing controls in the Gemini API (23 November), Gemini Canvas tips, Google Photos holiday updates, a Hydrogen builders post, a Golden State Warriors Gemini story, a Google Flow film post, the King's Cross London expansion, and Colombia talent investment. These were not opened.</li>\n</ul>",
+              "text": "Announced, not discussed: Alphabet filed a Form 4 on 23 November, a CERT on 23 November approving securities for listing, and a 424B2 on 23 November. The 8-A12B of 20 November was already noted in the last entry. These were not opened beyond the 424B2. Google launched a Humanity's First Exam and Kaggle hackathon on 24 November, and posted \"See what 5 builders are making with Gemini 4 Neon\" the same day. Neon's launch is already in the tracker. Also on Google's blog since 22 November: a more tailored Search using personal intelligence (23 November), file slicing controls in the Gemini API (23 November), Gemini Canvas tips, Google Photos holiday updates, a Hydrogen builders post, a Golden State Warriors Gemini story, a Google Flow film post, the King's Cross London expansion, and Colombia talent investment. These were not opened. Verified against the EDGAR filing list as read on 26 November Status: Verified against Google's blog RSS feed, titles only, e.g. Humanity's First Exam Status: Verified against Google's blog RSS feed",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against the EDGAR filing list as read on 26 November Status: <strong>Verified</strong> against Google's blog RSS feed, titles only, e.g. <a href=\"https://blog.google/innovation-and-ai/models-and-research/google-deepmind/humanitys-first-exam/\" target=\"_blank\" rel=\"noopener noreferrer\">Humanity's First Exam</a> Status: <strong>Verified</strong> against Google's blog RSS feed</p>",
+              "updated": null,
+              "sources": [
+                "Google"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong> the scan flagged none.",
+              "html": "<p><strong>Flagged terms set aside:</strong> the scan flagged none. &quot;GGLL&quot; appears in a position question and was skipped under this feed's guidance.</p>",
+              "text": "Flagged terms set aside: the scan flagged none. \"GGLL\" appears in a position question and was skipped under this feed's guidance.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "Hot lists could not cover 2026-11-22 to 2026-11-26; official sources were checked for that window.",
+              "html": "<p>Hot lists could not cover 2026-11-22 to 2026-11-26; official sources were checked for that window.</p>",
+              "text": "Hot lists could not cover 2026-11-22 to 2026-11-26; official sources were checked for that window.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "Skipped under this feed&#x27;s guidance: position and timing posts (&quot;Google is the best long-term company to hold!&quot;, &quot;How Much Have You Bought…&quot;, &quot;Thoughts on GGL…",
+              "html": "<p>Skipped under this feed's guidance: position and timing posts (&quot;Google is the best long-term company to hold!&quot;, &quot;How Much Have You Bought…&quot;, &quot;Thoughts on GGLL?&quot;, &quot;Google wants to ride&quot;, &quot;Dear institutions. Just let $280 happen&quot;), the YouTube share-of-viewing chart post (replies are personal use), &quot;YouTube in video ads&quot;, the US-data-centre link post (no readable content; replies say existing capacity benefits), &quot;What hold it has compared to other MAG 7&quot;, the TPU Broadcom and MediaTek post already covered on 22 November, and the Gemini 4 Neon gallery post already covered.</p>",
+              "text": "Skipped under this feed's guidance: position and timing posts (\"Google is the best long-term company to hold!\", \"How Much Have You Bought…\", \"Thoughts on GGLL?\", \"Google wants to ride\", \"Dear institutions. Just let $280 happen\"), the YouTube share-of-viewing chart post (replies are personal use), \"YouTube in video ads\", the US-data-centre link post (no readable content; replies say existing capacity benefits), \"What hold it has compared to other MAG 7\", the TPU Broadcom and MediaTek post already covered on 22 November, and the Gemini 4 Neon gallery post already covered.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-22",
       "title": "GOOG stock digest",
@@ -2701,19 +2882,6 @@
       "lead_html": null,
       "items": [
         {
-          "headline": "<strong>Alphabet priced four tranches of Canadian-dollar senior notes on 19 November 2026, settling 24 November.</strong>",
-          "html": "<p><strong>Alphabet priced four tranches of Canadian-dollar senior notes on 19 November 2026, settling 24 November.</strong> The term sheet lists C$2,000,000,000 of 4.100% notes due 2029, C$1,250,000,000 of 4.800% due 2034, C$1,500,000,000 of 5.325% due 2038 and C$1,250,000,000 of 6.000% due 2066, rated Aa2 by Moody's and AA+ by S&amp;P, for &quot;general corporate purposes&quot;. The preliminary supplement also describes a floating-rate series that the term sheet does not list. Watch the settlement and any later 8-K.</p>",
-          "text": "Alphabet priced four tranches of Canadian-dollar senior notes on 19 November 2026, settling 24 November. The term sheet lists C$2,000,000,000 of 4.100% notes due 2029, C$1,250,000,000 of 4.800% due 2034, C$1,500,000,000 of 5.325% due 2038 and C$1,250,000,000 of 6.000% due 2066, rated Aa2 by Moody's and AA+ by S&P, for \"general corporate purposes\". The preliminary supplement also describes a floating-rate series that the term sheet does not list. Watch the settlement and any later 8-K. Verified against Alphabet's FWP of 20 November · the 424B5 was only partly read · 2026-11-22",
-          "status": "verified",
-          "status_html": "<p><strong>Verified</strong> against Alphabet's <a href=\"https://www.sec.gov/Archives/edgar/data/1652044/000119312526469213/d21316dfwp.htm\" target=\"_blank\" rel=\"noopener noreferrer\">FWP</a> of 20 November · the 424B5 was only partly read · 2026-11-22</p>",
-          "updated": "2026-11-22",
-          "sources": [
-            "SEC filing"
-          ],
-          "due": "2026-11-24",
-          "due_label": "settlement"
-        },
-        {
           "headline": "<strong>Constellation nuclear agreements.</strong>",
           "html": "<p><strong>Constellation nuclear agreements.</strong> A 20-year deal covers 890 MW of new capacity from upgrades at 11 reactors, with the first expected by 2028. A 15-year agreement covers 2,700 MW of existing capacity.</p>",
           "text": "Constellation nuclear agreements. A 20-year deal covers 890 MW of new capacity from upgrades at 11 reactors, with the first expected by 2028. A 15-year agreement covers 2,700 MW of existing capacity. Verified against Constellation's release · 2026-10-08",
@@ -2801,6 +2969,19 @@
           "updated": "2026-11-18",
           "sources": [
             "isomorphiclabs.com"
+          ],
+          "due": null,
+          "due_label": null
+        },
+        {
+          "headline": "<strong>Alphabet priced four tranches of Canadian-dollar senior notes on 19 November 2026 and closed C$6 billion of them on 24 November.</strong>",
+          "html": "<p><strong>Alphabet priced four tranches of Canadian-dollar senior notes on 19 November 2026 and closed C$6 billion of them on 24 November.</strong> The 8-K lists C$2,000,000,000 of 4.100% notes due 2029, C$1,250,000,000 of 4.800% due 2034, C$1,500,000,000 of 5.325% due 2038 and C$1,250,000,000 of 6.000% due 2066, for &quot;general corporate purposes&quot;, with net proceeds of about C$5.97 billion per the prospectus supplement. The notes are unlisted. The first interest date is 24 May 2027. Watch the Q4 call for 2027 capex and financing plans.</p>",
+          "text": "Alphabet priced four tranches of Canadian-dollar senior notes on 19 November 2026 and closed C$6 billion of them on 24 November. The 8-K lists C$2,000,000,000 of 4.100% notes due 2029, C$1,250,000,000 of 4.800% due 2034, C$1,500,000,000 of 5.325% due 2038 and C$1,250,000,000 of 6.000% due 2066, for \"general corporate purposes\", with net proceeds of about C$5.97 billion per the prospectus supplement. The notes are unlisted. The first interest date is 24 May 2027. Watch the Q4 call for 2027 capex and financing plans. Verified against Alphabet's 8-K of 24 November · 2026-11-26",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> against Alphabet's <a href=\"https://www.sec.gov/Archives/edgar/data/1652044/000119312526475973/d91615d8k.htm\" target=\"_blank\" rel=\"noopener noreferrer\">8-K of 24 November</a> · 2026-11-26</p>",
+          "updated": "2026-11-26",
+          "sources": [
+            "SEC filing"
           ],
           "due": null,
           "due_label": null
@@ -2894,6 +3075,17 @@
             "fourweekmba.com",
             "SEC filing"
           ],
+          "due": null,
+          "due_label": null
+        },
+        {
+          "headline": "<strong>A post says MScience's alternative data has Q4 advertising revenue tracking about 2.4% below consensus.</strong>",
+          "html": "<p><strong>A post says MScience's alternative data has Q4 advertising revenue tracking about 2.4% below consensus.</strong> Relayed from a tweet on 26 November: $87.73B against $89.89B, search and other up 7.6% against 12.0% in Q3, and YouTube ads up 7.5%. These are the data provider's estimates, not Alphabet figures. Watch Alphabet's Q4 results, whose date has not been announced.</p>",
+          "text": "A post says MScience's alternative data has Q4 advertising revenue tracking about 2.4% below consensus. Relayed from a tweet on 26 November: $87.73B against $89.89B, search and other up 7.6% against 12.0% in Q3, and YouTube ads up 7.5%. These are the data provider's estimates, not Alphabet figures. Watch Alphabet's Q4 results, whose date has not been announced. Single source · figures as posted; the note was not read · 2026-11-26",
+          "status": "single-source",
+          "status_html": "<p>Single source · figures as posted; the note was not read · 2026-11-26</p>",
+          "updated": "2026-11-26",
+          "sources": [],
           "due": null,
           "due_label": null
         }
